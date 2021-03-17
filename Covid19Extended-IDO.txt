@@ -1,0 +1,3055 @@
+Source Class, Target Class, Score
+Country,B cell receptor complex,0.55
+Country,three-dimensional spatial region,0.5525641025641026
+Country,communicability start temporal region,0.5863636363636363
+Country,incubation end temporal region,0.5851351351351352
+Country,infection incidence rate,0.5790322580645162
+Country,infectious disease mortality rate,0.575
+Country,one-dimensional spatial region,0.5581081081081081
+Country,GEO_000000371,0.5
+Country,latency end process boundary,0.6214285714285714
+Country,infection incidence proportion profile,0.5611111111111111
+Country,establishment of a clinically abnormal colony,0.5269230769230769
+Country,temporal region,0.5409090909090909
+Country,geospatial region,0.575
+Country,incubation end process boundary,0.6078947368421053
+Country,latency end temporal region,0.5676470588235294
+Country,Country,0.95
+Country,infection end temporal region,0.5888888888888889
+Country,two-dimensional spatial region,0.5581081081081081
+Country,zero-dimensional spatial region,0.5552631578947369
+Country,cell space,0.5088235294117647
+Country,communicability end process boundary,0.6127906976744186
+Country,infection start temporal region,0.581578947368421
+Country,infection incidence proportion,0.5581081081081081
+Country,pathogen birth temporal region,0.5581081081081081
+Country,communicability end temporal region,0.5928571428571429
+Country,infectious disease incidence proportion,0.558695652173913
+Country,T cell receptor complex,0.55
+Country,GEO_000000370,0.5
+Country,CL_0000000,0.5088235294117647
+Country,pathogen death temporal region,0.5581081081081081
+Country,zero-dimensional temporal region,0.5525641025641026
+Country,country,0.95
+Country,infection incidence rate profile,0.5782051282051281
+Country,infectious disease incidence rate,0.575
+Country,geographical region,0.5653846153846154
+Country,GEO_000000372,0.5
+Country,anatomical space,0.5369565217391304
+Country,spatial region,0.5452380952380953
+Country,simple infection,0.5804347826086956
+Country,one-dimensional temporal region,0.5552631578947369
+Country,spatiotemporal region,0.5571428571428572
+Patient,B cell receptor complex,0.55
+Patient,ERO_0000347,0.5055555555555555
+Patient,incubation end temporal region,0.6121621621621621
+Patient,infection incidence rate,0.6112903225806451
+Patient,infectious disease mortality rate,0.55
+Patient,passive immunity to infectious agent,0.6127906976744186
+Patient,generically dependent continuant,0.5782051282051281
+Patient,latency end process boundary,0.5642857142857143
+Patient,passive immunization against infectious agent,0.5846153846153846
+Patient,establishment of a clinically abnormal colony,0.5461538461538461
+Patient,ribonucleic acid,0.5369565217391304
+Patient,incubation end process boundary,0.581578947368421
+Patient,latency end temporal region,0.5970588235294118
+Patient,infection end temporal region,0.5888888888888889
+Patient,nucleic acid,0.5552631578947369
+Patient,specifically dependent continuant,0.6
+Patient,communicability end process boundary,0.5430232558139535
+Patient,ERO_0000006,0.5055555555555555
+Patient,communicability end temporal region,0.569047619047619
+Patient,case isolation control strategy,0.581578947368421
+Patient,T cell receptor complex,0.55
+Patient,infection incidence rate profile,0.5782051282051281
+Patient,deoxyribonucleic acid,0.5214285714285714
+Patient,infectious disease incidence rate,0.575
+PM_Swanidhi,establishment of a clinically abnormal colony,0.5392857142857143
+PM_Swanidhi,T cell receptor complex,0.5088235294117647
+Doubtfull,B cell receptor complex,0.54375
+Doubtfull,T cell receptor complex,0.54375
+Cooperative_Banks,B cell receptor complex,0.575
+Cooperative_Banks,ERO_0000347,0.5571428571428572
+Cooperative_Banks,object aggregate,0.6318181818181818
+Cooperative_Banks,incubation end temporal region,0.6202127659574468
+Cooperative_Banks,infection incidence rate,0.6207317073170732
+Cooperative_Banks,infectious structure aggregate,0.598936170212766
+Cooperative_Banks,infectious disease mortality rate,0.61
+Cooperative_Banks,generically dependent continuant,0.5928571428571429
+Cooperative_Banks,latency end process boundary,0.6055555555555556
+Cooperative_Banks,acellular structure aggregate,0.6021739130434782
+Cooperative_Banks,establishment of a clinically abnormal colony,0.5790322580645162
+Cooperative_Banks,reservoir of pathogen role,0.6127906976744186
+Cooperative_Banks,incubation end process boundary,0.6166666666666667
+Cooperative_Banks,collective resistance disposition,0.67
+Cooperative_Banks,latency end temporal region,0.5863636363636363
+Cooperative_Banks,infection end temporal region,0.6021739130434782
+Cooperative_Banks,specifically dependent continuant,0.59
+Cooperative_Banks,active immunization against infectious agent,0.5975409836065574
+Cooperative_Banks,communicability end process boundary,0.6009433962264151
+Cooperative_Banks,ERO_0000006,0.5571428571428572
+Cooperative_Banks,communicability end temporal region,0.6038461538461539
+Cooperative_Banks,T cell receptor complex,0.575
+Cooperative_Banks,CL_0000000,0.524074074074074
+Cooperative_Banks,infection incidence rate profile,0.6132653061224489
+Cooperative_Banks,infectious agent reservoir,0.6127906976744186
+Cooperative_Banks,collective disposition,0.6807692307692308
+Cooperative_Banks,infectious disease incidence rate,0.61
+Cooperative_Banks,symbiotic process,0.5970588235294118
+Cooperative_Banks,collective pathogenic disposition,0.67
+BankingRelationShip,B cell receptor complex,0.5928571428571429
+BankingRelationShip,establishment of a clinically abnormal colony,0.590625
+BankingRelationShip,T cell receptor complex,0.569047619047619
+RBd3rcWt9QqVoT4OMScWPmr,B cell receptor complex,0.6239130434782608
+RBd3rcWt9QqVoT4OMScWPmr,T cell receptor complex,0.6021739130434782
+InfectedBrother,B cell receptor complex,0.6078947368421053
+InfectedBrother,infected population,0.7441176470588234
+InfectedBrother,T cell receptor complex,0.6078947368421053
+ExposureViaCongregation,establishment of a clinically abnormal colony,0.5970588235294118
+ExposureViaCongregation,T cell receptor complex,0.6021739130434782
+RdAsLc5UxSB5GO0siRrhu6,B cell receptor complex,0.5388888888888889
+RdAsLc5UxSB5GO0siRrhu6,GO_0019814,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0051093,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0048525,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0008150,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0050777,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0065007,0.575
+RdAsLc5UxSB5GO0siRrhu6,establishment of a clinically abnormal colony,0.5544776119402985
+RdAsLc5UxSB5GO0siRrhu6,GO_0006959,0.575
+RdAsLc5UxSB5GO0siRrhu6,GO_0006955,0.575
+RdAsLc5UxSB5GO0siRrhu6,GO_0044409,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0002443,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0032502,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0032991,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0045087,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0048519,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0044403,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0051234,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0002250,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0042101,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0044411,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0019815,0.54375
+RdAsLc5UxSB5GO0siRrhu6,GO_0044406,0.575
+AtmNirbhor,B cell receptor complex,0.5409090909090909
+AtmNirbhor,establishment of a clinically abnormal colony,0.5772727272727273
+AtmNirbhor,T cell receptor complex,0.5712121212121213
+Cluster,B cell receptor complex,0.5833333333333334
+Cluster,exotoxin disposition,0.524074074074074
+Cluster,object aggregate,0.5804347826086956
+Cluster,invasive disposition,0.524074074074074
+Cluster,zoonotic disposition,0.5611111111111111
+Cluster,infectious structure aggregate,0.6121621621621621
+Cluster,host,0.6318181818181818
+Cluster,fungicidal disposition,0.5879310344827586
+Cluster,adhesion disposition,0.524074074074074
+Cluster,parasiticidal disposition,0.575
+Cluster,neurotoxin disposition,0.553448275862069
+Cluster,definitive host,0.5409090909090909
+Cluster,enterotoxin disposition,0.55
+Cluster,primary infectious disposition,0.5581081081081081
+Cluster,acellular structure aggregate,0.6444444444444444
+Cluster,static agent disposition,0.5467741935483871
+Cluster,pathogenic disposition,0.553448275862069
+Cluster,dead-end host,0.55
+Cluster,action specification,0.5611111111111111
+Cluster,virulence factor disposition,0.5357142857142857
+Cluster,establishment of a clinically abnormal colony,0.5269230769230769
+Cluster,disposition,0.5611111111111111
+Cluster,colonized host,0.6404761904761905
+Cluster,pathogen host,0.55
+Cluster,cidal agent disposition,0.5833333333333334
+Cluster,invasion disposition,0.524074074074074
+Cluster,endotoxin disposition,0.5214285714285714
+Cluster,collective resistance disposition,0.575
+Cluster,transmissibility disposition,0.5357142857142857
+Cluster,dead-end host role,0.57
+Cluster,intermediate host role,0.553448275862069
+Cluster,infectious structure host role,0.6121621621621621
+Cluster,entry into host through host barriers,0.5636363636363636
+Cluster,infectious structure host,0.60625
+Cluster,opportunistic infectious disposition,0.5430232558139535
+Cluster,infectious agent host role,0.6015151515151516
+Cluster,parasitostatic disposition,0.5409090909090909
+Cluster,fungistatic disposition,0.55
+Cluster,infectious agent host,0.5928571428571429
+Cluster,symbiont host role,0.57
+Cluster,cytotoxin disposition,0.5571428571428572
+Cluster,establishment of localization in host,0.5409090909090909
+Cluster,host role,0.6375
+Cluster,reverse zoonotic disposition,0.5357142857142857
+Cluster,colonization of host,0.5981481481481481
+Cluster,T cell receptor complex,0.5833333333333334
+Cluster,CL_0000000,0.5676470588235294
+Cluster,intermediate host,0.575
+Cluster,definitive host role,0.5611111111111111
+Cluster,collective disposition,0.5879310344827586
+Cluster,toxin disposition,0.5333333333333333
+Cluster,adhesion of symbiont to host,0.5071428571428571
+Cluster,bactericidal disposition,0.5790322580645162
+Cluster,bacteriostatic disposition,0.5712121212121213
+Cluster,infectious disposition,0.5879310344827586
+Cluster,pathogen host role,0.57
+Cluster,collective pathogenic disposition,0.55
+Cluster,immunosuppressive disposition,0.5333333333333333
+Cluster,entry into host,0.5409090909090909
+Covid Care Centre (CCC),B cell receptor complex,0.6673913043478261
+Covid Care Centre (CCC),GO_0019814,0.5106060606060606
+Covid Care Centre (CCC),GO_0051093,0.5106060606060606
+Covid Care Centre (CCC),incubation end temporal region,0.619811320754717
+Covid Care Centre (CCC),GO_0048525,0.5106060606060606
+Covid Care Centre (CCC),GO_0008150,0.5106060606060606
+Covid Care Centre (CCC),GO_0050777,0.5106060606060606
+Covid Care Centre (CCC),latency end process boundary,0.6068627450980393
+Covid Care Centre (CCC),GO_0065007,0.5106060606060606
+Covid Care Centre (CCC),infectious disease control strategy,0.6396551724137931
+Covid Care Centre (CCC),action specification,0.5895348837209302
+Covid Care Centre (CCC),establishment of a clinically abnormal colony,0.5823529411764706
+Covid Care Centre (CCC),GO_0006959,0.5106060606060606
+Covid Care Centre (CCC),GO_0006955,0.5106060606060606
+Covid Care Centre (CCC),incubation end process boundary,0.6166666666666667
+Covid Care Centre (CCC),GO_0044409,0.5106060606060606
+Covid Care Centre (CCC),GO_0002443,0.5106060606060606
+Covid Care Centre (CCC),GO_0032502,0.5106060606060606
+Covid Care Centre (CCC),pathogen portal of exit,0.5804347826086956
+Covid Care Centre (CCC),pathogen portal of exit site,0.5872549019607843
+Covid Care Centre (CCC),GO_0032991,0.5106060606060606
+Covid Care Centre (CCC),latency end temporal region,0.61
+Covid Care Centre (CCC),GO_0045087,0.5106060606060606
+Covid Care Centre (CCC),infection end temporal region,0.6038461538461539
+Covid Care Centre (CCC),quarantine control strategy,0.63
+Covid Care Centre (CCC),GO_0048519,0.5106060606060606
+Covid Care Centre (CCC),place closure control strategy,0.6575471698113208
+Covid Care Centre (CCC),GO_0044403,0.5106060606060606
+Covid Care Centre (CCC),GO_0051234,0.5106060606060606
+Covid Care Centre (CCC),communicability end process boundary,0.6364406779661017
+Covid Care Centre (CCC),vector control strategy,0.6456521739130434
+Covid Care Centre (CCC),GO_0002250,0.5106060606060606
+Covid Care Centre (CCC),communicability end temporal region,0.6396551724137931
+Covid Care Centre (CCC),case isolation control strategy,0.6351851851851852
+Covid Care Centre (CCC),T cell receptor complex,0.6673913043478261
+Covid Care Centre (CCC),CL_0000000,0.5106060606060606
+Covid Care Centre (CCC),pathogen portal of exit role,0.6068627450980393
+Covid Care Centre (CCC),infectious disease control objective specification,0.6417808219178082
+Covid Care Centre (CCC),herd immunity to infectious organism,0.5516949152542373
+Covid Care Centre (CCC),GO_0042101,0.5106060606060606
+Covid Care Centre (CCC),GO_0044411,0.5106060606060606
+Covid Care Centre (CCC),GO_0019815,0.5106060606060606
+Covid Care Centre (CCC),GO_0044406,0.5106060606060606
+Foreign_Banks,B cell receptor complex,0.5333333333333333
+Foreign_Banks,ERO_0000347,0.5333333333333333
+Foreign_Banks,incubation end temporal region,0.5895348837209302
+Foreign_Banks,normal resident microbiota population,0.63
+Foreign_Banks,infection incidence rate,0.6121621621621621
+Foreign_Banks,infectious disease mortality rate,0.5804347826086956
+Foreign_Banks,pathogen portal of entry site,0.6166666666666667
+Foreign_Banks,generically dependent continuant,0.5833333333333334
+Foreign_Banks,processed material,0.5790322580645162
+Foreign_Banks,latency end process boundary,0.5719512195121951
+Foreign_Banks,source of infection site,0.6391891891891892
+Foreign_Banks,local infection,0.5928571428571429
+Foreign_Banks,TRANS_0000008,0.6038461538461539
+Foreign_Banks,site,0.5088235294117647
+Foreign_Banks,acellular structure aggregate,0.5452380952380953
+Foreign_Banks,acellular structure,0.54375
+Foreign_Banks,establishment of a clinically abnormal colony,0.5706896551724138
+Foreign_Banks,cell,0.5088235294117647
+Foreign_Banks,reservoir of pathogen role,0.6038461538461539
+Foreign_Banks,incubation end process boundary,0.5863636363636363
+Foreign_Banks,immaterial entity,0.5833333333333334
+Foreign_Banks,material entity,0.5928571428571429
+Foreign_Banks,pathogen portal of exit site,0.5963414634146341
+Foreign_Banks,latency end temporal region,0.575
+Foreign_Banks,TRANS_0000002,0.6038461538461539
+Foreign_Banks,infection end temporal region,0.6166666666666667
+Foreign_Banks,material processing,0.575
+Foreign_Banks,specifically dependent continuant,0.5804347826086956
+Foreign_Banks,cell space,0.5804347826086956
+Foreign_Banks,communicability end process boundary,0.5724489795918367
+Foreign_Banks,site of infection,0.5833333333333334
+Foreign_Banks,extracellular infection,0.5888888888888889
+Foreign_Banks,ERO_0000006,0.5333333333333333
+Foreign_Banks,communicability end temporal region,0.575
+Foreign_Banks,TRANS_0000000,0.6038461538461539
+Foreign_Banks,TRANS_0000007,0.6038461538461539
+Foreign_Banks,T cell receptor complex,0.5333333333333333
+Foreign_Banks,infection incidence rate profile,0.5833333333333334
+Foreign_Banks,infectious agent reservoir,0.6294871794871795
+Foreign_Banks,infectious disease incidence rate,0.6021739130434782
+Foreign_Banks,independent continuant,0.5928571428571429
+ContactWithInfactedBankingStaff,B cell receptor complex,0.5425925925925926
+ContactWithInfactedBankingStaff,contact pathogen transmission process,0.6852941176470588
+ContactWithInfactedBankingStaff,establishment of a clinically abnormal colony,0.6078947368421053
+ContactWithInfactedBankingStaff,T cell receptor complex,0.5425925925925926
+ContactWithInfactedBankingStaff,contact tracing,0.7326086956521739
+InfectedFamilyMember,B cell receptor complex,0.5895348837209302
+InfectedFamilyMember,establishment of a clinically abnormal colony,0.6038461538461539
+InfectedFamilyMember,infected population,0.7064102564102563
+InfectedFamilyMember,T cell receptor complex,0.5895348837209302
+R9l0YWN0aTqPn16MAR8ttyA,establishment of a clinically abnormal colony,0.5529411764705883
+R9l0YWN0aTqPn16MAR8ttyA,T cell receptor complex,0.5152173913043478
+NormalSavingAccount,normal resident microbiota population,0.6821428571428573
+NormalSavingAccount,establishment of a clinically abnormal colony,0.60625
+NormalSavingAccount,T cell receptor complex,0.5452380952380953
+Deposit,B cell receptor complex,0.55
+Deposit,TRANS_0000008,0.5
+Deposit,establishment of a clinically abnormal colony,0.5269230769230769
+Deposit,TRANS_0000002,0.5
+Deposit,plan specification,0.61
+Deposit,place closure control strategy,0.5581081081081081
+Deposit,TRANS_0000000,0.5
+Deposit,TRANS_0000007,0.5
+Deposit,T cell receptor complex,0.55
+Dedicated Covid Health Centre,B cell receptor complex,0.6423076923076922
+Dedicated Covid Health Centre,GO_0019814,0.5012820512820513
+Dedicated Covid Health Centre,object aggregate,0.6277777777777778
+Dedicated Covid Health Centre,GO_0051093,0.5012820512820513
+Dedicated Covid Health Centre,incubation end temporal region,0.6703389830508475
+Dedicated Covid Health Centre,immunoglobulin complex,0.5676470588235294
+Dedicated Covid Health Centre,infection incidence rate,0.6764150943396227
+Dedicated Covid Health Centre,infectious disease mortality rate,0.6596774193548387
+Dedicated Covid Health Centre,GO_0048525,0.5012820512820513
+Dedicated Covid Health Centre,GO_0008150,0.5012820512820513
+Dedicated Covid Health Centre,GO_0050777,0.5012820512820513
+Dedicated Covid Health Centre,latency end process boundary,0.6429824561403508
+Dedicated Covid Health Centre,GO_0065007,0.5012820512820513
+Dedicated Covid Health Centre,TRANS_0000008,0.5214285714285714
+Dedicated Covid Health Centre,establishment of a clinically abnormal colony,0.6121621621621621
+Dedicated Covid Health Centre,GO_0006959,0.5012820512820513
+Dedicated Covid Health Centre,GO_0006955,0.5012820512820513
+Dedicated Covid Health Centre,incubation end process boundary,0.65
+Dedicated Covid Health Centre,GO_0044409,0.5012820512820513
+Dedicated Covid Health Centre,GO_0002443,0.5012820512820513
+Dedicated Covid Health Centre,GO_0032502,0.5012820512820513
+Dedicated Covid Health Centre,GO_0032991,0.5012820512820513
+Dedicated Covid Health Centre,latency end temporal region,0.6642857142857143
+Dedicated Covid Health Centre,TRANS_0000002,0.5214285714285714
+Dedicated Covid Health Centre,GO_0045087,0.5012820512820513
+Dedicated Covid Health Centre,infection end temporal region,0.656896551724138
+Dedicated Covid Health Centre,GO_0048519,0.5012820512820513
+Dedicated Covid Health Centre,GO_0044403,0.5012820512820513
+Dedicated Covid Health Centre,active immunization against infectious agent,0.6280821917808219
+Dedicated Covid Health Centre,GO_0051234,0.5012820512820513
+Dedicated Covid Health Centre,communicability end process boundary,0.6346153846153847
+Dedicated Covid Health Centre,GO_0002250,0.5012820512820513
+Dedicated Covid Health Centre,communicability end temporal region,0.653125
+Dedicated Covid Health Centre,TRANS_0000000,0.5214285714285714
+Dedicated Covid Health Centre,TRANS_0000007,0.5214285714285714
+Dedicated Covid Health Centre,T cell receptor complex,0.6615384615384616
+Dedicated Covid Health Centre,CL_0000000,0.5269230769230769
+Dedicated Covid Health Centre,appearance of disorder,0.6264705882352941
+Dedicated Covid Health Centre,macromolecular complex,0.6068627450980393
+Dedicated Covid Health Centre,infection incidence rate profile,0.6631147540983606
+Dedicated Covid Health Centre,complex infection,0.6021739130434782
+Dedicated Covid Health Centre,GO_0042101,0.5012820512820513
+Dedicated Covid Health Centre,infectious disease incidence rate,0.6758064516129032
+Dedicated Covid Health Centre,object,0.5642857142857143
+Dedicated Covid Health Centre,GO_0044411,0.5012820512820513
+Dedicated Covid Health Centre,GO_0019815,0.5012820512820513
+Dedicated Covid Health Centre,GO_0044406,0.5012820512820513
+Scheduled_Banks,B cell receptor complex,0.581578947368421
+Scheduled_Banks,incubation end temporal region,0.6055555555555556
+Scheduled_Banks,infectious disease course,0.575
+Scheduled_Banks,obligatory symbiont,0.5676470588235294
+Scheduled_Banks,pathogen portal of entry site,0.5863636363636363
+Scheduled_Banks,latency end process boundary,0.6127906976744186
+Scheduled_Banks,source of infection site,0.6038461538461539
+Scheduled_Banks,site,0.5552631578947369
+Scheduled_Banks,establishment of a clinically abnormal colony,0.5833333333333334
+Scheduled_Banks,chronic infectious disease course,0.5958333333333333
+Scheduled_Banks,reservoir of pathogen role,0.5719512195121951
+Scheduled_Banks,acute infectious disease course,0.5804347826086956
+Scheduled_Banks,planned process,0.6166666666666667
+Scheduled_Banks,incubation end process boundary,0.6021739130434782
+Scheduled_Banks,pathogen portal of exit site,0.5895348837209302
+Scheduled_Banks,disease course,0.6224137931034482
+Scheduled_Banks,latency end temporal region,0.5928571428571429
+Scheduled_Banks,plan specification,0.5712121212121213
+Scheduled_Banks,infection end temporal region,0.5863636363636363
+Scheduled_Banks,communicability end process boundary,0.6068627450980393
+Scheduled_Banks,site of infection,0.575
+Scheduled_Banks,communicability end temporal region,0.61
+Scheduled_Banks,T cell receptor complex,0.581578947368421
+Scheduled_Banks,CL_0000000,0.57
+Scheduled_Banks,infectious agent reservoir,0.5963414634146341
+Scheduled_Banks,long-term non-progressing infectious disease course,0.5409090909090909
+Rxyv0iCwqfDNhogth78U1s,T cell receptor complex,0.5166666666666666
+Premises,B cell receptor complex,0.5790322580645162
+Premises,source of infection role,0.575
+Premises,source of infection,0.5981481481481481
+Premises,infection incidence rate,0.54375
+Premises,disease surveillance objective specification,0.5461538461538461
+Premises,infectious disease mortality rate,0.5719512195121951
+Premises,objective specification,0.5790322580645162
+Premises,pathogen portal of entry site,0.5851351351351352
+Premises,source of infection site,0.60625
+Premises,site,0.6166666666666667
+Premises,negative regulation of establishment of localization,0.5333333333333333
+Premises,action specification,0.5571428571428572
+Premises,establishment of a clinically abnormal colony,0.5254716981132076
+Premises,pathogen portal of exit site,0.6166666666666667
+Premises,Country,0.5166666666666666
+Premises,plan specification,0.5653846153846154
+Premises,place closure control strategy,0.581578947368421
+Premises,site of infection,0.57
+Premises,organism substance,0.6038461538461539
+Premises,establishment of localization in host,0.5611111111111111
+Premises,establishment of localization,0.5581081081081081
+Premises,T cell receptor complex,0.5790322580645162
+Premises,infectious disease control objective specification,0.5362068965517242
+Premises,country,0.5166666666666666
+Premises,infection incidence rate profile,0.55
+Premises,infectious disease incidence rate,0.5719512195121951
+Employee,B cell receptor complex,0.6112903225806451
+Employee,source of infection role,0.575
+Employee,static agent,0.5
+Employee,innate immunity to infectious agent,0.5662790697674418
+Employee,infectious agent,0.575
+Employee,incubation end temporal region,0.581578947368421
+Employee,asymptomatic carrier role,0.6015151515151516
+Employee,susceptibility to infectious agent,0.5928571428571429
+Employee,mutualist role,0.6318181818181818
+Employee,pathogen portal of entry role,0.6121621621621621
+Employee,infectious agent population,0.5642857142857143
+Employee,passive immunity to infectious agent,0.5636363636363636
+Employee,pathogen transporter role,0.6015151515151516
+Employee,drug susceptibility of infectious agent,0.5776595744680851
+Employee,latency end process boundary,0.5611111111111111
+Employee,passive immunization against infectious agent,0.5443396226415094
+Employee,pathogen vector role,0.5928571428571429
+Employee,secondary infection role,0.60625
+Employee,static agent disposition,0.54375
+Employee,immunization against infectious agent,0.5388888888888889
+Employee,adhesion factor,0.5369565217391304
+Employee,virulence factor disposition,0.5333333333333333
+Employee,commensal role,0.6318181818181818
+Employee,establishment of a clinically abnormal colony,0.5443396226415094
+Employee,reservoir of pathogen role,0.5970588235294118
+Employee,leukocyte-mediated immunity to infectious agent,0.5409090909090909
+Employee,cidal agent disposition,0.5467741935483871
+Employee,incubation end process boundary,0.5525641025641026
+Employee,biological vector role,0.5833333333333334
+Employee,primary infection role,0.5833333333333334
+Employee,latency end temporal region,0.5928571428571429
+Employee,symbiont role,0.5928571428571429
+Employee,infectious agent generative stage,0.5475609756097561
+Employee,infection end temporal region,0.5851351351351352
+Employee,reagent role,0.6
+Employee,dead-end host role,0.5653846153846154
+Employee,intermediate host role,0.5833333333333334
+Employee,infectious structure host role,0.5552631578947369
+Employee,parasite role,0.5928571428571429
+Employee,symptomatic carrier role,0.60625
+Employee,infectious agent host role,0.5676470588235294
+Employee,active immunization against infectious agent,0.5461538461538461
+Employee,communicability end process boundary,0.5636363636363636
+Employee,vaccination against infectious agent,0.5181818181818182
+Employee,infectious agent host,0.553448275862069
+Employee,role,0.6166666666666667
+Employee,symbiont host role,0.5653846153846154
+Employee,mechanical vector role,0.5833333333333334
+Employee,pathogen vehicle role,0.5879310344827586
+Employee,host role,0.5676470588235294
+Employee,communicability end temporal region,0.5662790697674418
+Employee,symptomatic infectious agent carrier,0.5636363636363636
+Employee,virulence factor,0.575
+Employee,asymptomatic infectious agent carrier,0.5611111111111111
+Employee,T cell receptor complex,0.6112903225806451
+Employee,CL_0000000,0.5055555555555555
+Employee,pathogen portal of exit role,0.6166666666666667
+Employee,definitive host role,0.5571428571428572
+Employee,infectious agent reservoir,0.5676470588235294
+Employee,sterilizing immunity to infectious agent,0.5541666666666667
+Employee,biological role,0.5804347826086956
+Employee,pathogen host role,0.6038461538461539
+Employee,fomite role,0.6078947368421053
+Employee,biological vehicle role,0.5790322580645162
+Employee,cidal agent,0.5552631578947369
+Employee,acquired immunity to infectious agent,0.5611111111111111
+Employee,infectious agent colony,0.5790322580645162
+Employee,humoral immunity to infectious agent,0.5636363636363636
+Doctor,B cell receptor complex,0.5879310344827586
+Doctor,incubation end temporal region,0.5611111111111111
+Doctor,infection incidence rate,0.5833333333333334
+Doctor,infectious disease mortality rate,0.5525641025641026
+Doctor,GEO_000000371,0.5026315789473684
+Doctor,latency end process boundary,0.5970588235294118
+Doctor,TRANS_0000008,0.5552631578947369
+Doctor,establishment of a clinically abnormal colony,0.5284313725490196
+Doctor,incubation end process boundary,0.5851351351351352
+Doctor,latency end temporal region,0.5712121212121213
+Doctor,TRANS_0000002,0.5552631578947369
+Doctor,plan specification,0.575
+Doctor,infection end temporal region,0.5642857142857143
+Doctor,communicability end process boundary,0.569047619047619
+Doctor,communicability end temporal region,0.5719512195121951
+Doctor,TRANS_0000000,0.5552631578947369
+Doctor,TRANS_0000007,0.5552631578947369
+Doctor,T cell receptor complex,0.5879310344827586
+Doctor,GEO_000000370,0.5026315789473684
+Doctor,CL_0000000,0.5125
+Doctor,infection incidence rate profile,0.5552631578947369
+Doctor,infectious disease incidence rate,0.5525641025641026
+Doctor,GEO_000000372,0.5026315789473684
+InfectedViaJob,B cell receptor complex,0.5581081081081081
+InfectedViaJob,establishment of a clinically abnormal colony,0.5686440677966101
+InfectedViaJob,infected population,0.7530303030303032
+InfectedViaJob,T cell receptor complex,0.5581081081081081
+Retail,B cell receptor complex,0.5879310344827586
+Retail,incubation end temporal region,0.5611111111111111
+Retail,latency end process boundary,0.5382352941176471
+Retail,establishment of a clinically abnormal colony,0.5480392156862746
+Retail,incubation end process boundary,0.5310810810810811
+Retail,latency end temporal region,0.5712121212121213
+Retail,infection end temporal region,0.5642857142857143
+Retail,communicability end process boundary,0.5214285714285714
+Retail,communicability end temporal region,0.5475609756097561
+Retail,T cell receptor complex,0.5879310344827586
+Corporate_Lending,B cell receptor complex,0.65
+Corporate_Lending,object aggregate,0.6015151515151516
+Corporate_Lending,incubation end temporal region,0.6627659574468084
+Corporate_Lending,infection incidence rate,0.5963414634146341
+Corporate_Lending,infectious structure aggregate,0.6202127659574468
+Corporate_Lending,infectious disease mortality rate,0.61
+Corporate_Lending,pathogen portal of entry site,0.6456521739130434
+Corporate_Lending,latency end process boundary,0.6277777777777778
+Corporate_Lending,source of infection site,0.6207317073170732
+Corporate_Lending,site,0.5452380952380953
+Corporate_Lending,acellular structure aggregate,0.6239130434782608
+Corporate_Lending,establishment of a clinically abnormal colony,0.5629032258064516
+Corporate_Lending,incubation end process boundary,0.6166666666666667
+Corporate_Lending,collective resistance disposition,0.65
+Corporate_Lending,pathogen portal of exit site,0.6277777777777778
+Corporate_Lending,latency end temporal region,0.6545454545454545
+Corporate_Lending,infection end temporal region,0.6673913043478261
+Corporate_Lending,communicability end process boundary,0.619811320754717
+Corporate_Lending,site of infection,0.6264705882352941
+Corporate_Lending,communicability end temporal region,0.6423076923076922
+Corporate_Lending,T cell receptor complex,0.65
+Corporate_Lending,infection incidence rate profile,0.6336734693877552
+Corporate_Lending,collective disposition,0.6551282051282051
+Corporate_Lending,infectious disease incidence rate,0.61
+Corporate_Lending,collective pathogenic disposition,0.65
+Health_Care_Professional,B cell receptor complex,0.6414893617021277
+Health_Care_Professional,object aggregate,0.625
+Health_Care_Professional,incubation end temporal region,0.6537037037037037
+Health_Care_Professional,immunoglobulin complex,0.558695652173913
+Health_Care_Professional,latency end process boundary,0.7192307692307692
+Health_Care_Professional,TRANS_0000008,0.5310810810810811
+Health_Care_Professional,infectious disease control strategy,0.6194915254237288
+Health_Care_Professional,negative regulation of establishment of localization,0.6473684210526315
+Health_Care_Professional,action specification,0.6318181818181818
+Health_Care_Professional,establishment of a clinically abnormal colony,0.6239130434782608
+Health_Care_Professional,incubation end process boundary,0.7045454545454546
+Health_Care_Professional,pathogen portal of exit,0.6840425531914894
+Health_Care_Professional,pathogen portal of exit site,0.6807692307692308
+Health_Care_Professional,latency end temporal region,0.6656862745098039
+Health_Care_Professional,TRANS_0000002,0.5310810810810811
+Health_Care_Professional,infection end temporal region,0.6575471698113208
+Health_Care_Professional,quarantine control strategy,0.6068627450980393
+Health_Care_Professional,place closure control strategy,0.6351851851851852
+Health_Care_Professional,communicability end process boundary,0.7
+Health_Care_Professional,vector control strategy,0.6202127659574468
+Health_Care_Professional,establishment of localization in host,0.630327868852459
+Health_Care_Professional,communicability end temporal region,0.6533898305084747
+Health_Care_Professional,case isolation control strategy,0.6136363636363636
+Health_Care_Professional,TRANS_0000000,0.5310810810810811
+Health_Care_Professional,establishment of localization,0.6575471698113208
+Health_Care_Professional,TRANS_0000007,0.5310810810810811
+Health_Care_Professional,T cell receptor complex,0.6414893617021277
+Health_Care_Professional,CL_0000000,0.5088235294117647
+Health_Care_Professional,appearance of disorder,0.6456521739130434
+Health_Care_Professional,pathogen portal of exit role,0.7
+Health_Care_Professional,infectious disease control objective specification,0.6256756756756756
+Health_Care_Professional,macromolecular complex,0.6239130434782608
+Health_Care_Professional,herd immunity to infectious organism,0.6166666666666667
+Health_Care_Professional,complex infection,0.6451219512195122
+Health_Care_Professional,object,0.5166666666666666
+Disease,B cell receptor complex,0.5166666666666666
+Disease,exotoxin disposition,0.5981481481481481
+Disease,source of infection role,0.5467741935483871
+Disease,invasive disposition,0.5981481481481481
+Disease,infectious disease endemicity,0.6444444444444444
+Disease,incubation end temporal region,0.5581081081081081
+Disease,infectious disease course,0.66875
+Disease,zoonotic disposition,0.5981481481481481
+Disease,metastatic infection,0.5981481481481481
+Disease,source of infection,0.5653846153846154
+Disease,infectious disease,0.73
+Disease,process of establishing an infection,0.5662790697674418
+Disease,disease,0.95
+Disease,infection incidence rate,0.5790322580645162
+Disease,disease surveillance objective specification,0.5872549019607843
+Disease,infectious disease mortality rate,0.625
+Disease,chronic infection,0.5333333333333333
+Disease,infection prevalence,0.5981481481481481
+Disease,fungicidal disposition,0.5879310344827586
+Disease,disorder,0.7166666666666667
+Disease,adhesion disposition,0.5981481481481481
+Disease,parasiticidal disposition,0.575
+Disease,neurotoxin disposition,0.5879310344827586
+Disease,intracellular infection,0.5833333333333334
+Disease,disease transmission model,0.6621212121212122
+Disease,latency end process boundary,0.5357142857142857
+Disease,infection incidence proportion profile,0.5166666666666666
+Disease,infection incidence,0.5653846153846154
+Disease,systematic infection,0.5981481481481481
+Disease,source of infection site,0.5790322580645162
+Disease,infection incidence profile,0.5382352941176471
+Disease,local infection,0.5409090909090909
+Disease,acute infection,0.5409090909090909
+Disease,secondary infection role,0.5790322580645162
+Disease,enterotoxin disposition,0.5833333333333334
+Disease,infectious disease control strategy,0.6166666666666667
+Disease,infectious disease lifetime prevalence,0.6055555555555556
+Disease,primary infectious disposition,0.5581081081081081
+Disease,infectious disease prevalence,0.6444444444444444
+Disease,static agent disposition,0.5790322580645162
+Disease,pathogenic disposition,0.5879310344827586
+Disease,virulence factor disposition,0.5642857142857143
+Disease,establishment of a clinically abnormal colony,0.5269230769230769
+Disease,disposition,0.6722222222222223
+Disease,chronic infectious disease course,0.625
+Disease,acute infectious disease course,0.6342105263157894
+Disease,cidal agent disposition,0.5833333333333334
+Disease,incubation end process boundary,0.5289473684210526
+Disease,invasion disposition,0.5981481481481481
+Disease,endotoxin disposition,0.5928571428571429
+Disease,collective resistance disposition,0.55
+Disease,primary infection role,0.553448275862069
+Disease,disease course,0.7833333333333333
+Disease,latency end temporal region,0.5676470588235294
+Disease,transmissibility disposition,0.5642857142857143
+Disease,infection end temporal region,0.5611111111111111
+Disease,community-acquired infection,0.5357142857142857
+Disease,secondary infection,0.6038461538461539
+Disease,infection,0.575
+Disease,subclinical infection,0.5571428571428572
+Disease,opportunistic infectious disposition,0.5430232558139535
+Disease,parasitostatic disposition,0.5712121212121213
+Disease,fungistatic disposition,0.5833333333333334
+Disease,communicability end process boundary,0.5197674418604651
+Disease,site of infection,0.575
+Disease,infectious disease sporadicity,0.6391891891891892
+Disease,infection start temporal region,0.581578947368421
+Disease,infectious disease pandemic,0.6558823529411765
+Disease,infection incidence proportion,0.5310810810810811
+Disease,infectious disorder,0.6038461538461539
+Disease,cytotoxin disposition,0.5928571428571429
+Disease,extracellular infection,0.55
+Disease,communicability end temporal region,0.5452380952380953
+Disease,infectious disease incidence proportion,0.6021739130434782
+Disease,nursing-home acquired infection,0.5552631578947369
+Disease,infection start process boundary,0.5525641025641026
+Disease,reverse zoonotic disposition,0.5642857142857143
+Disease,T cell receptor complex,0.5166666666666666
+Disease,appearance of disorder,0.5879310344827586
+Disease,infectious disease control objective specification,0.5728070175438597
+Disease,infection incidence rate profile,0.5525641025641026
+Disease,complex infection,0.5333333333333333
+Disease,collective disposition,0.5879310344827586
+Disease,infectious disease incidence rate,0.625
+Disease,toxin disposition,0.6166666666666667
+Disease,long-term non-progressing infectious disease course,0.5706896551724138
+Disease,bactericidal disposition,0.5790322580645162
+Disease,bacteriostatic disposition,0.5712121212121213
+Disease,infectious disposition,0.5879310344827586
+Disease,infectious disease epidemic,0.6558823529411765
+Disease,infectious disease incidence,0.65
+Disease,collective pathogenic disposition,0.55
+Disease,hospital-acquired infection,0.5382352941176471
+Disease,simple infection,0.5804347826086956
+Disease,immunosuppressive disposition,0.5888888888888889
+Disease,primary infection,0.575
+Impact,B cell receptor complex,0.5189655172413793
+Impact,incubation end temporal region,0.5611111111111111
+Impact,contact pathogen transmission process,0.5197674418604651
+Impact,latency end process boundary,0.5088235294117647
+Impact,process that results in death,0.5357142857142857
+Impact,action specification,0.6038461538461539
+Impact,establishment of a clinically abnormal colony,0.5284313725490196
+Impact,incubation end process boundary,0.5310810810810811
+Impact,latency end temporal region,0.5409090909090909
+Impact,infection end temporal region,0.5642857142857143
+Impact,communicability end process boundary,0.5214285714285714
+Impact,communicability end temporal region,0.5475609756097561
+Impact,T cell receptor complex,0.5189655172413793
+Impact,CL_0000000,0.5125
+Impact,contact tracing,0.5928571428571429
+InfectedCousin,infected population,0.8136363636363637
+InfectedCousin,T cell receptor complex,0.5851351351351352
+Bankers,B cell receptor complex,0.55
+Bankers,incubation end temporal region,0.5851351351351352
+Bankers,GEO_000000371,0.5
+Bankers,latency end process boundary,0.5928571428571429
+Bankers,establishment of a clinically abnormal colony,0.5269230769230769
+Bankers,incubation end process boundary,0.6078947368421053
+Bankers,latency end temporal region,0.5676470588235294
+Bankers,infection end temporal region,0.5333333333333333
+Bankers,communicability end process boundary,0.5430232558139535
+Bankers,communicability end temporal region,0.5452380952380953
+Bankers,T cell receptor complex,0.5166666666666666
+Bankers,GEO_000000370,0.5
+Bankers,GEO_000000372,0.5
+Business,droplet pathogen transmission process,0.5833333333333334
+Business,B cell receptor complex,0.5145161290322581
+Business,source of infection role,0.575
+Business,pathogen death process boundary,0.5525641025641026
+Business,incubation end temporal region,0.5552631578947369
+Business,process profile,0.5804347826086956
+Business,source of infection,0.5981481481481481
+Business,latency start process boundary,0.5552631578947369
+Business,process of establishing an infection,0.5636363636363636
+Business,innate immune response,0.6166666666666667
+Business,pathogen portal of entry role,0.504054054054054
+Business,negative regulation of viral process,0.5863636363636363
+Business,pathogen portal of entry site,0.5310810810810811
+Business,contact pathogen transmission process,0.5833333333333334
+Business,immune response,0.6673913043478261
+Business,humoral immune response,0.6435483870967742
+Business,generically dependent continuant,0.525
+Business,surveillance process,0.6642857142857143
+Business,negative regulation of biological process,0.5724489795918367
+Business,latency end process boundary,0.5611111111111111
+Business,negative regulation of life-sustaining process,0.5796296296296296
+Business,process that results in death,0.5851351351351352
+Business,source of infection site,0.60625
+Business,TRANS_0000008,0.5452380952380953
+Business,communicability start process boundary,0.558695652173913
+Business,pathogen birth process boundary,0.5782051282051281
+Business,negative regulation of developmental process,0.5653846153846154
+Business,negative regulation of establishment of localization,0.55
+Business,action specification,0.5571428571428572
+Business,adhesion factor,0.5804347826086956
+Business,virulence factor disposition,0.5888888888888889
+Business,establishment of a clinically abnormal colony,0.5254716981132076
+Business,process boundary,0.575
+Business,pathogen transmission process,0.6121621621621621
+Business,planned process,0.6239130434782608
+Business,incubation end process boundary,0.6038461538461539
+Business,indirect pathogen transmission process,0.5804347826086956
+Business,biological process,0.6423076923076922
+Business,latency end temporal region,0.5071428571428571
+Business,TRANS_0000002,0.5452380952380953
+Business,plan specification,0.5653846153846154
+Business,infection end temporal region,0.5310810810810811
+Business,incubation start process boundary,0.5963414634146341
+Business,invasion factor,0.5804347826086956
+Business,entry into host through host barriers,0.5611111111111111
+Business,function,0.6375
+Business,production,0.6166666666666667
+Business,specifically dependent continuant,0.5475609756097561
+Business,developmental process,0.5879310344827586
+Business,communicability end process boundary,0.5863636363636363
+Business,negative regulation of immune response,0.5804347826086956
+Business,organism substance,0.6038461538461539
+Business,pathogen portal of entry,0.5125
+Business,horizontal pathogen transmission process,0.575
+Business,establishment of localization in host,0.5611111111111111
+Business,communicability end temporal region,0.5430232558139535
+Business,virulence factor,0.575
+Business,TRANS_0000000,0.5452380952380953
+Business,establishment of localization,0.5581081081081081
+Business,infection start process boundary,0.575
+Business,TRANS_0000007,0.5452380952380953
+Business,adaptive immune response,0.60625
+Business,process,0.65
+Business,symbiotic process,0.65
+Business,entry into host,0.5804347826086956
+Business,negative regulation of production,0.523170731707317
+RBiH0hZdSfPdUZyQMTyTYtq,B cell receptor complex,0.5152173913043478
+RBiH0hZdSfPdUZyQMTyTYtq,T cell receptor complex,0.5152173913043478
+Standard,B cell receptor complex,0.5145161290322581
+Standard,ERO_0000347,0.5026315789473684
+Standard,object aggregate,0.575
+Standard,source of infection role,0.575
+Standard,biological regulation,0.5189655172413793
+Standard,incubation end temporal region,0.581578947368421
+Standard,asymptomatic carrier role,0.6015151515151516
+Standard,normal resident microbiota population,0.5388888888888889
+Standard,mutualist role,0.5863636363636363
+Standard,pathogen portal of entry role,0.5581081081081081
+Standard,infection incidence rate,0.575
+Standard,disease surveillance objective specification,0.5269230769230769
+Standard,negative regulation of viral process,0.5636363636363636
+Standard,infectious disease mortality rate,0.5475609756097561
+Standard,objective specification,0.5467741935483871
+Standard,pathogen transporter role,0.5712121212121213
+Standard,negative regulation of biological process,0.5520408163265306
+Standard,disease transmission model,0.5970588235294118
+Standard,latency end process boundary,0.5888888888888889
+Standard,negative regulation of life-sustaining process,0.5425925925925926
+Standard,definitive host,0.5369565217391304
+Standard,pathogen vector role,0.5571428571428572
+Standard,secondary infection role,0.60625
+Standard,negative regulation of developmental process,0.5653846153846154
+Standard,negative regulation of establishment of localization,0.5333333333333333
+Standard,action specification,0.5571428571428572
+Standard,adhesion factor,0.6239130434782608
+Standard,virulence factor disposition,0.5611111111111111
+Standard,commensal role,0.5863636363636363
+Standard,establishment of a clinically abnormal colony,0.5632075471698114
+Standard,reservoir of pathogen role,0.5676470588235294
+Standard,incubation end process boundary,0.5782051282051281
+Standard,biological vector role,0.5166666666666666
+Standard,primary infection role,0.55
+Standard,latency end temporal region,0.5928571428571429
+Standard,symbiont role,0.5928571428571429
+Standard,plan specification,0.5653846153846154
+Standard,infection end temporal region,0.5851351351351352
+Standard,reagent role,0.6
+Standard,dead-end host role,0.6038461538461539
+Standard,invasion factor,0.6239130434782608
+Standard,negative regulation of replication,0.5452380952380953
+Standard,intermediate host role,0.5833333333333334
+Standard,infectious structure host role,0.5289473684210526
+Standard,parasite role,0.5928571428571429
+Standard,symptomatic carrier role,0.60625
+Standard,infectious agent host role,0.5676470588235294
+Standard,communicability end process boundary,0.5636363636363636
+Standard,negative regulation of immune response,0.5369565217391304
+Standard,role,0.5333333333333333
+Standard,symbiont host role,0.5653846153846154
+Standard,mechanical vector role,0.5833333333333334
+Standard,pathogen vehicle role,0.553448275862069
+Standard,ERO_0000006,0.5026315789473684
+Standard,host role,0.6264705882352941
+Standard,communicability end temporal region,0.5662790697674418
+Standard,virulence factor,0.575
+Standard,T cell receptor complex,0.5145161290322581
+Standard,pathogen portal of exit role,0.5611111111111111
+Standard,definitive host role,0.5571428571428572
+Standard,infectious disease control objective specification,0.5189655172413793
+Standard,infection incidence rate profile,0.575
+Standard,infectious disease incidence rate,0.5719512195121951
+Standard,object,0.5214285714285714
+Standard,biological role,0.5369565217391304
+Standard,pathogen host role,0.5653846153846154
+Standard,fomite role,0.5552631578947369
+Standard,biological vehicle role,0.5145161290322581
+Standard,negative regulation of production,0.5719512195121951
+Women,NCBITaxon_2,0.575
+Women,incubation end temporal region,0.5642857142857143
+Women,latency end process boundary,0.5409090909090909
+Women,establishment of a clinically abnormal colony,0.51
+Women,incubation end process boundary,0.5333333333333333
+Women,latency end temporal region,0.54375
+Women,infection end temporal region,0.5676470588235294
+Women,communicability end process boundary,0.5475609756097561
+Women,communicability end temporal region,0.55
+Women,T cell receptor complex,0.5571428571428572
+Market,B cell receptor complex,0.553448275862069
+Market,incubation end temporal region,0.5611111111111111
+Market,latency end process boundary,0.5382352941176471
+Market,TRANS_0000008,0.5026315789473684
+Market,action specification,0.5653846153846154
+Market,establishment of a clinically abnormal colony,0.5088235294117647
+Market,incubation end process boundary,0.5310810810810811
+Market,latency end temporal region,0.5712121212121213
+Market,TRANS_0000002,0.5026315789473684
+Market,infection end temporal region,0.5642857142857143
+Market,production,0.575
+Market,place closure control strategy,0.5611111111111111
+Market,communicability end process boundary,0.5452380952380953
+Market,communicability end temporal region,0.5475609756097561
+Market,TRANS_0000000,0.5026315789473684
+Market,TRANS_0000007,0.5026315789473684
+Market,T cell receptor complex,0.553448275862069
+Market,negative regulation of production,0.5525641025641026
+InfectedDomesticHelp,infected population,0.732051282051282
+InfectedDomesticHelp,T cell receptor complex,0.5895348837209302
+Saving,GO_0019814,0.5125
+Saving,GO_0051093,0.5125
+Saving,GO_0048525,0.5125
+Saving,GO_0008150,0.5125
+Saving,GEO_000000371,0.5026315789473684
+Saving,GO_0050777,0.5125
+Saving,GO_0065007,0.5125
+Saving,systematic infection,0.6038461538461539
+Saving,infectious disease control strategy,0.5475609756097561
+Saving,establishment of a clinically abnormal colony,0.5284313725490196
+Saving,GO_0006959,0.5125
+Saving,GO_0006955,0.5125
+Saving,GO_0044409,0.5125
+Saving,GO_0002443,0.5125
+Saving,GO_0032502,0.5125
+Saving,GO_0032991,0.5125
+Saving,GO_0045087,0.5125
+Saving,quarantine control strategy,0.5712121212121213
+Saving,GO_0048519,0.5125
+Saving,place closure control strategy,0.5333333333333333
+Saving,GO_0044403,0.5125
+Saving,active immunization against infectious agent,0.55
+Saving,GO_0051234,0.5125
+Saving,vector control strategy,0.553448275862069
+Saving,GO_0002250,0.5125
+Saving,case isolation control strategy,0.5851351351351352
+Saving,GEO_000000370,0.5026315789473684
+Saving,infectious disease control objective specification,0.5392857142857143
+Saving,GO_0042101,0.5125
+Saving,GEO_000000372,0.5026315789473684
+Saving,GO_0044411,0.5125
+Saving,GO_0019815,0.5125
+Saving,GO_0044406,0.5125
+RBdVjT6X9mH1nSXd2YTRm0t,B cell receptor complex,0.5369565217391304
+RBdVjT6X9mH1nSXd2YTRm0t,NCBITaxon_2,0.5970588235294118
+RBdVjT6X9mH1nSXd2YTRm0t,T cell receptor complex,0.5369565217391304
+BankingRetailCenters,B cell receptor complex,0.6127906976744186
+BankingRetailCenters,establishment of a clinically abnormal colony,0.6038461538461539
+BankingRetailCenters,T cell receptor complex,0.5895348837209302
+CashCredit,establishment of a clinically abnormal colony,0.5409090909090909
+CashCredit,T cell receptor complex,0.5712121212121213
+Bank,incubation end temporal region,0.5382352941176471
+Bank,latency end process boundary,0.5125
+Bank,establishment of a clinically abnormal colony,0.5112244897959184
+Bank,reservoir of pathogen role,0.5166666666666666
+Bank,incubation end process boundary,0.5357142857142857
+Bank,latency end temporal region,0.5145161290322581
+Bank,infection end temporal region,0.5106060606060606
+Bank,communicability end process boundary,0.5
+Bank,communicability end temporal region,0.5269230769230769
+Bank,infectious agent reservoir,0.5166666666666666
+Current,B cell receptor complex,0.5833333333333334
+Current,incubation end temporal region,0.6121621621621621
+Current,infectious disease course,0.575
+Current,normal resident microbiota population,0.5636363636363636
+Current,latency end process boundary,0.5642857142857143
+Current,establishment of a clinically abnormal colony,0.5076923076923077
+Current,chronic infectious disease course,0.55
+Current,acute infectious disease course,0.581578947368421
+Current,incubation end process boundary,0.581578947368421
+Current,disease course,0.6404761904761905
+Current,latency end temporal region,0.5970588235294118
+Current,infection end temporal region,0.5888888888888889
+Current,communicability end process boundary,0.5662790697674418
+Current,communicability end temporal region,0.5928571428571429
+Current,T cell receptor complex,0.5833333333333334
+Current,CL_0000000,0.5088235294117647
+Current,long-term non-progressing infectious disease course,0.5362068965517242
+InfectedNephew,infected population,0.7227272727272727
+InfectedNephew,T cell receptor complex,0.5851351351351352
+Limit,B cell receptor complex,0.5214285714285714
+Limit,incubation end temporal region,0.5357142857142857
+Limit,latency start process boundary,0.5071428571428571
+Limit,infection incidence rate,0.553448275862069
+Limit,infectious disease mortality rate,0.5552631578947369
+Limit,latency end process boundary,0.5106060606060606
+Limit,communicability start process boundary,0.5197674418604651
+Limit,pathogen birth process boundary,0.5055555555555555
+Limit,establishment of a clinically abnormal colony,0.53
+Limit,incubation end process boundary,0.5055555555555555
+Limit,latency end temporal region,0.54375
+Limit,infection end temporal region,0.5382352941176471
+Limit,incubation start process boundary,0.5289473684210526
+Limit,place closure control strategy,0.5071428571428571
+Limit,communicability end process boundary,0.523170731707317
+Limit,communicability end temporal region,0.55
+Limit,infection start process boundary,0.5310810810810811
+Limit,T cell receptor complex,0.5214285714285714
+Limit,CL_0000000,0.5166666666666666
+Limit,infection incidence rate profile,0.5310810810810811
+Limit,infectious disease incidence rate,0.5289473684210526
+RiskLossFactors,adhesion factor,0.7166666666666667
+RiskLossFactors,virulence factor disposition,0.6593023255813953
+RiskLossFactors,establishment of a clinically abnormal colony,0.5833333333333334
+RiskLossFactors,invasion factor,0.75
+RiskLossFactors,virulence factor,0.7080645161290323
+RiskLossFactors,T cell receptor complex,0.581578947368421
+RBqIsgUuzTJdw7LkbNHKb9e,B cell receptor complex,0.5369565217391304
+RBqIsgUuzTJdw7LkbNHKb9e,T cell receptor complex,0.5369565217391304
+Person,B cell receptor complex,0.553448275862069
+Person,information content entity,0.54375
+Person,drug-based immunosuppressed organism,0.569047619047619
+Person,descriptive information content entity,0.5636363636363636
+Person,colonization of human,0.524074074074074
+Person,division of geopolitical entity,0.5310810810810811
+Person,extended organism,0.5804347826086956
+Person,geopolitical entity,0.57
+Person,susceptible organism,0.6038461538461539
+Person,immunosuppressed organism,0.6112903225806451
+Person,resistant entity,0.5863636363636363
+Person,designative information content entity,0.5409090909090909
+Person,establishment of a clinically abnormal colony,0.5284313725490196
+Person,immaterial entity,0.5804347826086956
+Person,material entity,0.5928571428571429
+Person,immunocompetent organism,0.5833333333333334
+Person,organism,0.5928571428571429
+Person,immunodeficient organism,0.55
+Person,entity,0.6166666666666667
+Person,realizable entity,0.5369565217391304
+Person,organism substance,0.575
+Person,anatomical entity,0.5369565217391304
+Person,geographical entity,0.57
+Person,pathologically immunosuppressed organism,0.558695652173913
+Person,T cell receptor complex,0.553448275862069
+Person,molecular entity,0.5863636363636363
+Person,herd immunity to infectious organism,0.569047619047619
+Person,organism population,0.61
+Person,directive information content entity,0.5452380952380953
+Person,infectious human pathogen,0.5790322580645162
+InfectedCo-Customer,infected population,0.7657894736842106
+InfectedCo-Customer,T cell receptor complex,0.6404761904761905
+Former,B cell receptor complex,0.5879310344827586
+Former,GO_0019814,0.5125
+Former,GO_0051093,0.5125
+Former,incubation end temporal region,0.5333333333333333
+Former,GO_0048525,0.5125
+Former,host,0.55
+Former,GO_0008150,0.5125
+Former,GO_0050777,0.5125
+Former,latency end process boundary,0.5382352941176471
+Former,GO_0065007,0.5125
+Former,definitive host,0.5452380952380953
+Former,dead-end host,0.5026315789473684
+Former,establishment of a clinically abnormal colony,0.5284313725490196
+Former,GO_0006959,0.5125
+Former,colonized host,0.55
+Former,pathogen host,0.5552631578947369
+Former,GO_0006955,0.5125
+Former,incubation end process boundary,0.5581081081081081
+Former,GO_0044409,0.5125
+Former,GO_0002443,0.5125
+Former,GO_0032502,0.5125
+Former,GO_0032991,0.5125
+Former,latency end temporal region,0.5409090909090909
+Former,GO_0045087,0.5125
+Former,infection end temporal region,0.5642857142857143
+Former,dead-end host role,0.575
+Former,intermediate host role,0.5928571428571429
+Former,infectious structure host role,0.5888888888888889
+Former,entry into host through host barriers,0.5430232558139535
+Former,infectious structure host,0.5790322580645162
+Former,GO_0048519,0.5125
+Former,infectious agent host role,0.575
+Former,GO_0044403,0.5125
+Former,GO_0051234,0.5125
+Former,communicability end process boundary,0.5452380952380953
+Former,infectious agent host,0.5611111111111111
+Former,symbiont host role,0.575
+Former,host role,0.65
+Former,GO_0002250,0.5125
+Former,communicability end temporal region,0.5475609756097561
+Former,colonization of host,0.5269230769230769
+Former,T cell receptor complex,0.5879310344827586
+Former,intermediate host,0.5804347826086956
+Former,definitive host role,0.6038461538461539
+Former,GO_0042101,0.5125
+Former,adhesion of symbiont to host,0.5088235294117647
+Former,pathogen host role,0.575
+Former,GO_0044411,0.5125
+Former,GO_0019815,0.5125
+Former,entry into host,0.5452380952380953
+Former,GO_0044406,0.5125
+National,B cell receptor complex,0.5467741935483871
+National,NCBITaxon_2,0.6605263157894737
+National,GO_0019814,0.5055555555555555
+National,GO_0051093,0.5055555555555555
+National,normal resident microbiota population,0.6055555555555556
+National,GO_0048525,0.5055555555555555
+National,GO_0008150,0.5055555555555555
+National,GO_0050777,0.5055555555555555
+National,GO_0065007,0.5055555555555555
+National,local infection,0.6673913043478261
+National,establishment of a clinically abnormal colony,0.5632075471698114
+National,GO_0006959,0.5055555555555555
+National,GO_0006955,0.5055555555555555
+National,GO_0044409,0.5055555555555555
+National,GO_0002443,0.5055555555555555
+National,GO_0032502,0.5055555555555555
+National,GO_0032991,0.5055555555555555
+National,Country,0.5833333333333334
+National,GO_0045087,0.5055555555555555
+National,GO_0048519,0.5055555555555555
+National,GO_0044403,0.5055555555555555
+National,GO_0051234,0.5055555555555555
+National,GO_0002250,0.5055555555555555
+National,T cell receptor complex,0.5467741935483871
+National,country,0.5833333333333334
+National,GO_0042101,0.5055555555555555
+National,GO_0044411,0.5055555555555555
+National,GO_0019815,0.5055555555555555
+National,GO_0044406,0.5055555555555555
+Infectious_Disease,B cell receptor complex,0.5963414634146341
+Infectious_Disease,ERO_0000347,0.553448275862069
+Infectious_Disease,exotoxin disposition,0.6605263157894737
+Infectious_Disease,source of infection role,0.6880952380952381
+Infectious_Disease,innate immunity to infectious agent,0.6952830188679244
+Infectious_Disease,infectious agent,0.8323529411764706
+Infectious_Disease,invasive disposition,0.6605263157894737
+Infectious_Disease,infectious disease endemicity,0.8329787234042553
+Infectious_Disease,incubation end temporal region,0.6791666666666666
+Infectious_Disease,infectious disease course,0.8686046511627907
+Infectious_Disease,zoonotic disposition,0.6605263157894737
+Infectious_Disease,metastatic infection,0.6605263157894737
+Infectious_Disease,source of infection,0.6662162162162162
+Infectious_Disease,susceptibility to infectious agent,0.7
+Infectious_Disease,infectious disease,0.95
+Infectious_Disease,process of establishing an infection,0.5981481481481481
+Infectious_Disease,disease,0.73
+Infectious_Disease,infection incidence rate,0.7595238095238095
+Infectious_Disease,diseased population,0.6391891891891892
+Infectious_Disease,disease surveillance objective specification,0.6112903225806451
+Infectious_Disease,infectious structure aggregate,0.7625
+Infectious_Disease,infectious agent population,0.7388888888888888
+Infectious_Disease,infectious disease mortality rate,0.8029411764705883
+Infectious_Disease,passive immunity to infectious agent,0.6907407407407408
+Infectious_Disease,chronic infection,0.6785714285714286
+Infectious_Disease,infection prevalence,0.7657894736842106
+Infectious_Disease,fungicidal disposition,0.65
+Infectious_Disease,disorder,0.6038461538461539
+Infectious_Disease,adhesion disposition,0.6605263157894737
+Infectious_Disease,drug susceptibility of infectious agent,0.6780701754385965
+Infectious_Disease,parasiticidal disposition,0.636046511627907
+Infectious_Disease,neurotoxin disposition,0.675
+Infectious_Disease,intracellular infection,0.6451219512195122
+Infectious_Disease,disease transmission model,0.6318181818181818
+Infectious_Disease,latency end process boundary,0.6021739130434782
+Infectious_Disease,infection incidence proportion profile,0.6642857142857143
+Infectious_Disease,infection incidence,0.7743243243243243
+Infectious_Disease,passive immunization against infectious agent,0.6563492063492063
+Infectious_Disease,systematic infection,0.6605263157894737
+Infectious_Disease,source of infection site,0.7119047619047619
+Infectious_Disease,infection incidence profile,0.7166666666666667
+Infectious_Disease,local infection,0.6924242424242425
+Infectious_Disease,TRANS_0000008,0.5467741935483871
+Infectious_Disease,acute infection,0.6924242424242425
+Infectious_Disease,secondary infection role,0.6880952380952381
+Infectious_Disease,enterotoxin disposition,0.6695121951219513
+Infectious_Disease,infectious disease control strategy,0.789622641509434
+Infectious_Disease,infectious disease lifetime prevalence,0.7714285714285714
+Infectious_Disease,primary infectious disposition,0.7625
+Infectious_Disease,symptomatic infectious structure carrier,0.7086206896551723
+Infectious_Disease,infectious disease prevalence,0.8329787234042553
+Infectious_Disease,static agent disposition,0.6404761904761905
+Infectious_Disease,pathogenic disposition,0.625
+Infectious_Disease,immunization against infectious agent,0.6863636363636364
+Infectious_Disease,virulence factor disposition,0.6891304347826087
+Infectious_Disease,establishment of a clinically abnormal colony,0.5611111111111111
+Infectious_Disease,disposition,0.5879310344827586
+Infectious_Disease,chronic infectious disease course,0.8029411764705883
+Infectious_Disease,leukocyte-mediated immunity to infectious agent,0.65
+Infectious_Disease,acute infectious disease course,0.8173469387755102
+Infectious_Disease,cidal agent disposition,0.6451219512195122
+Infectious_Disease,incubation end process boundary,0.6540816326530612
+Infectious_Disease,asymptomatic infectious structure carrier,0.7042372881355932
+Infectious_Disease,invasion disposition,0.6868421052631578
+Infectious_Disease,endotoxin disposition,0.6551282051282051
+Infectious_Disease,infected population,0.6932432432432433
+Infectious_Disease,collective resistance disposition,0.6460784313725491
+Infectious_Disease,primary infection role,0.7
+Infectious_Disease,disease course,0.66875
+Infectious_Disease,latency end temporal region,0.6055555555555556
+Infectious_Disease,TRANS_0000002,0.5467741935483871
+Infectious_Disease,infectious agent generative stage,0.7441176470588234
+Infectious_Disease,transmissibility disposition,0.6239130434782608
+Infectious_Disease,infection end temporal region,0.7265957446808511
+Infectious_Disease,community-acquired infection,0.6239130434782608
+Infectious_Disease,secondary infection,0.6662162162162162
+Infectious_Disease,infectious structure host role,0.7625
+Infectious_Disease,infection,0.7462962962962962
+Infectious_Disease,infectious structure host,0.7755813953488372
+Infectious_Disease,subclinical infection,0.6551282051282051
+Infectious_Disease,opportunistic infectious disposition,0.7277777777777777
+Infectious_Disease,infectious agent host role,0.7681818181818181
+Infectious_Disease,parasitostatic disposition,0.6545454545454545
+Infectious_Disease,active immunization against infectious agent,0.6596774193548387
+Infectious_Disease,fungistatic disposition,0.6451219512195122
+Infectious_Disease,communicability end process boundary,0.5981481481481481
+Infectious_Disease,site of infection,0.6785714285714286
+Infectious_Disease,vaccination against infectious agent,0.6907407407407408
+Infectious_Disease,infectious disease sporadicity,0.825
+Infectious_Disease,infectious agent host,0.7833333333333333
+Infectious_Disease,infection start temporal region,0.7153061224489795
+Infectious_Disease,infectious disease pandemic,0.85
+Infectious_Disease,infection incidence proportion,0.7
+Infectious_Disease,infectious disorder,0.8554054054054054
+Infectious_Disease,cytotoxin disposition,0.6551282051282051
+Infectious_Disease,extracellular infection,0.6451219512195122
+Infectious_Disease,ERO_0000006,0.553448275862069
+Infectious_Disease,communicability end temporal region,0.6009433962264151
+Infectious_Disease,infectious disease incidence proportion,0.7657894736842106
+Infectious_Disease,nursing-home acquired infection,0.6132653061224489
+Infectious_Disease,symptomatic infectious agent carrier,0.7092592592592593
+Infectious_Disease,TRANS_0000000,0.5467741935483871
+Infectious_Disease,asymptomatic infectious agent carrier,0.7045454545454546
+Infectious_Disease,infection start process boundary,0.69
+Infectious_Disease,reverse zoonotic disposition,0.6239130434782608
+Infectious_Disease,TRANS_0000007,0.5467741935483871
+Infectious_Disease,T cell receptor complex,0.5963414634146341
+Infectious_Disease,appearance of disorder,0.65
+Infectious_Disease,infectious disease control objective specification,0.7147058823529412
+Infectious_Disease,infection incidence rate profile,0.71
+Infectious_Disease,infectious agent reservoir,0.7681818181818181
+Infectious_Disease,herd immunity to infectious organism,0.6907407407407408
+Infectious_Disease,complex infection,0.6785714285714286
+Infectious_Disease,collective disposition,0.675
+Infectious_Disease,infectious disease incidence rate,0.8029411764705883
+Infectious_Disease,toxin disposition,0.65
+Infectious_Disease,long-term non-progressing infectious disease course,0.7108695652173913
+Infectious_Disease,bactericidal disposition,0.6404761904761905
+Infectious_Disease,sterilizing immunity to infectious agent,0.6741379310344828
+Infectious_Disease,bacteriostatic disposition,0.6772727272727272
+Infectious_Disease,infectious disposition,0.825
+Infectious_Disease,infectious disease epidemic,0.85
+Infectious_Disease,infectious disease incidence,0.8413043478260869
+Infectious_Disease,infectious pathogen transmissibility,0.7092592592592593
+Infectious_Disease,infectious structure generative stage,0.740909090909091
+Infectious_Disease,collective pathogenic disposition,0.6460784313725491
+Infectious_Disease,hospital-acquired infection,0.6277777777777778
+Infectious_Disease,simple infection,0.6852941176470588
+Infectious_Disease,immunosuppressive disposition,0.6627659574468084
+Infectious_Disease,infectious structure,0.7921052631578948
+Infectious_Disease,primary infection,0.6785714285714286
+Infectious_Disease,acquired immunity to infectious agent,0.6863636363636364
+Infectious_Disease,infectious agent colony,0.7670731707317073
+Infectious_Disease,infectious human pathogen,0.7523255813953489
+Infectious_Disease,humoral immunity to infectious agent,0.6907407407407408
+Govt_Schemes,B cell receptor complex,0.5928571428571429
+Govt_Schemes,GO_0019814,0.5863636363636363
+Govt_Schemes,exotoxin disposition,0.60625
+Govt_Schemes,GO_0051093,0.5863636363636363
+Govt_Schemes,invasive disposition,0.575
+Govt_Schemes,zoonotic disposition,0.60625
+Govt_Schemes,infection incidence rate,0.5888888888888889
+Govt_Schemes,infectious disease mortality rate,0.5833333333333334
+Govt_Schemes,GO_0048525,0.5863636363636363
+Govt_Schemes,GO_0008150,0.5863636363636363
+Govt_Schemes,fungicidal disposition,0.5676470588235294
+Govt_Schemes,adhesion disposition,0.575
+Govt_Schemes,parasiticidal disposition,0.5581081081081081
+Govt_Schemes,neurotoxin disposition,0.5970588235294118
+Govt_Schemes,GO_0050777,0.5863636363636363
+Govt_Schemes,GO_0065007,0.5863636363636363
+Govt_Schemes,enterotoxin disposition,0.5928571428571429
+Govt_Schemes,infectious disease control strategy,0.5776595744680851
+Govt_Schemes,primary infectious disposition,0.5452380952380953
+Govt_Schemes,static agent disposition,0.5888888888888889
+Govt_Schemes,pathogenic disposition,0.5676470588235294
+Govt_Schemes,action specification,0.575
+Govt_Schemes,virulence factor disposition,0.575
+Govt_Schemes,establishment of a clinically abnormal colony,0.537719298245614
+Govt_Schemes,disposition,0.5369565217391304
+Govt_Schemes,GO_0006959,0.5863636363636363
+Govt_Schemes,cidal agent disposition,0.5928571428571429
+Govt_Schemes,GO_0006955,0.5863636363636363
+Govt_Schemes,GO_0044409,0.5863636363636363
+Govt_Schemes,invasion disposition,0.575
+Govt_Schemes,GO_0002443,0.5863636363636363
+Govt_Schemes,endotoxin disposition,0.6015151515151516
+Govt_Schemes,GO_0032502,0.5863636363636363
+Govt_Schemes,collective resistance disposition,0.6055555555555556
+Govt_Schemes,GO_0032991,0.5863636363636363
+Govt_Schemes,GO_0045087,0.5863636363636363
+Govt_Schemes,plan specification,0.55
+Govt_Schemes,transmissibility disposition,0.55
+Govt_Schemes,quarantine control strategy,0.5782051282051281
+Govt_Schemes,GO_0048519,0.5863636363636363
+Govt_Schemes,opportunistic infectious disposition,0.575
+Govt_Schemes,place closure control strategy,0.569047619047619
+Govt_Schemes,parasitostatic disposition,0.581578947368421
+Govt_Schemes,GO_0044403,0.5863636363636363
+Govt_Schemes,fungistatic disposition,0.5928571428571429
+Govt_Schemes,GO_0051234,0.5863636363636363
+Govt_Schemes,vector control strategy,0.5928571428571429
+Govt_Schemes,cytotoxin disposition,0.6015151515151516
+Govt_Schemes,GO_0002250,0.5863636363636363
+Govt_Schemes,case isolation control strategy,0.5662790697674418
+Govt_Schemes,reverse zoonotic disposition,0.575
+Govt_Schemes,T cell receptor complex,0.6214285714285714
+Govt_Schemes,infection incidence rate profile,0.5636363636363636
+Govt_Schemes,GO_0042101,0.5863636363636363
+Govt_Schemes,collective disposition,0.5970588235294118
+Govt_Schemes,infectious disease incidence rate,0.5833333333333334
+Govt_Schemes,toxin disposition,0.5879310344827586
+Govt_Schemes,bactericidal disposition,0.5611111111111111
+Govt_Schemes,bacteriostatic disposition,0.581578947368421
+Govt_Schemes,infectious disposition,0.5676470588235294
+Govt_Schemes,GO_0044411,0.5863636363636363
+Govt_Schemes,collective pathogenic disposition,0.5833333333333334
+Govt_Schemes,GO_0019815,0.5863636363636363
+Govt_Schemes,immunosuppressive disposition,0.5719512195121951
+Govt_Schemes,GO_0044406,0.5863636363636363
+Public_Sector,B cell receptor complex,0.6722222222222223
+Public_Sector,three-dimensional spatial region,0.5611111111111111
+Public_Sector,communicability start temporal region,0.63
+Public_Sector,incubation end temporal region,0.636046511627907
+Public_Sector,normal resident microbiota population,0.59
+Public_Sector,infection incidence rate,0.6121621621621621
+Public_Sector,diseased population,0.60625
+Public_Sector,infectious agent population,0.6
+Public_Sector,infectious disease mortality rate,0.6021739130434782
+Public_Sector,division of geopolitical entity,0.609090909090909
+Public_Sector,one-dimensional spatial region,0.5662790697674418
+Public_Sector,susceptible organism,0.6318181818181818
+Public_Sector,local infection,0.7
+Public_Sector,establishment of a clinically abnormal colony,0.5879310344827586
+Public_Sector,temporal region,0.6285714285714286
+Public_Sector,geospatial region,0.6166666666666667
+Public_Sector,susceptible population,0.6214285714285714
+Public_Sector,infected population,0.60625
+Public_Sector,latency end temporal region,0.625
+Public_Sector,Country,0.6
+Public_Sector,infection end temporal region,0.6166666666666667
+Public_Sector,two-dimensional spatial region,0.5662790697674418
+Public_Sector,zero-dimensional spatial region,0.5636363636363636
+Public_Sector,place closure control strategy,0.6825581395348838
+Public_Sector,infection start temporal region,0.609090909090909
+Public_Sector,immune population,0.6166666666666667
+Public_Sector,pathogen birth temporal region,0.6127906976744186
+Public_Sector,communicability end temporal region,0.6375
+Public_Sector,T cell receptor complex,0.6444444444444444
+Public_Sector,CL_0000000,0.5369565217391304
+Public_Sector,pathogen death temporal region,0.5895348837209302
+Public_Sector,zero-dimensional temporal region,0.5611111111111111
+Public_Sector,country,0.6
+Public_Sector,infection incidence rate profile,0.6055555555555556
+Public_Sector,infectious disease incidence rate,0.6021739130434782
+Public_Sector,organism population,0.60625
+Public_Sector,geographical region,0.6375
+Public_Sector,spatial region,0.6351851851851852
+Public_Sector,one-dimensional temporal region,0.5636363636363636
+Public_Sector,spatiotemporal region,0.5970588235294118
+Political,B cell receptor complex,0.575
+Political,GO_0019814,0.5026315789473684
+Political,GO_0051093,0.5026315789473684
+Political,GO_0048525,0.5026315789473684
+Political,GO_0008150,0.5026315789473684
+Political,GO_0050777,0.5026315789473684
+Political,GO_0065007,0.5026315789473684
+Political,local infection,0.6583333333333334
+Political,establishment of a clinically abnormal colony,0.5796296296296296
+Political,GO_0006959,0.5026315789473684
+Political,GO_0006955,0.5026315789473684
+Political,GO_0044409,0.5026315789473684
+Political,GO_0002443,0.5026315789473684
+Political,GO_0032502,0.5026315789473684
+Political,GO_0032991,0.5026315789473684
+Political,Country,0.575
+Political,GO_0045087,0.5026315789473684
+Political,GO_0048519,0.5026315789473684
+Political,GO_0044403,0.5026315789473684
+Political,GO_0051234,0.5026315789473684
+Political,GO_0002250,0.5026315789473684
+Political,T cell receptor complex,0.575
+Political,country,0.575
+Political,GO_0042101,0.5026315789473684
+Political,GO_0044411,0.5026315789473684
+Political,GO_0019815,0.5026315789473684
+Political,GO_0044406,0.5026315789473684
+International,B cell receptor complex,0.5888888888888889
+International,establishment of a clinically abnormal colony,0.5879310344827586
+International,plan specification,0.6758064516129032
+International,infectious disease pandemic,0.625
+International,T cell receptor complex,0.6166666666666667
+State_Bank_of_India,B cell receptor complex,0.5452380952380953
+State_Bank_of_India,GO_0019814,0.5189655172413793
+State_Bank_of_India,GO_0051093,0.5189655172413793
+State_Bank_of_India,incubation end temporal region,0.6336734693877552
+State_Bank_of_India,infection incidence rate,0.6127906976744186
+State_Bank_of_India,infectious disease mortality rate,0.5846153846153846
+State_Bank_of_India,GO_0048525,0.5189655172413793
+State_Bank_of_India,pathogen portal of entry site,0.6791666666666666
+State_Bank_of_India,GO_0008150,0.5189655172413793
+State_Bank_of_India,GO_0050777,0.5189655172413793
+State_Bank_of_India,latency end process boundary,0.6840425531914894
+State_Bank_of_India,GO_0065007,0.5189655172413793
+State_Bank_of_India,source of infection site,0.6593023255813953
+State_Bank_of_India,site,0.5804347826086956
+State_Bank_of_India,establishment of a clinically abnormal colony,0.653125
+State_Bank_of_India,GO_0006959,0.5189655172413793
+State_Bank_of_India,reservoir of pathogen role,0.6055555555555556
+State_Bank_of_India,GO_0006955,0.5189655172413793
+State_Bank_of_India,incubation end process boundary,0.65
+State_Bank_of_India,GO_0044409,0.5189655172413793
+State_Bank_of_India,GO_0002443,0.5189655172413793
+State_Bank_of_India,GO_0032502,0.5189655172413793
+State_Bank_of_India,pathogen portal of exit site,0.6840425531914894
+State_Bank_of_India,GO_0032991,0.5189655172413793
+State_Bank_of_India,latency end temporal region,0.6673913043478261
+State_Bank_of_India,GO_0045087,0.5189655172413793
+State_Bank_of_India,infection end temporal region,0.6166666666666667
+State_Bank_of_India,GO_0048519,0.5189655172413793
+State_Bank_of_India,GO_0044403,0.5189655172413793
+State_Bank_of_India,GO_0051234,0.5189655172413793
+State_Bank_of_India,communicability end process boundary,0.6318181818181818
+State_Bank_of_India,site of infection,0.7277777777777777
+State_Bank_of_India,GO_0002250,0.5189655172413793
+State_Bank_of_India,communicability end temporal region,0.6166666666666667
+State_Bank_of_India,case isolation control strategy,0.63
+State_Bank_of_India,T cell receptor complex,0.569047619047619
+State_Bank_of_India,infection incidence rate profile,0.6068627450980393
+State_Bank_of_India,infectious agent reservoir,0.6055555555555556
+State_Bank_of_India,GO_0042101,0.5189655172413793
+State_Bank_of_India,infectious disease incidence rate,0.6038461538461539
+State_Bank_of_India,GO_0044411,0.5189655172413793
+State_Bank_of_India,GO_0019815,0.5189655172413793
+State_Bank_of_India,GO_0044406,0.5189655172413793
+R97lAZPeb77i5ddeTaGSShN,B cell receptor complex,0.5369565217391304
+R97lAZPeb77i5ddeTaGSShN,establishment of a clinically abnormal colony,0.5529411764705883
+R97lAZPeb77i5ddeTaGSShN,T cell receptor complex,0.5369565217391304
+Dedicated Covid Hospital,B cell receptor complex,0.6414893617021277
+Dedicated Covid Hospital,hospital facility,0.6451219512195122
+Dedicated Covid Hospital,GO_0019814,0.5088235294117647
+Dedicated Covid Hospital,GO_0051093,0.5088235294117647
+Dedicated Covid Hospital,incubation end temporal region,0.6351851851851852
+Dedicated Covid Hospital,infection incidence rate,0.6375
+Dedicated Covid Hospital,infectious disease mortality rate,0.6254385964912281
+Dedicated Covid Hospital,GO_0048525,0.5088235294117647
+Dedicated Covid Hospital,GO_0008150,0.5088235294117647
+Dedicated Covid Hospital,GO_0050777,0.5088235294117647
+Dedicated Covid Hospital,latency end process boundary,0.6230769230769231
+Dedicated Covid Hospital,GO_0065007,0.5088235294117647
+Dedicated Covid Hospital,negative regulation of establishment of localization,0.6210526315789474
+Dedicated Covid Hospital,establishment of a clinically abnormal colony,0.5949275362318841
+Dedicated Covid Hospital,GO_0006959,0.5088235294117647
+Dedicated Covid Hospital,GO_0006955,0.5088235294117647
+Dedicated Covid Hospital,incubation end process boundary,0.65
+Dedicated Covid Hospital,GO_0044409,0.5088235294117647
+Dedicated Covid Hospital,GO_0002443,0.5088235294117647
+Dedicated Covid Hospital,GO_0032502,0.5088235294117647
+Dedicated Covid Hospital,GO_0032991,0.5088235294117647
+Dedicated Covid Hospital,latency end temporal region,0.6264705882352941
+Dedicated Covid Hospital,GO_0045087,0.5088235294117647
+Dedicated Covid Hospital,infection end temporal region,0.619811320754717
+Dedicated Covid Hospital,GO_0048519,0.5088235294117647
+Dedicated Covid Hospital,place closure control strategy,0.6351851851851852
+Dedicated Covid Hospital,GO_0044403,0.5088235294117647
+Dedicated Covid Hospital,active immunization against infectious agent,0.5970588235294118
+Dedicated Covid Hospital,GO_0051234,0.5088235294117647
+Dedicated Covid Hospital,communicability end process boundary,0.6333333333333333
+Dedicated Covid Hospital,establishment of localization in host,0.6467213114754098
+Dedicated Covid Hospital,GO_0002250,0.5088235294117647
+Dedicated Covid Hospital,communicability end temporal region,0.6194915254237288
+Dedicated Covid Hospital,establishment of localization,0.619811320754717
+Dedicated Covid Hospital,T cell receptor complex,0.6414893617021277
+Dedicated Covid Hospital,CL_0000000,0.5088235294117647
+Dedicated Covid Hospital,infection incidence rate profile,0.6464285714285714
+Dedicated Covid Hospital,GO_0042101,0.5088235294117647
+Dedicated Covid Hospital,infectious disease incidence rate,0.6429824561403508
+Dedicated Covid Hospital,GO_0044411,0.5088235294117647
+Dedicated Covid Hospital,GO_0019815,0.5088235294117647
+Dedicated Covid Hospital,GO_0044406,0.5088235294117647
+Police_Person,B cell receptor complex,0.6166666666666667
+Police_Person,GO_0019814,0.5369565217391304
+Police_Person,GO_0051093,0.5369565217391304
+Police_Person,information content entity,0.6294871794871795
+Police_Person,incubation end temporal region,0.636046511627907
+Police_Person,drug-based immunosuppressed organism,0.5928571428571429
+Police_Person,GO_0048525,0.5369565217391304
+Police_Person,descriptive information content entity,0.6068627450980393
+Police_Person,colonization of human,0.6264705882352941
+Police_Person,division of geopolitical entity,0.6318181818181818
+Police_Person,GO_0008150,0.5369565217391304
+Police_Person,GO_0050777,0.5369565217391304
+Police_Person,latency end process boundary,0.6695121951219513
+Police_Person,GO_0065007,0.5369565217391304
+Police_Person,extended organism,0.5833333333333334
+Police_Person,geopolitical entity,0.7
+Police_Person,susceptible organism,0.6318181818181818
+Police_Person,immunosuppressed organism,0.6078947368421053
+Police_Person,resistant entity,0.5879310344827586
+Police_Person,designative information content entity,0.5872549019607843
+Police_Person,establishment of a clinically abnormal colony,0.5879310344827586
+Police_Person,GO_0006959,0.5369565217391304
+Police_Person,GO_0006955,0.5369565217391304
+Police_Person,incubation end process boundary,0.6545454545454545
+Police_Person,GO_0044409,0.5369565217391304
+Police_Person,GO_0002443,0.5369565217391304
+Police_Person,GO_0032502,0.5369565217391304
+Police_Person,immaterial entity,0.6166666666666667
+Police_Person,material entity,0.5928571428571429
+Police_Person,GO_0032991,0.5369565217391304
+Police_Person,immunocompetent organism,0.6121621621621621
+Police_Person,latency end temporal region,0.65
+Police_Person,GO_0045087,0.5369565217391304
+Police_Person,infection end temporal region,0.6404761904761905
+Police_Person,organism,0.5928571428571429
+Police_Person,immunodeficient organism,0.6391891891891892
+Police_Person,entity,0.5552631578947369
+Police_Person,GO_0048519,0.5369565217391304
+Police_Person,realizable entity,0.65
+Police_Person,GO_0044403,0.5369565217391304
+Police_Person,GO_0051234,0.5369565217391304
+Police_Person,communicability end process boundary,0.6540816326530612
+Police_Person,organism substance,0.6112903225806451
+Police_Person,anatomical entity,0.65
+Police_Person,geographical entity,0.6375
+Police_Person,pathologically immunosuppressed organism,0.6575471698113208
+Police_Person,GO_0002250,0.5369565217391304
+Police_Person,communicability end temporal region,0.6375
+Police_Person,T cell receptor complex,0.6166666666666667
+Police_Person,CL_0000000,0.5369565217391304
+Police_Person,molecular entity,0.656896551724138
+Police_Person,herd immunity to infectious organism,0.5724489795918367
+Police_Person,GO_0042101,0.5369565217391304
+Police_Person,organism population,0.6375
+Police_Person,GO_0044411,0.5369565217391304
+Police_Person,GO_0019815,0.5369565217391304
+Police_Person,directive information content entity,0.5928571428571429
+Police_Person,infectious human pathogen,0.6078947368421053
+Police_Person,GO_0044406,0.5369565217391304
+RBUgwiGgH0Fl8jjSQKhOvty,B cell receptor complex,0.5152173913043478
+Nationalized_Bank,B cell receptor complex,0.55
+Nationalized_Bank,GO_0019814,0.524074074074074
+Nationalized_Bank,GO_0051093,0.524074074074074
+Nationalized_Bank,incubation end temporal region,0.6840425531914894
+Nationalized_Bank,infection incidence rate,0.6695121951219513
+Nationalized_Bank,infectious disease mortality rate,0.63
+Nationalized_Bank,GO_0048525,0.524074074074074
+Nationalized_Bank,GO_0008150,0.524074074074074
+Nationalized_Bank,GO_0050777,0.524074074074074
+Nationalized_Bank,latency end process boundary,0.6277777777777778
+Nationalized_Bank,GO_0065007,0.524074074074074
+Nationalized_Bank,establishment of a clinically abnormal colony,0.6112903225806451
+Nationalized_Bank,GO_0006959,0.524074074074074
+Nationalized_Bank,reservoir of pathogen role,0.5895348837209302
+Nationalized_Bank,GO_0006955,0.524074074074074
+Nationalized_Bank,incubation end process boundary,0.6791666666666666
+Nationalized_Bank,GO_0044409,0.524074074074074
+Nationalized_Bank,GO_0002443,0.524074074074074
+Nationalized_Bank,GO_0032502,0.524074074074074
+Nationalized_Bank,GO_0032991,0.524074074074074
+Nationalized_Bank,latency end temporal region,0.6318181818181818
+Nationalized_Bank,GO_0045087,0.524074074074074
+Nationalized_Bank,infection end temporal region,0.6673913043478261
+Nationalized_Bank,GO_0048519,0.524074074074074
+Nationalized_Bank,GO_0044403,0.524074074074074
+Nationalized_Bank,GO_0051234,0.524074074074074
+Nationalized_Bank,communicability end process boundary,0.6386792452830189
+Nationalized_Bank,GO_0002250,0.524074074074074
+Nationalized_Bank,communicability end temporal region,0.6423076923076922
+Nationalized_Bank,T cell receptor complex,0.55
+Nationalized_Bank,CL_0000000,0.524074074074074
+Nationalized_Bank,infection incidence rate profile,0.6336734693877552
+Nationalized_Bank,infectious agent reservoir,0.6127906976744186
+Nationalized_Bank,GO_0042101,0.524074074074074
+Nationalized_Bank,infectious disease incidence rate,0.63
+Nationalized_Bank,GO_0044411,0.524074074074074
+Nationalized_Bank,GO_0019815,0.524074074074074
+Nationalized_Bank,GO_0044406,0.524074074074074
+MUDRA,establishment of a clinically abnormal colony,0.51
+R9bxGJQY5fRwxzfzJMOy6u1,B cell receptor complex,0.5152173913043478
+OverDraft,B cell receptor complex,0.54375
+OverDraft,establishment of a clinically abnormal colony,0.5055555555555555
+OverDraft,T cell receptor complex,0.54375
+InfectedSpouse,infected population,0.7833333333333333
+InfectedSpouse,T cell receptor complex,0.6121621621621621
+City,B cell receptor complex,0.524074074074074
+City,infectious disease course,0.5189655172413793
+City,division of geopolitical entity,0.5642857142857143
+City,local infection,0.6078947368421053
+City,establishment of a clinically abnormal colony,0.5112244897959184
+City,chronic infectious disease course,0.5310810810810811
+City,acute infectious disease course,0.5357142857142857
+City,disease course,0.5055555555555555
+City,place closure control strategy,0.5382352941176471
+City,T cell receptor complex,0.524074074074074
+City,CL_0000000,0.5214285714285714
+City,complex infection,0.5928571428571429
+ThridParty,establishment of a clinically abnormal colony,0.5590909090909091
+ThridParty,T cell receptor complex,0.5712121212121213
+R9JTwNa02wDiCbgJvuPv7Ui,B cell receptor complex,0.5369565217391304
+R9JTwNa02wDiCbgJvuPv7Ui,NCBITaxon_2,0.5676470588235294
+R9JTwNa02wDiCbgJvuPv7Ui,establishment of a clinically abnormal colony,0.5382352941176471
+R9JTwNa02wDiCbgJvuPv7Ui,T cell receptor complex,0.5369565217391304
+Nurse,B cell receptor complex,0.5214285714285714
+Nurse,ERO_0000347,0.5125
+Nurse,incubation end temporal region,0.5642857142857143
+Nurse,latency end process boundary,0.5409090909090909
+Nurse,incubation end process boundary,0.5611111111111111
+Nurse,latency end temporal region,0.54375
+Nurse,infection end temporal region,0.5382352941176471
+Nurse,communicability end process boundary,0.523170731707317
+Nurse,ERO_0000006,0.5125
+Nurse,communicability end temporal region,0.525
+Nurse,T cell receptor complex,0.5214285714285714
+ExchangeRate,infection incidence rate,0.6722222222222223
+ExchangeRate,infectious disease mortality rate,0.6277777777777778
+ExchangeRate,establishment of a clinically abnormal colony,0.5552631578947369
+ExchangeRate,T cell receptor complex,0.5928571428571429
+ExchangeRate,infection incidence rate profile,0.6318181818181818
+ExchangeRate,infectious disease incidence rate,0.65
+COVID-19_Diagnosis,B cell receptor complex,0.5475609756097561
+COVID-19_Diagnosis,GO_0019814,0.5571428571428572
+COVID-19_Diagnosis,GO_0051093,0.5571428571428572
+COVID-19_Diagnosis,incubation end temporal region,0.5958333333333333
+COVID-19_Diagnosis,geospatial location,0.5851351351351352
+COVID-19_Diagnosis,GO_0048525,0.5214285714285714
+COVID-19_Diagnosis,division of geopolitical entity,0.5928571428571429
+COVID-19_Diagnosis,GO_0008150,0.5214285714285714
+COVID-19_Diagnosis,GO_0050777,0.5214285714285714
+COVID-19_Diagnosis,latency end process boundary,0.5804347826086956
+COVID-19_Diagnosis,GO_0065007,0.5214285714285714
+COVID-19_Diagnosis,TRANS_0000008,0.5467741935483871
+COVID-19_Diagnosis,acute infection,0.6015151515151516
+COVID-19_Diagnosis,establishment of a clinically abnormal colony,0.5452380952380953
+COVID-19_Diagnosis,GO_0006959,0.5214285714285714
+COVID-19_Diagnosis,acute infectious disease course,0.6132653061224489
+COVID-19_Diagnosis,GO_0006955,0.5214285714285714
+COVID-19_Diagnosis,incubation end process boundary,0.5928571428571429
+COVID-19_Diagnosis,GO_0044409,0.5214285714285714
+COVID-19_Diagnosis,GO_0002443,0.5214285714285714
+COVID-19_Diagnosis,GO_0032502,0.5214285714285714
+COVID-19_Diagnosis,GO_0032991,0.5214285714285714
+COVID-19_Diagnosis,latency end temporal region,0.5833333333333334
+COVID-19_Diagnosis,TRANS_0000002,0.5467741935483871
+COVID-19_Diagnosis,GO_0045087,0.5214285714285714
+COVID-19_Diagnosis,plan specification,0.5888888888888889
+COVID-19_Diagnosis,infection end temporal region,0.598936170212766
+COVID-19_Diagnosis,genetic resistance to pathogen,0.575
+COVID-19_Diagnosis,GO_0048519,0.5571428571428572
+COVID-19_Diagnosis,place closure control strategy,0.575
+COVID-19_Diagnosis,quality,0.53
+COVID-19_Diagnosis,GO_0044403,0.5214285714285714
+COVID-19_Diagnosis,GO_0051234,0.5214285714285714
+COVID-19_Diagnosis,communicability end process boundary,0.5981481481481481
+COVID-19_Diagnosis,GO_0002250,0.5214285714285714
+COVID-19_Diagnosis,communicability end temporal region,0.6009433962264151
+COVID-19_Diagnosis,TRANS_0000000,0.5467741935483871
+COVID-19_Diagnosis,TRANS_0000007,0.5467741935483871
+COVID-19_Diagnosis,T cell receptor complex,0.5475609756097561
+COVID-19_Diagnosis,CL_0000000,0.5214285714285714
+COVID-19_Diagnosis,GO_0042101,0.5214285714285714
+COVID-19_Diagnosis,GO_0044411,0.5214285714285714
+COVID-19_Diagnosis,GO_0019815,0.5571428571428572
+COVID-19_Diagnosis,GO_0044406,0.5214285714285714
+Place,B cell receptor complex,0.5571428571428572
+Place,ERO_0000347,0.5125
+Place,three-dimensional spatial region,0.5310810810810811
+Place,communicability start temporal region,0.5214285714285714
+Place,incubation end temporal region,0.5357142857142857
+Place,pathogen portal of entry site,0.5382352941176471
+Place,one-dimensional spatial region,0.5357142857142857
+Place,latency end process boundary,0.5712121212121213
+Place,source of infection site,0.5189655172413793
+Place,local infection,0.6
+Place,site,0.5611111111111111
+Place,establishment of a clinically abnormal colony,0.51
+Place,temporal region,0.6
+Place,geospatial region,0.5863636363636363
+Place,incubation end process boundary,0.5333333333333333
+Place,pathogen portal of exit site,0.5409090909090909
+Place,latency end temporal region,0.575
+Place,Country,0.5333333333333333
+Place,plan specification,0.6239130434782608
+Place,infection end temporal region,0.5382352941176471
+Place,function,0.5269230769230769
+Place,two-dimensional spatial region,0.5357142857142857
+Place,zero-dimensional spatial region,0.5333333333333333
+Place,place closure control strategy,0.5928571428571429
+Place,quality,0.5333333333333333
+Place,cell space,0.7166666666666667
+Place,communicability end process boundary,0.523170731707317
+Place,infection start temporal region,0.5333333333333333
+Place,ERO_0000006,0.5125
+Place,pathogen birth temporal region,0.5357142857142857
+Place,communicability end temporal region,0.525
+Place,T cell receptor complex,0.5571428571428572
+Place,CL_0000000,0.5166666666666666
+Place,pathogen death temporal region,0.5357142857142857
+Place,zero-dimensional temporal region,0.5310810810810811
+Place,country,0.5333333333333333
+Place,geographical region,0.575
+Place,anatomical space,0.6404761904761905
+Place,spatial region,0.6078947368421053
+Place,one-dimensional temporal region,0.5333333333333333
+Place,spatiotemporal region,0.5653846153846154
+RCraHWfkJdLn81eSUZBYdL1,B cell receptor complex,0.558695652173913
+RCraHWfkJdLn81eSUZBYdL1,establishment of a clinically abnormal colony,0.5529411764705883
+Statistics,B cell receptor complex,0.5106060606060606
+Statistics,information content entity,0.5888888888888889
+Statistics,incubation end temporal region,0.575
+Statistics,normal resident microbiota population,0.5563829787234043
+Statistics,diseased population,0.6224137931034482
+Statistics,infectious agent population,0.5851351351351352
+Statistics,descriptive information content entity,0.5958333333333333
+Statistics,processed material,0.5928571428571429
+Statistics,latency end process boundary,0.5552631578947369
+Statistics,process that results in death,0.6294871794871795
+Statistics,designative information content entity,0.5958333333333333
+Statistics,establishment of a clinically abnormal colony,0.5954545454545455
+Statistics,susceptible population,0.60625
+Statistics,incubation end process boundary,0.5719512195121951
+Statistics,infected population,0.5879310344827586
+Statistics,material entity,0.65
+Statistics,latency end temporal region,0.5581081081081081
+Statistics,plan specification,0.5928571428571429
+Statistics,infection end temporal region,0.5525641025641026
+Statistics,material processing,0.6224137931034482
+Statistics,communicability end process boundary,0.558695652173913
+Statistics,immune population,0.5611111111111111
+Statistics,communicability end temporal region,0.5388888888888889
+Statistics,T cell receptor complex,0.5409090909090909
+Statistics,CL_0000000,0.5
+Statistics,organism population,0.6224137931034482
+Statistics,directive information content entity,0.5804347826086956
+RC9UzdECKKuvX9tfnIA2ht5,NCBITaxon_2,0.5676470588235294
+RC9UzdECKKuvX9tfnIA2ht5,establishment of a clinically abnormal colony,0.5382352941176471
+RC9UzdECKKuvX9tfnIA2ht5,T cell receptor complex,0.558695652173913
+Moderate_COVID-19,B cell receptor complex,0.6
+Moderate_COVID-19,GO_0019814,0.5981481481481481
+Moderate_COVID-19,object aggregate,0.6318181818181818
+Moderate_COVID-19,GO_0051093,0.5981481481481481
+Moderate_COVID-19,incubation end temporal region,0.598936170212766
+Moderate_COVID-19,infection incidence rate,0.6207317073170732
+Moderate_COVID-19,infectious disease mortality rate,0.61
+Moderate_COVID-19,GO_0048525,0.524074074074074
+Moderate_COVID-19,GO_0008150,0.5611111111111111
+Moderate_COVID-19,GO_0050777,0.524074074074074
+Moderate_COVID-19,latency end process boundary,0.6055555555555556
+Moderate_COVID-19,GO_0065007,0.524074074074074
+Moderate_COVID-19,infectious disease control strategy,0.6038461538461539
+Moderate_COVID-19,adhesion factor,0.60625
+Moderate_COVID-19,virulence factor disposition,0.5833333333333334
+Moderate_COVID-19,establishment of a clinically abnormal colony,0.5629032258064516
+Moderate_COVID-19,GO_0006959,0.5611111111111111
+Moderate_COVID-19,GO_0006955,0.5611111111111111
+Moderate_COVID-19,incubation end process boundary,0.5958333333333333
+Moderate_COVID-19,GO_0044409,0.5611111111111111
+Moderate_COVID-19,GO_0002443,0.524074074074074
+Moderate_COVID-19,GO_0032502,0.524074074074074
+Moderate_COVID-19,GO_0032991,0.5611111111111111
+Moderate_COVID-19,latency end temporal region,0.5863636363636363
+Moderate_COVID-19,GO_0045087,0.524074074074074
+Moderate_COVID-19,infection end temporal region,0.6021739130434782
+Moderate_COVID-19,invasion factor,0.575
+Moderate_COVID-19,intermediate host role,0.6294871794871795
+Moderate_COVID-19,quarantine control strategy,0.609090909090909
+Moderate_COVID-19,GO_0048519,0.5981481481481481
+Moderate_COVID-19,place closure control strategy,0.5776595744680851
+Moderate_COVID-19,GO_0044403,0.524074074074074
+Moderate_COVID-19,GO_0051234,0.5611111111111111
+Moderate_COVID-19,communicability end process boundary,0.6009433962264151
+Moderate_COVID-19,vector control strategy,0.575
+Moderate_COVID-19,GO_0002250,0.524074074074074
+Moderate_COVID-19,communicability end temporal region,0.5846153846153846
+Moderate_COVID-19,case isolation control strategy,0.575
+Moderate_COVID-19,virulence factor,0.6015151515151516
+Moderate_COVID-19,T cell receptor complex,0.6
+Moderate_COVID-19,intermediate host,0.6558823529411765
+Moderate_COVID-19,infectious disease control objective specification,0.5992537313432835
+Moderate_COVID-19,infection incidence rate profile,0.6540816326530612
+Moderate_COVID-19,GO_0042101,0.5611111111111111
+Moderate_COVID-19,infectious disease incidence rate,0.63
+Moderate_COVID-19,object,0.5804347826086956
+Moderate_COVID-19,GO_0044411,0.5611111111111111
+Moderate_COVID-19,GO_0019815,0.5981481481481481
+Moderate_COVID-19,GO_0044406,0.524074074074074
+CorporateCurrentAccount,infection incidence rate,0.598936170212766
+CorporateCurrentAccount,infectious disease mortality rate,0.6107142857142857
+CorporateCurrentAccount,establishment of a clinically abnormal colony,0.5823529411764706
+CorporateCurrentAccount,T cell receptor complex,0.6239130434782608
+CorporateCurrentAccount,infection incidence rate profile,0.5954545454545455
+CorporateCurrentAccount,infectious disease incidence rate,0.6107142857142857
+LAP,B cell receptor complex,0.5269230769230769
+LAP,three-dimensional spatial region,0.5071428571428571
+LAP,communicability start temporal region,0.525
+LAP,incubation end temporal region,0.5106060606060606
+LAP,one-dimensional spatial region,0.5106060606060606
+LAP,latency end process boundary,0.5467741935483871
+LAP,temporal region,0.5055555555555555
+LAP,geospatial region,0.5
+LAP,incubation end process boundary,0.5088235294117647
+LAP,disease course,0.5088235294117647
+LAP,latency end temporal region,0.55
+LAP,two-dimensional spatial region,0.5106060606060606
+LAP,zero-dimensional spatial region,0.5088235294117647
+LAP,place closure control strategy,0.5106060606060606
+LAP,communicability end process boundary,0.5012820512820513
+LAP,infection start temporal region,0.5088235294117647
+LAP,pathogen birth temporal region,0.5106060606060606
+LAP,communicability end temporal region,0.5026315789473684
+LAP,case isolation control strategy,0.5088235294117647
+LAP,T cell receptor complex,0.5269230769230769
+LAP,CL_0000000,0.5269230769230769
+LAP,pathogen death temporal region,0.5106060606060606
+LAP,zero-dimensional temporal region,0.5071428571428571
+LAP,geographical region,0.5409090909090909
+LAP,spatial region,0.5088235294117647
+LAP,one-dimensional temporal region,0.5088235294117647
+LAP,spatiotemporal region,0.5333333333333333
+InfectedNiece,infected population,0.73125
+InfectedNiece,T cell receptor complex,0.5888888888888889
+InfectedSon,infected population,0.7833333333333333
+InfectedSon,T cell receptor complex,0.5676470588235294
+Indian_Bank,incubation end temporal region,0.6207317073170732
+Indian_Bank,latency end process boundary,0.5782051282051281
+Indian_Bank,establishment of a clinically abnormal colony,0.5928571428571429
+Indian_Bank,reservoir of pathogen role,0.5581081081081081
+Indian_Bank,incubation end process boundary,0.6166666666666667
+Indian_Bank,latency end temporal region,0.581578947368421
+Indian_Bank,infection end temporal region,0.625
+Indian_Bank,communicability end process boundary,0.598936170212766
+Indian_Bank,communicability end temporal region,0.6021739130434782
+Indian_Bank,infectious agent reservoir,0.6121621621621621
+RZ2UJHbWgJHsKvyMtjEX6W,B cell receptor complex,0.5388888888888889
+RZ2UJHbWgJHsKvyMtjEX6W,NCBITaxon_2,0.5409090909090909
+RZ2UJHbWgJHsKvyMtjEX6W,T cell receptor complex,0.5388888888888889
+KishanCreditCard,establishment of a clinically abnormal colony,0.5975409836065574
+KishanCreditCard,T cell receptor complex,0.5782051282051281
+Account,IDO_0000486,0.5055555555555555
+Account,B cell receptor complex,0.55
+Account,IDO_0000489,0.5055555555555555
+Account,IDO_0000525,0.5055555555555555
+Account,IDO_0000655,0.5055555555555555
+Account,IDO_0001029,0.5055555555555555
+Account,IDO_0000593,0.5055555555555555
+Account,IDO_0000568,0.5055555555555555
+Account,IDO_0000454,0.5055555555555555
+Account,IDO_0000407,0.5055555555555555
+Account,IDO_0000659,0.5055555555555555
+Account,IDO_0000578,0.5055555555555555
+Account,IDO_0000552,0.5055555555555555
+Account,IDO_0000657,0.5055555555555555
+Account,IDO_0001164,0.5055555555555555
+Account,IDO_0000467,0.5055555555555555
+Account,IDO_0000526,0.5055555555555555
+Account,IDO_0000488,0.5055555555555555
+Account,IDO_0001353,0.5055555555555555
+Account,IDO_0001093,0.5055555555555555
+Account,IDO_0001350,0.5055555555555555
+Account,IDO_0000621,0.5055555555555555
+Account,IDO_0000626,0.5055555555555555
+Account,IDO_0000522,0.5055555555555555
+Account,IDO_0000464,0.5055555555555555
+Account,IDO_0000408,0.5055555555555555
+Account,IDO_0000403,0.5055555555555555
+Account,IDO_0000617,0.5055555555555555
+Account,IDO_0000469,0.5055555555555555
+Account,IDO_0000470,0.5055555555555555
+Account,IDO_0000431,0.5055555555555555
+Account,IDO_0001011,0.5055555555555555
+Account,IDO_0000446,0.5055555555555555
+Account,IDO_0000427,0.5055555555555555
+Account,IDO_0000611,0.5055555555555555
+Account,IDO_0001028,0.5055555555555555
+Account,IDO_0000437,0.5055555555555555
+Account,IDO_0000585,0.5055555555555555
+Account,IDO_0000496,0.5055555555555555
+Account,IDO_0000451,0.5055555555555555
+Account,IDO_0000482,0.5055555555555555
+Account,IDO_0000566,0.5055555555555555
+Account,IDO_0000495,0.5055555555555555
+Account,IDO_0000615,0.5055555555555555
+Account,IDO_0000665,0.5055555555555555
+Account,IDO_0001007,0.5055555555555555
+Account,IDO_0001107,0.5055555555555555
+Account,IDO_0000543,0.5055555555555555
+Account,IDO_0001072,0.5055555555555555
+Account,IDO_0000435,0.5055555555555555
+Account,chronic infection,0.6166666666666667
+Account,IDO_0000629,0.5055555555555555
+Account,IDO_0001352,0.5055555555555555
+Account,IDO_0000554,0.5055555555555555
+Account,IDO_0000468,0.5055555555555555
+Account,IDO_0000456,0.5055555555555555
+Account,IDO_0000584,0.5055555555555555
+Account,IDO_0000410,0.5055555555555555
+Account,IDO_0001083,0.5055555555555555
+Account,IDO_0001167,0.5055555555555555
+Account,IDO_0000457,0.5055555555555555
+Account,IDO_0000480,0.5055555555555555
+Account,IDO_0000509,0.5055555555555555
+Account,IDO_0001356,0.5055555555555555
+Account,IDO_0000425,0.5055555555555555
+Account,IDO_0000424,0.5055555555555555
+Account,IDO_0000524,0.5055555555555555
+Account,IDO_0001000,0.5055555555555555
+Account,IDO_0000471,0.5055555555555555
+Account,IDO_0001163,0.5055555555555555
+Account,IDO_0000532,0.5055555555555555
+Account,IDO_0001090,0.5055555555555555
+Account,IDO_0000420,0.5055555555555555
+Account,IDO_0001030,0.5055555555555555
+Account,IDO_0000409,0.5055555555555555
+Account,IDO_0001197,0.5055555555555555
+Account,IDO_0001025,0.5055555555555555
+Account,IDO_0001127,0.5055555555555555
+Account,IDO_0000618,0.5055555555555555
+Account,IDO_0001157,0.5055555555555555
+Account,IDO_0000619,0.5055555555555555
+Account,IDO_0000632,0.5055555555555555
+Account,IDO_0000553,0.5055555555555555
+Account,IDO_0000607,0.5055555555555555
+Account,IDO_0001355,0.5055555555555555
+Account,IDO_0000426,0.5055555555555555
+Account,IDO_0000463,0.5055555555555555
+Account,IDO_0000642,0.5055555555555555
+Account,IDO_0000545,0.5055555555555555
+Account,IDO_0000520,0.5055555555555555
+Account,IDO_0001009,0.5055555555555555
+Account,IDO_0000466,0.5055555555555555
+Account,IDO_0000436,0.5055555555555555
+Account,IDO_0000547,0.5055555555555555
+Account,IDO_0000588,0.5055555555555555
+Account,IDO_0000434,0.5055555555555555
+Account,IDO_0001088,0.5055555555555555
+Account,IDO_0000653,0.5055555555555555
+Account,IDO_0000481,0.5055555555555555
+Account,IDO_0000630,0.5055555555555555
+Account,IDO_0000551,0.5055555555555555
+Account,IDO_0000586,0.5055555555555555
+Account,IDO_0001134,0.5055555555555555
+Account,IDO_0001126,0.5055555555555555
+Account,IDO_0000533,0.5055555555555555
+Account,IDO_0000419,0.5055555555555555
+Account,IDO_0000535,0.5055555555555555
+Account,IDO_0000608,0.5055555555555555
+Account,IDO_0000485,0.5055555555555555
+Account,IDO_0001168,0.5055555555555555
+Account,IDO_0000458,0.5055555555555555
+Account,IDO_0000499,0.5055555555555555
+Account,IDO_0000445,0.5055555555555555
+Account,IDO_0000638,0.5055555555555555
+Account,IDO_0000539,0.5055555555555555
+Account,IDO_0000604,0.5055555555555555
+Account,establishment of a clinically abnormal colony,0.5461538461538461
+Account,IDO_0000643,0.5055555555555555
+Account,IDO_0000450,0.5055555555555555
+Account,IDO_0000656,0.5055555555555555
+Account,IDO_0000583,0.5055555555555555
+Account,chronic infectious disease course,0.55
+Account,history,0.5214285714285714
+Account,IDO_0000487,0.5055555555555555
+Account,IDO_0000455,0.5055555555555555
+Account,IDO_0001010,0.5055555555555555
+Account,IDO_0000500,0.5055555555555555
+Account,IDO_0001345,0.5055555555555555
+Account,IDO_0001096,0.5055555555555555
+Account,IDO_0000502,0.5055555555555555
+Account,IDO_0000483,0.5055555555555555
+Account,IDO_0000400,0.5055555555555555
+Account,IDO_0000531,0.5055555555555555
+Account,IDO_0000497,0.5055555555555555
+Account,IDO_0001196,0.5055555555555555
+Account,IDO_0000494,0.5055555555555555
+Account,IDO_0001130,0.5055555555555555
+Account,IDO_0000663,0.5055555555555555
+Account,IDO_0001040,0.5055555555555555
+Account,IDO_0000633,0.5055555555555555
+Account,IDO_0000515,0.5055555555555555
+Account,IDO_0001089,0.5055555555555555
+Account,IDO_0000506,0.5055555555555555
+Account,IDO_0001092,0.5055555555555555
+Account,IDO_0001378,0.5055555555555555
+Account,plan specification,0.65
+Account,IDO_0000576,0.5055555555555555
+Account,IDO_0000415,0.5055555555555555
+Account,IDO_0000530,0.5055555555555555
+Account,IDO_0000640,0.5055555555555555
+Account,IDO_0001346,0.5055555555555555
+Account,IDO_0000473,0.5055555555555555
+Account,IDO_0000650,0.5055555555555555
+Account,IDO_0000406,0.5055555555555555
+Account,IDO_0001198,0.5055555555555555
+Account,IDO_0000581,0.5055555555555555
+Account,IDO_0000567,0.5055555555555555
+Account,IDO_0000453,0.5055555555555555
+Account,IDO_0000472,0.5055555555555555
+Account,IDO_0000627,0.5055555555555555
+Account,IDO_0001172,0.5055555555555555
+Account,IDO_0000511,0.5055555555555555
+Account,IDO_0000412,0.5055555555555555
+Account,IDO_0000587,0.5055555555555555
+Account,IDO_0000592,0.5055555555555555
+Account,IDO_0000651,0.5055555555555555
+Account,IDO_0000579,0.5055555555555555
+Account,IDO_0000475,0.5055555555555555
+Account,IDO_0000448,0.5055555555555555
+Account,IDO_0000444,0.5055555555555555
+Account,IDO_0000490,0.5055555555555555
+Account,IDO_0001091,0.5055555555555555
+Account,IDO_0001008,0.5055555555555555
+Account,IDO_0000631,0.5055555555555555
+Account,IDO_0000571,0.5055555555555555
+Account,IDO_0000402,0.5055555555555555
+Account,IDO_0001110,0.5055555555555555
+Account,IDO_0000557,0.5055555555555555
+Account,IDO_0001085,0.5055555555555555
+Account,IDO_0000512,0.5055555555555555
+Account,IDO_0000498,0.5055555555555555
+Account,IDO_0000606,0.5055555555555555
+Account,IDO_0000523,0.5055555555555555
+Account,IDO_0001343,0.5055555555555555
+Account,IDO_0000537,0.5055555555555555
+Account,IDO_0000596,0.5055555555555555
+Account,IDO_0000430,0.5055555555555555
+Account,IDO_0000625,0.5055555555555555
+Account,IDO_0000550,0.5055555555555555
+Account,IDO_0001005,0.5055555555555555
+Account,IDO_0001166,0.5055555555555555
+Account,IDO_0000504,0.5055555555555555
+Account,IDO_0001109,0.5055555555555555
+Account,case isolation control strategy,0.581578947368421
+Account,IDO_0001377,0.5055555555555555
+Account,IDO_0000422,0.5055555555555555
+Account,IDO_0001026,0.5055555555555555
+Account,IDO_0000513,0.5055555555555555
+Account,IDO_0001348,0.5055555555555555
+Account,IDO_0000623,0.5055555555555555
+Account,T cell receptor complex,0.55
+Account,IDO_0000501,0.5055555555555555
+Account,CL_0000000,0.5088235294117647
+Account,IDO_0000603,0.5055555555555555
+Account,IDO_0000401,0.5055555555555555
+Account,IDO_0001027,0.5055555555555555
+Account,IDO_0000612,0.5055555555555555
+Account,IDO_0001351,0.5055555555555555
+Account,IDO_0000421,0.5055555555555555
+Account,IDO_0001199,0.5055555555555555
+Account,IDO_0000449,0.5055555555555555
+Account,IDO_0000639,0.5055555555555555
+Account,IDO_0001354,0.5055555555555555
+Account,IDO_0001001,0.5055555555555555
+Account,IDO_0000580,0.5055555555555555
+Account,IDO_0000514,0.5055555555555555
+Account,IDO_0000528,0.5055555555555555
+Account,IDO_0001041,0.5055555555555555
+Account,IDO_0001094,0.5055555555555555
+Account,IDO_0000616,0.5055555555555555
+Account,IDO_0001037,0.5055555555555555
+Account,IDO_0000484,0.5055555555555555
+Account,IDO_0001349,0.5055555555555555
+Account,IDO_0000459,0.5055555555555555
+Account,IDO_0001002,0.5055555555555555
+Account,IDO_0000447,0.5055555555555555
+Account,IDO_0001133,0.5055555555555555
+Account,IDO_0000570,0.5055555555555555
+Account,IDO_0000610,0.5055555555555555
+Account,IDO_0000628,0.5055555555555555
+Account,IDO_0001065,0.5055555555555555
+Account,IDO_0001124,0.5055555555555555
+Account,IDO_0000549,0.5055555555555555
+Account,IDO_0000544,0.5055555555555555
+Account,IDO_0001111,0.5055555555555555
+Account,IDO_0000423,0.5055555555555555
+Account,IDO_0001036,0.5055555555555555
+Account,IDO_0001165,0.5055555555555555
+Account,IDO_0000654,0.5055555555555555
+Account,IDO_0000479,0.5055555555555555
+Account,IDO_0000538,0.5055555555555555
+Account,IDO_0000589,0.5055555555555555
+Account,IDO_0001095,0.5055555555555555
+Account,IDO_0000477,0.5055555555555555
+Account,IDO_0000635,0.5055555555555555
+Account,IDO_0001357,0.5055555555555555
+Account,IDO_0000548,0.5055555555555555
+Account,IDO_0001054,0.5055555555555555
+Account,IDO_0000474,0.5055555555555555
+Account,IDO_0000414,0.5055555555555555
+Account,IDO_0000519,0.5055555555555555
+Account,IDO_0000438,0.5055555555555555
+Account,IDO_0001344,0.5055555555555555
+Account,IDO_0000590,0.5055555555555555
+Account,IDO_0000503,0.5055555555555555
+SubStandard,B cell receptor complex,0.5382352941176471
+SubStandard,infection incidence rate,0.5642857142857143
+SubStandard,infectious disease mortality rate,0.5636363636363636
+SubStandard,adhesion factor,0.6038461538461539
+SubStandard,virulence factor disposition,0.5782051282051281
+SubStandard,establishment of a clinically abnormal colony,0.5928571428571429
+SubStandard,invasion factor,0.6038461538461539
+SubStandard,virulence factor,0.5981481481481481
+SubStandard,T cell receptor complex,0.5088235294117647
+SubStandard,infection incidence rate profile,0.5662790697674418
+SubStandard,infectious disease incidence rate,0.5863636363636363
+Financial,B cell receptor complex,0.5125
+Financial,establishment of a clinically abnormal colony,0.5796296296296296
+Financial,T cell receptor complex,0.5125
+Commercial_Banks,B cell receptor complex,0.5782051282051281
+Commercial_Banks,GO_0019814,0.5269230769230769
+Commercial_Banks,GO_0051093,0.5269230769230769
+Commercial_Banks,incubation end temporal region,0.6239130434782608
+Commercial_Banks,GO_0048525,0.5269230769230769
+Commercial_Banks,GO_0008150,0.5269230769230769
+Commercial_Banks,processed material,0.6558823529411765
+Commercial_Banks,GO_0050777,0.5269230769230769
+Commercial_Banks,latency end process boundary,0.609090909090909
+Commercial_Banks,GO_0065007,0.5269230769230769
+Commercial_Banks,establishment of a clinically abnormal colony,0.6139344262295081
+Commercial_Banks,GO_0006959,0.5269230769230769
+Commercial_Banks,reservoir of pathogen role,0.5928571428571429
+Commercial_Banks,GO_0006955,0.5269230769230769
+Commercial_Banks,incubation end process boundary,0.6202127659574468
+Commercial_Banks,GO_0044409,0.5269230769230769
+Commercial_Banks,GO_0002443,0.5269230769230769
+Commercial_Banks,GO_0032502,0.5269230769230769
+Commercial_Banks,material entity,0.7080645161290323
+Commercial_Banks,GO_0032991,0.5269230769230769
+Commercial_Banks,latency end temporal region,0.6127906976744186
+Commercial_Banks,GO_0045087,0.5269230769230769
+Commercial_Banks,infection end temporal region,0.6277777777777778
+Commercial_Banks,material processing,0.6785714285714286
+Commercial_Banks,GO_0048519,0.5269230769230769
+Commercial_Banks,GO_0044403,0.5269230769230769
+Commercial_Banks,GO_0051234,0.5269230769230769
+Commercial_Banks,communicability end process boundary,0.6423076923076922
+Commercial_Banks,GO_0002250,0.5269230769230769
+Commercial_Banks,communicability end temporal region,0.6460784313725491
+Commercial_Banks,T cell receptor complex,0.5782051282051281
+Commercial_Banks,CL_0000000,0.5653846153846154
+Commercial_Banks,infectious agent reservoir,0.6166666666666667
+Commercial_Banks,GO_0042101,0.5269230769230769
+Commercial_Banks,GO_0044411,0.5269230769230769
+Commercial_Banks,GO_0019815,0.5269230769230769
+Commercial_Banks,GO_0044406,0.5269230769230769
+Covid-19_Impacted,B cell receptor complex,0.6
+Covid-19_Impacted,establishment of a clinically abnormal colony,0.5467741935483871
+Covid-19_Impacted,plan specification,0.5928571428571429
+Covid-19_Impacted,T cell receptor complex,0.6
+Covid-19_Impacted,CL_0000000,0.524074074074074
+InfectedDaughter,establishment of a clinically abnormal colony,0.5483606557377049
+InfectedDaughter,infected population,0.7357142857142857
+InfectedDaughter,T cell receptor complex,0.5782051282051281
+Covid-19_not_Impacted,B cell receptor complex,0.609090909090909
+Covid-19_not_Impacted,establishment of a clinically abnormal colony,0.5712121212121213
+Covid-19_not_Impacted,plan specification,0.5782051282051281
+Covid-19_not_Impacted,T cell receptor complex,0.609090909090909
+Covid-19_not_Impacted,CL_0000000,0.5145161290322581
+Viral_Disease,B cell receptor complex,0.5611111111111111
+Viral_Disease,exotoxin disposition,0.6318181818181818
+Viral_Disease,source of infection role,0.5851351351351352
+Viral_Disease,invasive disposition,0.6621212121212122
+Viral_Disease,infectious disease endemicity,0.6642857142857143
+Viral_Disease,incubation end temporal region,0.6127906976744186
+Viral_Disease,infectious disease course,0.6868421052631578
+Viral_Disease,zoonotic disposition,0.6318181818181818
+Viral_Disease,metastatic infection,0.5712121212121213
+Viral_Disease,source of infection,0.575
+Viral_Disease,infectious disease,0.7403225806451613
+Viral_Disease,process of establishing an infection,0.5928571428571429
+Viral_Disease,disease,0.8
+Viral_Disease,infection incidence rate,0.6121621621621621
+Viral_Disease,disease surveillance objective specification,0.5903508771929825
+Viral_Disease,negative regulation of viral process,0.6132653061224489
+Viral_Disease,infectious disease mortality rate,0.6456521739130434
+Viral_Disease,chronic infection,0.5833333333333334
+Viral_Disease,infection prevalence,0.6318181818181818
+Viral_Disease,fungicidal disposition,0.6785714285714286
+Viral_Disease,disorder,0.6404761904761905
+Viral_Disease,adhesion disposition,0.6318181818181818
+Viral_Disease,parasiticidal disposition,0.6605263157894737
+Viral_Disease,neurotoxin disposition,0.6214285714285714
+Viral_Disease,intracellular infection,0.6444444444444444
+Viral_Disease,disease transmission model,0.6294871794871795
+Viral_Disease,latency end process boundary,0.5719512195121951
+Viral_Disease,infection incidence proportion profile,0.5480392156862746
+Viral_Disease,infection incidence,0.60625
+Viral_Disease,systematic infection,0.5712121212121213
+Viral_Disease,source of infection site,0.6121621621621621
+Viral_Disease,infection incidence profile,0.575
+Viral_Disease,local infection,0.6285714285714286
+Viral_Disease,acute infection,0.5928571428571429
+Viral_Disease,secondary infection role,0.5851351351351352
+Viral_Disease,enterotoxin disposition,0.6166666666666667
+Viral_Disease,infectious disease control strategy,0.6375
+Viral_Disease,infectious disease lifetime prevalence,0.6264705882352941
+Viral_Disease,primary infectious disposition,0.6127906976744186
+Viral_Disease,infectious disease prevalence,0.6642857142857143
+Viral_Disease,static agent disposition,0.6391891891891892
+Viral_Disease,pathogenic disposition,0.6214285714285714
+Viral_Disease,virulence factor disposition,0.6695121951219513
+Viral_Disease,establishment of a clinically abnormal colony,0.553448275862069
+Viral_Disease,disposition,0.6166666666666667
+Viral_Disease,chronic infectious disease course,0.6456521739130434
+Viral_Disease,acute infectious disease course,0.6545454545454545
+Viral_Disease,cidal agent disposition,0.6722222222222223
+Viral_Disease,incubation end process boundary,0.5863636363636363
+Viral_Disease,invasion disposition,0.6621212121212122
+Viral_Disease,endotoxin disposition,0.6264705882352941
+Viral_Disease,collective resistance disposition,0.6239130434782608
+Viral_Disease,primary infection role,0.6214285714285714
+Viral_Disease,disease course,0.7092592592592593
+Viral_Disease,latency end temporal region,0.6
+Viral_Disease,transmissibility disposition,0.6451219512195122
+Viral_Disease,infection end temporal region,0.5928571428571429
+Viral_Disease,community-acquired infection,0.5719512195121951
+Viral_Disease,secondary infection,0.575
+Viral_Disease,infection,0.5409090909090909
+Viral_Disease,subclinical infection,0.6264705882352941
+Viral_Disease,opportunistic infectious disposition,0.5724489795918367
+Viral_Disease,parasitostatic disposition,0.6294871794871795
+Viral_Disease,fungistatic disposition,0.6444444444444444
+Viral_Disease,communicability end process boundary,0.5928571428571429
+Viral_Disease,site of infection,0.5833333333333334
+Viral_Disease,infectious disease sporadicity,0.6593023255813953
+Viral_Disease,infection start temporal region,0.5863636363636363
+Viral_Disease,infectious disease pandemic,0.675
+Viral_Disease,infection incidence proportion,0.5662790697674418
+Viral_Disease,infectious disorder,0.6375
+Viral_Disease,cytotoxin disposition,0.6264705882352941
+Viral_Disease,extracellular infection,0.6166666666666667
+Viral_Disease,communicability end temporal region,0.6166666666666667
+Viral_Disease,infectious disease incidence proportion,0.6230769230769231
+Viral_Disease,nursing-home acquired infection,0.5636363636363636
+Viral_Disease,infection start process boundary,0.5611111111111111
+Viral_Disease,reverse zoonotic disposition,0.6207317073170732
+Viral_Disease,T cell receptor complex,0.5611111111111111
+Viral_Disease,appearance of disorder,0.65
+Viral_Disease,infectious disease control objective specification,0.5928571428571429
+Viral_Disease,infection incidence rate profile,0.5833333333333334
+Viral_Disease,complex infection,0.5833333333333334
+Viral_Disease,collective disposition,0.6214285714285714
+Viral_Disease,infectious disease incidence rate,0.6456521739130434
+Viral_Disease,toxin disposition,0.65
+Viral_Disease,long-term non-progressing infectious disease course,0.590625
+Viral_Disease,bactericidal disposition,0.6662162162162162
+Viral_Disease,bacteriostatic disposition,0.6294871794871795
+Viral_Disease,infectious disposition,0.6214285714285714
+Viral_Disease,infectious disease epidemic,0.675
+Viral_Disease,infectious disease incidence,0.6695121951219513
+Viral_Disease,collective pathogenic disposition,0.6021739130434782
+Viral_Disease,hospital-acquired infection,0.6
+Viral_Disease,simple infection,0.6224137931034482
+Viral_Disease,immunosuppressive disposition,0.6166666666666667
+Viral_Disease,primary infection,0.6166666666666667
+Regional_Rural_Banks,B cell receptor complex,0.5895348837209302
+Regional_Rural_Banks,GO_0019814,0.55
+Regional_Rural_Banks,GO_0051093,0.55
+Regional_Rural_Banks,three-dimensional spatial region,0.6807692307692308
+Regional_Rural_Banks,communicability start temporal region,0.6429824561403508
+Regional_Rural_Banks,incubation end temporal region,0.63
+Regional_Rural_Banks,infection incidence rate,0.609090909090909
+Regional_Rural_Banks,infectious disease mortality rate,0.6386792452830189
+Regional_Rural_Banks,GO_0048525,0.55
+Regional_Rural_Banks,division of geopolitical entity,0.6068627450980393
+Regional_Rural_Banks,primary immunodeficiency,0.5863636363636363
+Regional_Rural_Banks,GO_0008150,0.55
+Regional_Rural_Banks,one-dimensional spatial region,0.67
+Regional_Rural_Banks,GEO_000000371,0.5409090909090909
+Regional_Rural_Banks,GO_0050777,0.55
+Regional_Rural_Banks,latency end process boundary,0.5958333333333333
+Regional_Rural_Banks,GO_0065007,0.55
+Regional_Rural_Banks,local infection,0.5928571428571429
+Regional_Rural_Banks,primary infectious disposition,0.59
+Regional_Rural_Banks,action specification,0.6
+Regional_Rural_Banks,establishment of a clinically abnormal colony,0.6346153846153847
+Regional_Rural_Banks,temporal region,0.65
+Regional_Rural_Banks,GO_0006959,0.55
+Regional_Rural_Banks,reservoir of pathogen role,0.6239130434782608
+Regional_Rural_Banks,geospatial region,0.6391891891891892
+Regional_Rural_Banks,ribonucleic acid,0.6722222222222223
+Regional_Rural_Banks,GO_0006955,0.55
+Regional_Rural_Banks,incubation end process boundary,0.6068627450980393
+Regional_Rural_Banks,GO_0044409,0.55
+Regional_Rural_Banks,GO_0002443,0.55
+Regional_Rural_Banks,GO_0032502,0.55
+Regional_Rural_Banks,primary infection role,0.6404761904761905
+Regional_Rural_Banks,GO_0032991,0.55
+Regional_Rural_Banks,latency end temporal region,0.6202127659574468
+Regional_Rural_Banks,Country,0.5611111111111111
+Regional_Rural_Banks,GO_0045087,0.55
+Regional_Rural_Banks,infection end temporal region,0.6540816326530612
+Regional_Rural_Banks,nucleic acid,0.60625
+Regional_Rural_Banks,two-dimensional spatial region,0.67
+Regional_Rural_Banks,zero-dimensional spatial region,0.6852941176470588
+Regional_Rural_Banks,GO_0048519,0.55
+Regional_Rural_Banks,GO_0044403,0.55
+Regional_Rural_Banks,active immunization against infectious agent,0.60625
+Regional_Rural_Banks,GO_0051234,0.55
+Regional_Rural_Banks,communicability end process boundary,0.6107142857142857
+Regional_Rural_Banks,geographical entity,0.6294871794871795
+Regional_Rural_Banks,infection start temporal region,0.6656862745098039
+Regional_Rural_Banks,pathogen birth temporal region,0.63
+Regional_Rural_Banks,GO_0002250,0.55
+Regional_Rural_Banks,communicability end temporal region,0.6318181818181818
+Regional_Rural_Banks,T cell receptor complex,0.5895348837209302
+Regional_Rural_Banks,GEO_000000370,0.5409090909090909
+Regional_Rural_Banks,CL_0000000,0.5166666666666666
+Regional_Rural_Banks,pathogen death temporal region,0.63
+Regional_Rural_Banks,zero-dimensional temporal region,0.7
+Regional_Rural_Banks,country,0.5611111111111111
+Regional_Rural_Banks,infection incidence rate profile,0.6038461538461539
+Regional_Rural_Banks,infectious agent reservoir,0.6239130434782608
+Regional_Rural_Banks,deoxyribonucleic acid,0.6451219512195122
+Regional_Rural_Banks,geographical feature,0.65
+Regional_Rural_Banks,GO_0042101,0.55
+Regional_Rural_Banks,infectious disease incidence rate,0.5820754716981132
+Regional_Rural_Banks,geographical region,0.6551282051282051
+Regional_Rural_Banks,GEO_000000372,0.5409090909090909
+Regional_Rural_Banks,GO_0044411,0.55
+Regional_Rural_Banks,spatial region,0.6264705882352941
+Regional_Rural_Banks,primary pathogen,0.6444444444444444
+Regional_Rural_Banks,GO_0019815,0.55
+Regional_Rural_Banks,simple infection,0.5611111111111111
+Regional_Rural_Banks,primary infection,0.6121621621621621
+Regional_Rural_Banks,GO_0044406,0.55
+Regional_Rural_Banks,one-dimensional temporal region,0.6852941176470588
+Regional_Rural_Banks,spatiotemporal region,0.6207317073170732
+SalaryAccount,establishment of a clinically abnormal colony,0.6051724137931035
+SalaryAccount,T cell receptor complex,0.5888888888888889
+Close_Contact,B cell receptor complex,0.6166666666666667
+Close_Contact,ERO_0000347,0.5333333333333333
+Close_Contact,GO_0019814,0.5369565217391304
+Close_Contact,GO_0051093,0.5369565217391304
+Close_Contact,incubation end temporal region,0.5895348837209302
+Close_Contact,infectious disease course,0.6342105263157894
+Close_Contact,pathogen portal of entry role,0.6166666666666667
+Close_Contact,GO_0048525,0.5369565217391304
+Close_Contact,pathogen portal of entry site,0.6166666666666667
+Close_Contact,contact pathogen transmission process,0.61
+Close_Contact,GO_0008150,0.5369565217391304
+Close_Contact,GEO_000000371,0.5269230769230769
+Close_Contact,GO_0050777,0.5369565217391304
+Close_Contact,latency end process boundary,0.6207317073170732
+Close_Contact,GO_0065007,0.5369565217391304
+Close_Contact,systematic infection,0.6318181818181818
+Close_Contact,action specification,0.6621212121212122
+Close_Contact,establishment of a clinically abnormal colony,0.5879310344827586
+Close_Contact,GO_0006959,0.5369565217391304
+Close_Contact,chronic infectious disease course,0.6021739130434782
+Close_Contact,acute infectious disease course,0.609090909090909
+Close_Contact,GO_0006955,0.5369565217391304
+Close_Contact,incubation end process boundary,0.6318181818181818
+Close_Contact,GO_0044409,0.5369565217391304
+Close_Contact,GO_0002443,0.5369565217391304
+Close_Contact,GO_0032502,0.5369565217391304
+Close_Contact,GO_0032991,0.5369565217391304
+Close_Contact,disease course,0.6351851851851852
+Close_Contact,latency end temporal region,0.6
+Close_Contact,GO_0045087,0.5369565217391304
+Close_Contact,infection end temporal region,0.5928571428571429
+Close_Contact,entry into host through host barriers,0.57
+Close_Contact,GO_0048519,0.5369565217391304
+Close_Contact,GO_0044403,0.5369565217391304
+Close_Contact,GO_0051234,0.5369565217391304
+Close_Contact,communicability end process boundary,0.6132653061224489
+Close_Contact,pathogen portal of entry,0.6391891891891892
+Close_Contact,ERO_0000006,0.5333333333333333
+Close_Contact,GO_0002250,0.5369565217391304
+Close_Contact,communicability end temporal region,0.575
+Close_Contact,T cell receptor complex,0.6166666666666667
+Close_Contact,GEO_000000370,0.5269230769230769
+Close_Contact,CL_0000000,0.5804347826086956
+Close_Contact,contact tracing,0.7
+Close_Contact,GO_0042101,0.5369565217391304
+Close_Contact,long-term non-progressing infectious disease course,0.590625
+Close_Contact,GEO_000000372,0.5269230769230769
+Close_Contact,GO_0044411,0.5369565217391304
+Close_Contact,GO_0019815,0.5369565217391304
+Close_Contact,entry into host,0.6285714285714286
+Close_Contact,GO_0044406,0.5369565217391304
+PartnershipCurrentAccount,establishment of a clinically abnormal colony,0.6071428571428572
+PartnershipCurrentAccount,T cell receptor complex,0.6166666666666667
+R8SnIhN7DlXnUHHZGIRbFe4,B cell receptor complex,0.5152173913043478
+Severe_COVID-19,B cell receptor complex,0.6078947368421053
+Severe_COVID-19,ERO_0000347,0.5653846153846154
+Severe_COVID-19,GO_0019814,0.57
+Severe_COVID-19,GO_0051093,0.57
+Severe_COVID-19,incubation end temporal region,0.5611111111111111
+Severe_COVID-19,infection incidence rate,0.5782051282051281
+Severe_COVID-19,infectious disease mortality rate,0.575
+Severe_COVID-19,pathogen portal of entry site,0.5636363636363636
+Severe_COVID-19,GO_0008150,0.53
+Severe_COVID-19,latency end process boundary,0.6127906976744186
+Severe_COVID-19,systematic infection,0.5928571428571429
+Severe_COVID-19,source of infection site,0.6294871794871795
+Severe_COVID-19,acute infection,0.5833333333333334
+Severe_COVID-19,site,0.5552631578947369
+Severe_COVID-19,establishment of a clinically abnormal colony,0.55
+Severe_COVID-19,GO_0006959,0.53
+Severe_COVID-19,acute infectious disease course,0.5804347826086956
+Severe_COVID-19,GO_0006955,0.53
+Severe_COVID-19,incubation end process boundary,0.5804347826086956
+Severe_COVID-19,GO_0044409,0.53
+Severe_COVID-19,pathogen portal of exit site,0.5662790697674418
+Severe_COVID-19,GO_0032991,0.53
+Severe_COVID-19,latency end temporal region,0.569047619047619
+Severe_COVID-19,infection end temporal region,0.5636363636363636
+Severe_COVID-19,GO_0048519,0.57
+Severe_COVID-19,GO_0051234,0.53
+Severe_COVID-19,communicability end process boundary,0.5676470588235294
+Severe_COVID-19,site of infection,0.60625
+Severe_COVID-19,ERO_0000006,0.5653846153846154
+Severe_COVID-19,communicability end temporal region,0.55
+Severe_COVID-19,T cell receptor complex,0.6078947368421053
+Severe_COVID-19,infection incidence rate profile,0.598936170212766
+Severe_COVID-19,GO_0042101,0.53
+Severe_COVID-19,infectious disease incidence rate,0.5958333333333333
+Severe_COVID-19,GO_0044411,0.53
+Severe_COVID-19,GO_0019815,0.57
+Severe_COVID-19,simple infection,0.6112903225806451
+Profit,B cell receptor complex,0.553448275862069
+Profit,GO_0019814,0.5125
+Profit,object aggregate,0.5409090909090909
+Profit,GO_0051093,0.5125
+Profit,incubation end temporal region,0.5333333333333333
+Profit,infection incidence rate,0.55
+Profit,infectious structure aggregate,0.5333333333333333
+Profit,infectious disease mortality rate,0.5269230769230769
+Profit,GO_0048525,0.5125
+Profit,GO_0008150,0.5125
+Profit,GO_0050777,0.5125
+Profit,latency end process boundary,0.5382352941176471
+Profit,GO_0065007,0.5125
+Profit,acellular structure aggregate,0.5071428571428571
+Profit,establishment of a clinically abnormal colony,0.5088235294117647
+Profit,GO_0006959,0.5125
+Profit,GO_0006955,0.5125
+Profit,incubation end process boundary,0.5310810810810811
+Profit,GO_0044409,0.5125
+Profit,GO_0002443,0.5125
+Profit,GO_0032502,0.5125
+Profit,GO_0032991,0.5125
+Profit,latency end temporal region,0.5409090909090909
+Profit,GO_0045087,0.5125
+Profit,infection end temporal region,0.5357142857142857
+Profit,production,0.7
+Profit,GO_0048519,0.5125
+Profit,GO_0044403,0.5125
+Profit,GO_0051234,0.5125
+Profit,communicability end process boundary,0.5214285714285714
+Profit,GO_0002250,0.5125
+Profit,communicability end temporal region,0.523170731707317
+Profit,T cell receptor complex,0.553448275862069
+Profit,infection incidence rate profile,0.581578947368421
+Profit,GO_0042101,0.5125
+Profit,infectious disease incidence rate,0.5269230769230769
+Profit,GO_0044411,0.5125
+Profit,GO_0019815,0.5125
+Profit,GO_0044406,0.5125
+Profit,negative regulation of production,0.5525641025641026
+COVID-19 dedicated facility,B cell receptor complex,0.61
+COVID-19 dedicated facility,hospital facility,0.7227272727272727
+COVID-19 dedicated facility,GO_0019814,0.5310810810810811
+COVID-19 dedicated facility,GO_0051093,0.5310810810810811
+COVID-19 dedicated facility,source of infection role,0.6068627450980393
+COVID-19 dedicated facility,incubation end temporal region,0.6254385964912281
+COVID-19 dedicated facility,source of infection,0.6021739130434782
+COVID-19 dedicated facility,infection incidence rate,0.6460784313725491
+COVID-19 dedicated facility,infectious disease mortality rate,0.6666666666666667
+COVID-19 dedicated facility,GO_0048525,0.504054054054054
+COVID-19 dedicated facility,facility,0.6785714285714286
+COVID-19 dedicated facility,GO_0008150,0.504054054054054
+COVID-19 dedicated facility,processed material,0.6277777777777778
+COVID-19 dedicated facility,GO_0050777,0.504054054054054
+COVID-19 dedicated facility,latency end process boundary,0.6136363636363636
+COVID-19 dedicated facility,GO_0065007,0.504054054054054
+COVID-19 dedicated facility,source of infection site,0.6264705882352941
+COVID-19 dedicated facility,establishment of a clinically abnormal colony,0.5888888888888889
+COVID-19 dedicated facility,GO_0006959,0.504054054054054
+COVID-19 dedicated facility,cell,0.5467741935483871
+COVID-19 dedicated facility,GO_0006955,0.504054054054054
+COVID-19 dedicated facility,incubation end process boundary,0.6224137931034482
+COVID-19 dedicated facility,GO_0044409,0.504054054054054
+COVID-19 dedicated facility,GO_0002443,0.504054054054054
+COVID-19 dedicated facility,GO_0032502,0.504054054054054
+COVID-19 dedicated facility,material entity,0.6404761904761905
+COVID-19 dedicated facility,GO_0032991,0.504054054054054
+COVID-19 dedicated facility,latency end temporal region,0.6166666666666667
+COVID-19 dedicated facility,GO_0045087,0.504054054054054
+COVID-19 dedicated facility,infection end temporal region,0.6285714285714286
+COVID-19 dedicated facility,material processing,0.5804347826086956
+COVID-19 dedicated facility,GO_0048519,0.5310810810810811
+COVID-19 dedicated facility,quality,0.5970588235294118
+COVID-19 dedicated facility,GO_0044403,0.504054054054054
+COVID-19 dedicated facility,active immunization against infectious agent,0.6049295774647887
+COVID-19 dedicated facility,GO_0051234,0.504054054054054
+COVID-19 dedicated facility,cell space,0.5851351351351352
+COVID-19 dedicated facility,communicability end process boundary,0.6246031746031746
+COVID-19 dedicated facility,GO_0002250,0.504054054054054
+COVID-19 dedicated facility,communicability end temporal region,0.6435483870967742
+COVID-19 dedicated facility,T cell receptor complex,0.61
+COVID-19 dedicated facility,CL_0000000,0.504054054054054
+COVID-19 dedicated facility,infection incidence rate profile,0.6703389830508475
+COVID-19 dedicated facility,GO_0042101,0.504054054054054
+COVID-19 dedicated facility,infectious disease incidence rate,0.6333333333333333
+COVID-19 dedicated facility,GO_0044411,0.504054054054054
+COVID-19 dedicated facility,GO_0019815,0.5310810810810811
+COVID-19 dedicated facility,healthcare facility,0.7326086956521739
+COVID-19 dedicated facility,GO_0044406,0.504054054054054
+R7XBnVsDnaC0Py9h4dBPM13,B cell receptor complex,0.5369565217391304
+R7XBnVsDnaC0Py9h4dBPM13,establishment of a clinically abnormal colony,0.5676470588235294
+Security_Guard,B cell receptor complex,0.5581081081081081
+Security_Guard,ERO_0000347,0.57
+Security_Guard,innate immunity to infectious agent,0.6132653061224489
+Security_Guard,incubation end temporal region,0.5863636363636363
+Security_Guard,OBI_0000094,0.53
+Security_Guard,pathogen portal of entry role,0.5895348837209302
+Security_Guard,disease surveillance objective specification,0.5879310344827586
+Security_Guard,passive immunity to infectious agent,0.63
+Security_Guard,pathogen portal of entry site,0.5662790697674418
+Security_Guard,surveillance process,0.6264705882352941
+Security_Guard,processed material,0.60625
+Security_Guard,latency end process boundary,0.6166666666666667
+Security_Guard,establishment of a clinically abnormal colony,0.5855932203389831
+Security_Guard,leukocyte-mediated immunity to infectious agent,0.5975409836065574
+Security_Guard,incubation end process boundary,0.6055555555555556
+Security_Guard,material entity,0.6224137931034482
+Security_Guard,pathogen surveillance,0.5928571428571429
+Security_Guard,immunity to pathogen,0.6264705882352941
+Security_Guard,leukocyte mediated immunity,0.5963414634146341
+Security_Guard,latency end temporal region,0.5963414634146341
+Security_Guard,infection end temporal region,0.5895348837209302
+Security_Guard,material processing,0.6015151515151516
+Security_Guard,entry into host through host barriers,0.6068627450980393
+Security_Guard,OBI_0000011,0.53
+Security_Guard,communicability end process boundary,0.63
+Security_Guard,OBI_0000070,0.53
+Security_Guard,OBI_0100026,0.53
+Security_Guard,pathogen portal of entry,0.581578947368421
+Security_Guard,ERO_0000006,0.57
+Security_Guard,communicability end temporal region,0.6132653061224489
+Security_Guard,T cell receptor complex,0.5581081081081081
+Security_Guard,OBI_0000047,0.53
+Security_Guard,vector surveillance,0.6318181818181818
+Security_Guard,herd immunity to infectious organism,0.61
+Security_Guard,sterilizing immunity to infectious agent,0.6166666666666667
+Security_Guard,OBI_0000086,0.53
+Security_Guard,entry into host,0.6224137931034482
+Security_Guard,acquired immunity to infectious agent,0.6264705882352941
+Security_Guard,humoral immunity to infectious agent,0.61
+Education,B cell receptor complex,0.575
+Education,GO_0019814,0.5026315789473684
+Education,GO_0051093,0.5026315789473684
+Education,biological regulation,0.6833333333333332
+Education,information content entity,0.5928571428571429
+Education,negative regulation of viral process,0.6055555555555556
+Education,GO_0048525,0.5026315789473684
+Education,descriptive information content entity,0.598936170212766
+Education,GO_0008150,0.5026315789473684
+Education,negative regulation of biological process,0.59
+Education,GO_0050777,0.5026315789473684
+Education,GO_0065007,0.5026315789473684
+Education,negative regulation of life-sustaining process,0.5772727272727273
+Education,infectious disease control strategy,0.5863636363636363
+Education,designative information content entity,0.5776595744680851
+Education,negative regulation of developmental process,0.5820754716981132
+Education,negative regulation of establishment of localization,0.5811475409836065
+Education,action specification,0.6913793103448276
+Education,establishment of a clinically abnormal colony,0.5611111111111111
+Education,GO_0006959,0.5026315789473684
+Education,history,0.575
+Education,GO_0006955,0.5026315789473684
+Education,GO_0044409,0.5026315789473684
+Education,GO_0002443,0.5026315789473684
+Education,GO_0032502,0.5026315789473684
+Education,GO_0032991,0.5026315789473684
+Education,GO_0045087,0.5026315789473684
+Education,negative regulation of replication,0.636046511627907
+Education,quarantine control strategy,0.6166666666666667
+Education,GO_0048519,0.5026315789473684
+Education,place closure control strategy,0.5782051282051281
+Education,GO_0044403,0.5026315789473684
+Education,GO_0051234,0.5026315789473684
+Education,negative regulation of immune response,0.598936170212766
+Education,vector control strategy,0.60625
+Education,GO_0002250,0.5026315789473684
+Education,case isolation control strategy,0.6
+Education,T cell receptor complex,0.575
+Education,infectious disease control objective specification,0.5855932203389831
+Education,GO_0042101,0.5026315789473684
+Education,GO_0044411,0.5026315789473684
+Education,GO_0019815,0.5026315789473684
+Education,directive information content entity,0.6055555555555556
+Education,GO_0044406,0.5026315789473684
+Education,negative regulation of production,0.6404761904761905
+Anniversary,B cell receptor complex,0.5382352941176471
+Anniversary,incubation end temporal region,0.6207317073170732
+Anniversary,latency end process boundary,0.6551282051282051
+Anniversary,pathogen birth process boundary,0.6404761904761905
+Anniversary,establishment of a clinically abnormal colony,0.575
+Anniversary,CARO_0000062,0.5369565217391304
+Anniversary,incubation end process boundary,0.6404761904761905
+Anniversary,CARO_0000000,0.5369565217391304
+Anniversary,latency end temporal region,0.6342105263157894
+Anniversary,infection end temporal region,0.6
+Anniversary,communicability end process boundary,0.6202127659574468
+Anniversary,CARO_0000005,0.5369565217391304
+Anniversary,pathogen birth temporal region,0.6207317073170732
+Anniversary,communicability end temporal region,0.5804347826086956
+Anniversary,T cell receptor complex,0.5382352941176471
+Recurring,B cell receptor complex,0.575
+Recurring,ERO_0000347,0.55
+Recurring,GO_0019814,0.5026315789473684
+Recurring,GO_0051093,0.5026315789473684
+Recurring,incubation end temporal region,0.6038461538461539
+Recurring,infection incidence rate,0.5712121212121213
+Recurring,infectious disease mortality rate,0.569047619047619
+Recurring,GO_0048525,0.5026315789473684
+Recurring,GO_0008150,0.5026315789473684
+Recurring,GO_0050777,0.5026315789473684
+Recurring,latency end process boundary,0.5581081081081081
+Recurring,GO_0065007,0.5026315789473684
+Recurring,establishment of a clinically abnormal colony,0.524074074074074
+Recurring,GO_0006959,0.5026315789473684
+Recurring,GO_0006955,0.5026315789473684
+Recurring,incubation end process boundary,0.55
+Recurring,GO_0044409,0.5026315789473684
+Recurring,GO_0002443,0.5026315789473684
+Recurring,GO_0032502,0.5026315789473684
+Recurring,GO_0032991,0.5026315789473684
+Recurring,latency end temporal region,0.6166666666666667
+Recurring,GO_0045087,0.5026315789473684
+Recurring,infection end temporal region,0.6078947368421053
+Recurring,GO_0048519,0.5026315789473684
+Recurring,place closure control strategy,0.6038461538461539
+Recurring,GO_0044403,0.5026315789473684
+Recurring,GO_0051234,0.5026315789473684
+Recurring,communicability end process boundary,0.5388888888888889
+Recurring,ERO_0000006,0.55
+Recurring,GO_0002250,0.5026315789473684
+Recurring,communicability end temporal region,0.5863636363636363
+Recurring,T cell receptor complex,0.575
+Recurring,CL_0000000,0.5026315789473684
+Recurring,infection incidence rate profile,0.5719512195121951
+Recurring,GO_0042101,0.5026315789473684
+Recurring,infectious disease incidence rate,0.569047619047619
+Recurring,GO_0044411,0.5026315789473684
+Recurring,GO_0019815,0.5026315789473684
+Recurring,GO_0044406,0.5026315789473684
+ETB,B cell receptor complex,0.5269230769230769
+ETB,T cell receptor complex,0.5269230769230769
+Exposure_to_Covid_-19,B cell receptor complex,0.6318181818181818
+Exposure_to_Covid_-19,incubation end temporal region,0.5872549019607843
+Exposure_to_Covid_-19,susceptibility to infectious agent,0.6318181818181818
+Exposure_to_Covid_-19,drug susceptibility of infectious agent,0.6
+Exposure_to_Covid_-19,latency end process boundary,0.5928571428571429
+Exposure_to_Covid_-19,susceptibility,0.5928571428571429
+Exposure_to_Covid_-19,establishment of a clinically abnormal colony,0.5863636363636363
+Exposure_to_Covid_-19,incubation end process boundary,0.5846153846153846
+Exposure_to_Covid_-19,latency end temporal region,0.5958333333333333
+Exposure_to_Covid_-19,infection end temporal region,0.61
+Exposure_to_Covid_-19,drug susceptibility,0.575
+Exposure_to_Covid_-19,place closure control strategy,0.6460784313725491
+Exposure_to_Covid_-19,communicability end process boundary,0.5903508771929825
+Exposure_to_Covid_-19,communicability end temporal region,0.5928571428571429
+Exposure_to_Covid_-19,T cell receptor complex,0.6318181818181818
+Exposure_to_Covid_-19,CL_0000000,0.5145161290322581
+Non_Scheduled_Banks,B cell receptor complex,0.5928571428571429
+Non_Scheduled_Banks,GO_0019814,0.5189655172413793
+Non_Scheduled_Banks,GO_0051093,0.5189655172413793
+Non_Scheduled_Banks,incubation end temporal region,0.6336734693877552
+Non_Scheduled_Banks,infectious disease course,0.6318181818181818
+Non_Scheduled_Banks,obligatory symbiont,0.581578947368421
+Non_Scheduled_Banks,GO_0048525,0.5189655172413793
+Non_Scheduled_Banks,pathogen portal of entry site,0.5958333333333333
+Non_Scheduled_Banks,GO_0008150,0.5189655172413793
+Non_Scheduled_Banks,GO_0050777,0.5189655172413793
+Non_Scheduled_Banks,latency end process boundary,0.6202127659574468
+Non_Scheduled_Banks,GO_0065007,0.5189655172413793
+Non_Scheduled_Banks,source of infection site,0.5895348837209302
+Non_Scheduled_Banks,site,0.5369565217391304
+Non_Scheduled_Banks,establishment of a clinically abnormal colony,0.590625
+Non_Scheduled_Banks,GO_0006959,0.5189655172413793
+Non_Scheduled_Banks,chronic infectious disease course,0.6038461538461539
+Non_Scheduled_Banks,reservoir of pathogen role,0.5833333333333334
+Non_Scheduled_Banks,acute infectious disease course,0.61
+Non_Scheduled_Banks,planned process,0.6264705882352941
+Non_Scheduled_Banks,GO_0006955,0.5189655172413793
+Non_Scheduled_Banks,incubation end process boundary,0.65
+Non_Scheduled_Banks,GO_0044409,0.5189655172413793
+Non_Scheduled_Banks,GO_0002443,0.5189655172413793
+Non_Scheduled_Banks,GO_0032502,0.5189655172413793
+Non_Scheduled_Banks,pathogen portal of exit site,0.598936170212766
+Non_Scheduled_Banks,GO_0032991,0.5189655172413793
+Non_Scheduled_Banks,disease course,0.6015151515151516
+Non_Scheduled_Banks,latency end temporal region,0.6021739130434782
+Non_Scheduled_Banks,GO_0045087,0.5189655172413793
+Non_Scheduled_Banks,plan specification,0.6121621621621621
+Non_Scheduled_Banks,infection end temporal region,0.6375
+Non_Scheduled_Banks,GO_0048519,0.5189655172413793
+Non_Scheduled_Banks,GO_0044403,0.5189655172413793
+Non_Scheduled_Banks,GO_0051234,0.5189655172413793
+Non_Scheduled_Banks,communicability end process boundary,0.6136363636363636
+Non_Scheduled_Banks,site of infection,0.5611111111111111
+Non_Scheduled_Banks,GO_0002250,0.5189655172413793
+Non_Scheduled_Banks,communicability end temporal region,0.6166666666666667
+Non_Scheduled_Banks,T cell receptor complex,0.5928571428571429
+Non_Scheduled_Banks,CL_0000000,0.553448275862069
+Non_Scheduled_Banks,infectious agent reservoir,0.6055555555555556
+Non_Scheduled_Banks,GO_0042101,0.5189655172413793
+Non_Scheduled_Banks,long-term non-progressing infectious disease course,0.5785714285714285
+Non_Scheduled_Banks,GO_0044411,0.5189655172413793
+Non_Scheduled_Banks,GO_0019815,0.5189655172413793
+Non_Scheduled_Banks,GO_0044406,0.5189655172413793
+Zone,B cell receptor complex,0.524074074074074
+Zone,three-dimensional spatial region,0.5333333333333333
+Zone,communicability start temporal region,0.523170731707317
+Zone,incubation end temporal region,0.5382352941176471
+Zone,infectious disease course,0.5189655172413793
+Zone,division of geopolitical entity,0.5357142857142857
+Zone,one-dimensional spatial region,0.5382352941176471
+Zone,GEO_000000371,0.5088235294117647
+Zone,local infection,0.6078947368421053
+Zone,temporal region,0.5552631578947369
+Zone,chronic infectious disease course,0.5310810810810811
+Zone,cell,0.575
+Zone,geospatial region,0.5452380952380953
+Zone,acute infectious disease course,0.5071428571428571
+Zone,disease course,0.5611111111111111
+Zone,latency end temporal region,0.5145161290322581
+Zone,infection end temporal region,0.5409090909090909
+Zone,two-dimensional spatial region,0.5382352941176471
+Zone,zero-dimensional spatial region,0.5642857142857143
+Zone,place closure control strategy,0.5382352941176471
+Zone,cell space,0.5214285714285714
+Zone,infection start temporal region,0.5357142857142857
+Zone,pathogen birth temporal region,0.5382352941176471
+Zone,communicability end temporal region,0.5269230769230769
+Zone,T cell receptor complex,0.524074074074074
+Zone,GEO_000000370,0.5088235294117647
+Zone,pathogen death temporal region,0.5382352941176471
+Zone,zero-dimensional temporal region,0.5611111111111111
+Zone,long-term non-progressing infectious disease course,0.5045454545454545
+Zone,geographical region,0.5369565217391304
+Zone,GEO_000000372,0.5088235294117647
+Zone,spatial region,0.5611111111111111
+Zone,one-dimensional temporal region,0.5357142857142857
+Zone,spatiotemporal region,0.53
+State,B cell receptor complex,0.5214285714285714
+State,incubation end temporal region,0.5357142857142857
+State,infection incidence rate,0.5879310344827586
+State,infectious disease mortality rate,0.581578947368421
+State,pathogen portal of entry site,0.5676470588235294
+State,latency end process boundary,0.5409090909090909
+State,source of infection site,0.5879310344827586
+State,site,0.7833333333333333
+State,establishment of a clinically abnormal colony,0.53
+State,incubation end process boundary,0.5333333333333333
+State,pathogen portal of exit site,0.5712121212121213
+State,latency end temporal region,0.54375
+State,infection end temporal region,0.5382352941176471
+State,communicability end process boundary,0.523170731707317
+State,site of infection,0.5863636363636363
+State,communicability end temporal region,0.525
+State,case isolation control strategy,0.5888888888888889
+State,T cell receptor complex,0.5571428571428572
+State,infection incidence rate profile,0.5581081081081081
+State,infectious disease incidence rate,0.5552631578947369
+Gathering,B cell receptor complex,0.5125
+Gathering,object aggregate,0.61
+Gathering,infectious disease course,0.5382352941176471
+Gathering,infectious structure aggregate,0.5525641025641026
+Gathering,acellular structure aggregate,0.581578947368421
+Gathering,action specification,0.6224137931034482
+Gathering,establishment of a clinically abnormal colony,0.5425925925925926
+Gathering,chronic infectious disease course,0.5452380952380953
+Gathering,acute infectious disease course,0.575
+Gathering,disease course,0.5804347826086956
+Gathering,function,0.6264705882352941
+Gathering,T cell receptor complex,0.54375
+Gathering,herd immunity to infectious organism,0.5833333333333334
+Gathering,long-term non-progressing infectious disease course,0.5666666666666667
+Home,B cell receptor complex,0.5611111111111111
+Home,hospital facility,0.5452380952380953
+Home,GO_0019814,0.5214285714285714
+Home,GO_0051093,0.5214285714285714
+Home,communicability start temporal region,0.523170731707317
+Home,latency start process boundary,0.5088235294117647
+Home,infectious structure aggregate,0.5088235294117647
+Home,GO_0048525,0.5214285714285714
+Home,pathogen portal of entry site,0.5409090909090909
+Home,GO_0008150,0.5214285714285714
+Home,GO_0050777,0.5214285714285714
+Home,GO_0065007,0.5214285714285714
+Home,source of infection site,0.5214285714285714
+Home,local infection,0.5552631578947369
+Home,communicability start process boundary,0.5214285714285714
+Home,site,0.575
+Home,symptomatic infectious structure carrier,0.5181818181818182
+Home,architectual structure,0.5269230769230769
+Home,establishment of a clinically abnormal colony,0.5112244897959184
+Home,GO_0006959,0.5214285714285714
+Home,GO_0006955,0.5214285714285714
+Home,GO_0044409,0.5214285714285714
+Home,asymptomatic infectious structure carrier,0.5166666666666666
+Home,GO_0002443,0.5214285714285714
+Home,GO_0032502,0.5214285714285714
+Home,pathogen portal of exit site,0.54375
+Home,GO_0032991,0.5214285714285714
+Home,Country,0.5409090909090909
+Home,GO_0045087,0.5214285714285714
+Home,incubation start process boundary,0.504054054054054
+Home,infectious structure host role,0.5382352941176471
+Home,infectious structure host,0.5189655172413793
+Home,GO_0048519,0.5214285714285714
+Home,place closure control strategy,0.5088235294117647
+Home,GO_0044403,0.5214285714285714
+Home,GO_0051234,0.5214285714285714
+Home,site of infection,0.5452380952380953
+Home,infection start temporal region,0.5357142857142857
+Home,GO_0002250,0.5214285714285714
+Home,infection start process boundary,0.5055555555555555
+Home,T cell receptor complex,0.5611111111111111
+Home,country,0.5409090909090909
+Home,GO_0042101,0.5214285714285714
+Home,GO_0044411,0.5214285714285714
+Home,GO_0019815,0.5214285714285714
+Home,infectious structure,0.5333333333333333
+Home,GO_0044406,0.5214285714285714
+Personal,B cell receptor complex,0.5790322580645162
+Personal,ERO_0000347,0.6078947368421053
+Personal,GO_0019814,0.5055555555555555
+Personal,GO_0051093,0.5055555555555555
+Personal,innate immunity to infectious agent,0.5430232558139535
+Personal,incubation end temporal region,0.5552631578947369
+Personal,normal resident microbiota population,0.5611111111111111
+Personal,innate immune response,0.6166666666666667
+Personal,infection incidence rate,0.575
+Personal,infectious disease mortality rate,0.5719512195121951
+Personal,GO_0048525,0.5055555555555555
+Personal,symptomatic carrier,0.5611111111111111
+Personal,colonization of human,0.553448275862069
+Personal,primary immunodeficiency,0.575
+Personal,GO_0008150,0.5055555555555555
+Personal,GO_0050777,0.5055555555555555
+Personal,latency end process boundary,0.6166666666666667
+Personal,GO_0065007,0.5055555555555555
+Personal,local infection,0.5804347826086956
+Personal,primary infectious disposition,0.581578947368421
+Personal,symptomatic infectious structure carrier,0.5333333333333333
+Personal,establishment of a clinically abnormal colony,0.5632075471698114
+Personal,GO_0006959,0.5055555555555555
+Personal,GO_0006955,0.5055555555555555
+Personal,incubation end process boundary,0.6038461538461539
+Personal,GO_0044409,0.5055555555555555
+Personal,GO_0002443,0.5055555555555555
+Personal,GO_0032502,0.5055555555555555
+Personal,primary infection role,0.6166666666666667
+Personal,GO_0032991,0.5055555555555555
+Personal,latency end temporal region,0.5642857142857143
+Personal,GO_0045087,0.5055555555555555
+Personal,infection end temporal region,0.5851351351351352
+Personal,GO_0048519,0.5055555555555555
+Personal,symptomatic carrier role,0.60625
+Personal,GO_0044403,0.5055555555555555
+Personal,GO_0051234,0.5055555555555555
+Personal,communicability end process boundary,0.5863636363636363
+Personal,symptom,0.5833333333333334
+Personal,ERO_0000006,0.6078947368421053
+Personal,GO_0002250,0.5055555555555555
+Personal,communicability end temporal region,0.5430232558139535
+Personal,symptomatic infectious agent carrier,0.5636363636363636
+Personal,T cell receptor complex,0.5790322580645162
+Personal,CL_0000000,0.5055555555555555
+Personal,infection incidence rate profile,0.575
+Personal,GO_0042101,0.5055555555555555
+Personal,infectious disease incidence rate,0.5475609756097561
+Personal,GO_0044411,0.5055555555555555
+Personal,primary pathogen,0.6166666666666667
+Personal,GO_0019815,0.5055555555555555
+Personal,primary infection,0.61
+Personal,infectious human pathogen,0.5712121212121213
+Personal,GO_0044406,0.5055555555555555
+Car,droplet pathogen transmission process,0.5
+Car,B cell receptor complex,0.5269230769230769
+Car,contact pathogen transmission process,0.525
+Car,disease transmission model,0.5189655172413793
+Car,pathogen vehicle,0.5026315789473684
+Car,generative stage,0.5026315789473684
+Car,pathogen generative stage,0.5214285714285714
+Car,TRANS_0000008,0.5125
+Car,establishment of a clinically abnormal colony,0.5125
+Car,pathogen transmission process,0.5125
+Car,transmission interval,0.5333333333333333
+Car,indirect pathogen transmission process,0.523170731707317
+Car,TRANS_0000002,0.5125
+Car,infectious agent generative stage,0.5333333333333333
+Car,biological vehicle,0.5452380952380953
+Car,pathogen vehicle role,0.5333333333333333
+Car,TRANS_0000000,0.5125
+Car,TRANS_0000007,0.5125
+Car,T cell receptor complex,0.5269230769230769
+Car,CL_0000000,0.5269230769230769
+Car,infectious structure generative stage,0.5
+Car,biological vehicle role,0.5653846153846154
+TermDeposit,T cell receptor complex,0.6264705882352941
+Lending,B cell receptor complex,0.5166666666666666
+Lending,incubation end temporal region,0.5851351351351352
+Lending,latency end process boundary,0.5928571428571429
+Lending,establishment of a clinically abnormal colony,0.5461538461538461
+Lending,incubation end process boundary,0.5552631578947369
+Lending,latency end temporal region,0.6264705882352941
+Lending,infection end temporal region,0.5888888888888889
+Lending,communicability end process boundary,0.5662790697674418
+Lending,communicability end temporal region,0.5928571428571429
+Lending,T cell receptor complex,0.5166666666666666
+Operational,droplet pathogen transmission process,0.6166666666666667
+Operational,B cell receptor complex,0.5970588235294118
+Operational,pathogen death process boundary,0.6166666666666667
+Operational,process profile,0.6423076923076922
+Operational,latency start process boundary,0.5963414634146341
+Operational,process of establishing an infection,0.598936170212766
+Operational,infection incidence rate,0.6214285714285714
+Operational,negative regulation of viral process,0.6414893617021277
+Operational,infectious disease mortality rate,0.5863636363636363
+Operational,contact pathogen transmission process,0.6166666666666667
+Operational,surveillance process,0.5467741935483871
+Operational,negative regulation of biological process,0.6230769230769231
+Operational,latency end process boundary,0.5782051282051281
+Operational,negative regulation of life-sustaining process,0.5903508771929825
+Operational,process that results in death,0.625
+Operational,communicability start process boundary,0.5724489795918367
+Operational,pathogen birth process boundary,0.6166666666666667
+Operational,negative regulation of developmental process,0.6136363636363636
+Operational,establishment of a clinically abnormal colony,0.575
+Operational,process boundary,0.6351851851851852
+Operational,pathogen transmission process,0.625
+Operational,planned process,0.6038461538461539
+Operational,incubation end process boundary,0.5928571428571429
+Operational,indirect pathogen transmission process,0.5928571428571429
+Operational,biological process,0.5879310344827586
+Operational,incubation start process boundary,0.5863636363636363
+Operational,function,0.6605263157894737
+Operational,developmental process,0.6375
+Operational,communicability end process boundary,0.5776595744680851
+Operational,horizontal pathogen transmission process,0.6068627450980393
+Operational,infection start process boundary,0.5895348837209302
+Operational,T cell receptor complex,0.5970588235294118
+Operational,infection incidence rate profile,0.6127906976744186
+Operational,process,0.6166666666666667
+Operational,infectious disease incidence rate,0.5863636363636363
+Operational,symbiotic process,0.5928571428571429
+PriorityAccount,establishment of a clinically abnormal colony,0.5833333333333334
+PriorityAccount,T cell receptor complex,0.581578947368421
+SecondaryContact,contact pathogen transmission process,0.6386792452830189
+SecondaryContact,secondary infection role,0.75
+SecondaryContact,establishment of a clinically abnormal colony,0.5975409836065574
+SecondaryContact,secondary infection,0.7928571428571428
+SecondaryContact,T cell receptor complex,0.6038461538461539
+SecondaryContact,contact tracing,0.7080645161290323
+Credit',T cell receptor complex,0.5833333333333334
+InfectedNeighbor,B cell receptor complex,0.5782051282051281
+InfectedNeighbor,infected population,0.7357142857142857
+InfectedNeighbor,T cell receptor complex,0.5782051282051281
+InfectedSister,infected population,0.7227272727272727
+InfectedSister,T cell receptor complex,0.5851351351351352
+Customer,B cell receptor complex,0.6112903225806451
+Customer,incubation end temporal region,0.6078947368421053
+Customer,latency end process boundary,0.5611111111111111
+Customer,establishment of a clinically abnormal colony,0.5443396226415094
+Customer,incubation end process boundary,0.6038461538461539
+Customer,latency end temporal region,0.5642857142857143
+Customer,infection end temporal region,0.5851351351351352
+Customer,communicability end process boundary,0.5863636363636363
+Customer,communicability end temporal region,0.5662790697674418
+Customer,case isolation control strategy,0.5782051282051281
+Customer,T cell receptor complex,0.6112903225806451
+Customer,CL_0000000,0.5055555555555555
+OnHuman,colonization of human,0.7
+OnHuman,establishment of a clinically abnormal colony,0.5461538461538461
+OnHuman,infectious human pathogen,0.6375
+InfectedMother,infected population,0.7530303030303032
+InfectedMother,T cell receptor complex,0.5851351351351352
+Coronavirus,establishment of a clinically abnormal colony,0.5392857142857143
+Loan,B cell receptor complex,0.524074074074074
+Loan,incubation end temporal region,0.5382352941176471
+Loan,latency end process boundary,0.54375
+Loan,establishment of a clinically abnormal colony,0.5316326530612244
+Loan,incubation end process boundary,0.5071428571428571
+Loan,latency end temporal region,0.5790322580645162
+Loan,plan specification,0.5863636363636363
+Loan,infection end temporal region,0.5409090909090909
+Loan,communicability end process boundary,0.525
+Loan,communicability end temporal region,0.5525641025641026
+Loan,T cell receptor complex,0.524074074074074
+Private_Sector,B cell receptor complex,0.6391891891891892
+Private_Sector,three-dimensional spatial region,0.6021739130434782
+Private_Sector,innate immunity to infectious agent,0.6336734693877552
+Private_Sector,communicability start temporal region,0.6068627450980393
+Private_Sector,incubation end temporal region,0.6318181818181818
+Private_Sector,normal resident microbiota population,0.6068627450980393
+Private_Sector,innate immune response,0.6444444444444444
+Private_Sector,infection incidence rate,0.6078947368421053
+Private_Sector,infectious disease mortality rate,0.598936170212766
+Private_Sector,symptomatic carrier,0.6318181818181818
+Private_Sector,host,0.5611111111111111
+Private_Sector,division of geopolitical entity,0.5833333333333334
+Private_Sector,generically dependent continuant,0.6021739130434782
+Private_Sector,one-dimensional spatial region,0.5863636363636363
+Private_Sector,latency end process boundary,0.6404761904761905
+Private_Sector,definitive host,0.656896551724138
+Private_Sector,local infection,0.656896551724138
+Private_Sector,symptomatic infectious structure carrier,0.6166666666666667
+Private_Sector,dead-end host,0.6351851851851852
+Private_Sector,establishment of a clinically abnormal colony,0.5516949152542373
+Private_Sector,temporal region,0.656896551724138
+Private_Sector,colonized host,0.6285714285714286
+Private_Sector,pathogen host,0.7092592592592593
+Private_Sector,geospatial region,0.6435483870967742
+Private_Sector,incubation end process boundary,0.6277777777777778
+Private_Sector,latency end temporal region,0.6451219512195122
+Private_Sector,infection end temporal region,0.6127906976744186
+Private_Sector,dead-end host role,0.6375
+Private_Sector,intermediate host role,0.7
+Private_Sector,infectious structure host role,0.6318181818181818
+Private_Sector,entry into host through host barriers,0.6068627450980393
+Private_Sector,infectious structure host,0.6294871794871795
+Private_Sector,two-dimensional spatial region,0.5863636363636363
+Private_Sector,zero-dimensional spatial region,0.6055555555555556
+Private_Sector,symptomatic carrier role,0.6078947368421053
+Private_Sector,specifically dependent continuant,0.598936170212766
+Private_Sector,place closure control strategy,0.6772727272727272
+Private_Sector,infectious agent host role,0.625
+Private_Sector,communicability end process boundary,0.61
+Private_Sector,symptom,0.5928571428571429
+Private_Sector,infectious agent host,0.6214285714285714
+Private_Sector,symbiont host role,0.6375
+Private_Sector,infection start temporal region,0.6055555555555556
+Private_Sector,establishment of localization in host,0.5676470588235294
+Private_Sector,pathogen birth temporal region,0.6318181818181818
+Private_Sector,host role,0.5804347826086956
+Private_Sector,communicability end temporal region,0.6132653061224489
+Private_Sector,symptomatic infectious agent carrier,0.63
+Private_Sector,colonization of host,0.6264705882352941
+Private_Sector,T cell receptor complex,0.6662162162162162
+Private_Sector,intermediate host,0.7080645161290323
+Private_Sector,definitive host role,0.6558823529411765
+Private_Sector,pathogen death temporal region,0.6545454545454545
+Private_Sector,zero-dimensional temporal region,0.6239130434782608
+Private_Sector,infection incidence rate profile,0.6021739130434782
+Private_Sector,infectious disease incidence rate,0.598936170212766
+Private_Sector,independent continuant,0.5888888888888889
+Private_Sector,adhesion of symbiont to host,0.5928571428571429
+Private_Sector,geographical region,0.6318181818181818
+Private_Sector,pathogen host role,0.7
+Private_Sector,spatial region,0.6642857142857143
+Private_Sector,entry into host,0.656896551724138
+Private_Sector,one-dimensional temporal region,0.6055555555555556
+Private_Sector,spatiotemporal region,0.65
+Mild_COVID-19,B cell receptor complex,0.5611111111111111
+Mild_COVID-19,GO_0019814,0.5804347826086956
+Mild_COVID-19,GO_0051093,0.5804347826086956
+Mild_COVID-19,incubation end temporal region,0.5662790697674418
+Mild_COVID-19,infection incidence rate,0.5851351351351352
+Mild_COVID-19,infectious disease mortality rate,0.558695652173913
+Mild_COVID-19,pathogen portal of entry site,0.5452380952380953
+Mild_COVID-19,colonization of human,0.5382352941176471
+Mild_COVID-19,GO_0008150,0.5369565217391304
+Mild_COVID-19,latency end process boundary,0.5963414634146341
+Mild_COVID-19,source of infection site,0.5581081081081081
+Mild_COVID-19,site,0.5088235294117647
+Mild_COVID-19,establishment of a clinically abnormal colony,0.553448275862069
+Mild_COVID-19,GO_0006959,0.5369565217391304
+Mild_COVID-19,ribonucleic acid,0.656896551724138
+Mild_COVID-19,GO_0006955,0.5369565217391304
+Mild_COVID-19,incubation end process boundary,0.5863636363636363
+Mild_COVID-19,GO_0044409,0.5369565217391304
+Mild_COVID-19,pathogen portal of exit site,0.5475609756097561
+Mild_COVID-19,GO_0032991,0.5369565217391304
+Mild_COVID-19,latency end temporal region,0.575
+Mild_COVID-19,infection end temporal region,0.569047619047619
+Mild_COVID-19,nucleic acid,0.65
+Mild_COVID-19,GO_0048519,0.5804347826086956
+Mild_COVID-19,active immunization against infectious agent,0.537719298245614
+Mild_COVID-19,GO_0051234,0.5369565217391304
+Mild_COVID-19,communicability end process boundary,0.6132653061224489
+Mild_COVID-19,site of infection,0.5833333333333334
+Mild_COVID-19,communicability end temporal region,0.5958333333333333
+Mild_COVID-19,T cell receptor complex,0.5611111111111111
+Mild_COVID-19,CL_0000000,0.5369565217391304
+Mild_COVID-19,infection incidence rate profile,0.5611111111111111
+Mild_COVID-19,deoxyribonucleic acid,0.6264705882352941
+Mild_COVID-19,GO_0042101,0.5369565217391304
+Mild_COVID-19,infectious disease incidence rate,0.5804347826086956
+Mild_COVID-19,GO_0044411,0.5369565217391304
+Mild_COVID-19,GO_0019815,0.5804347826086956
+Mild_COVID-19,infectious human pathogen,0.5289473684210526
+InfectedFather,establishment of a clinically abnormal colony,0.5516949152542373
+InfectedFather,infected population,0.7530303030303032
+InfectedFather,T cell receptor complex,0.5851351351351352
+IndividualCurrentAccount,establishment of a clinically abnormal colony,0.6094202898550725
+IndividualCurrentAccount,T cell receptor complex,0.5776595744680851
+RCiu13ZYAsGCD84ydSTDibs,B cell receptor complex,0.5152173913043478
+RCiu13ZYAsGCD84ydSTDibs,establishment of a clinically abnormal colony,0.5382352941176471
+RCiu13ZYAsGCD84ydSTDibs,T cell receptor complex,0.5152173913043478

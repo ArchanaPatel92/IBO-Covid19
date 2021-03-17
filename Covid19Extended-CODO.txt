@@ -1,0 +1,555 @@
+Source Class, Target Class, Score
+InfectiousDisease,Disease,0.7416666666666667
+InfectiousDisease,Infectious_Disease,0.9357142857142857
+InfectiousDisease,Viral_Disease,0.7166666666666667
+Country,Country,0.95
+Country,Limit,0.5333333333333333
+Country,Public_Sector,0.6
+Country,State_Bank_of_India,0.5269230769230769
+Country,Regional_Rural_Banks,0.5611111111111111
+Country,State,0.5333333333333333
+Country,Home,0.5409090909090909
+DedicatedCovidHealthCentre,Covid Care Centre (CCC),0.6948979591836735
+DedicatedCovidHealthCentre,Dedicated Covid Health Centre,0.9227272727272728
+DedicatedCovidHealthCentre,Health_Care_Professional,0.65
+DedicatedCovidHealthCentre,Dedicated Covid Hospital,0.79
+DedicatedCovidHealthCentre,COVID-19 dedicated facility,0.6952830188679244
+DedicatedCovidHealthCentre,Exposure_to_Covid_-19,0.598936170212766
+Patient,Patient,0.95
+Patient,Covid Care Centre (CCC),0.5833333333333334
+Patient,Health_Care_Professional,0.5790322580645162
+Patient,Person,0.6807692307692308
+Patient,Police_Person,0.65
+Patient,Moderate_COVID-19,0.575
+Patient,LAP,0.55
+Patient,Non_Scheduled_Banks,0.5269230769230769
+Patient,Car,0.55
+Patient,Mild_COVID-19,0.5
+Group,Cluster,0.5333333333333333
+Group,Health_Care_Professional,0.5189655172413793
+Group,Police_Person,0.5611111111111111
+Group,Gathering,0.5928571428571429
+Group,Car,0.575
+ExposureToCOVID-19,Covid Care Centre (CCC),0.5719512195121951
+ExposureToCOVID-19,Dedicated Covid Health Centre,0.598936170212766
+ExposureToCOVID-19,Dedicated Covid Hospital,0.6166666666666667
+ExposureToCOVID-19,COVID-19_Diagnosis,0.6722222222222223
+ExposureToCOVID-19,Moderate_COVID-19,0.7642857142857143
+ExposureToCOVID-19,Covid-19_not_Impacted,0.6551282051282051
+ExposureToCOVID-19,Covid-19_Impacted,0.6785714285714286
+ExposureToCOVID-19,Severe_COVID-19,0.7833333333333333
+ExposureToCOVID-19,COVID-19 dedicated facility,0.6277777777777778
+ExposureToCOVID-19,Exposure_to_Covid_-19,0.9115384615384616
+ExposureToCOVID-19,Mild_COVID-19,0.7080645161290323
+District wise statistics,Covid Care Centre (CCC),0.598936170212766
+District wise statistics,Health_Care_Professional,0.5958333333333333
+District wise statistics,Limit,0.553448275862069
+District wise statistics,Public_Sector,0.6121621621621621
+District wise statistics,State_Bank_of_India,0.636046511627907
+District wise statistics,Statistics,0.7441176470588234
+District wise statistics,Account,0.5145161290322581
+District wise statistics,Security_Guard,0.6078947368421053
+District wise statistics,Non_Scheduled_Banks,0.5895348837209302
+District wise statistics,State,0.5879310344827586
+District wise statistics,Car,0.524074074074074
+District wise statistics,Private_Sector,0.6342105263157894
+InfectedBrother,InfectedBrother,0.95
+ExposureViaCongregation,ExposureViaCongregation,0.95
+ExposureViaCongregation,Exposure_to_Covid_-19,0.7
+Organization,Cooperative_Banks,0.656896551724138
+Organization,Business,0.55
+Organization,Standard,0.6
+Organization,Car,0.5166666666666666
+DiseaseCluster,Cluster,0.7833333333333333
+DiseaseCluster,Disease,0.7833333333333333
+DiseaseCluster,Infectious_Disease,0.66875
+DiseaseCluster,Viral_Disease,0.7092592592592593
+Cluster,Cluster,0.95
+Cluster,Gathering,0.6375
+Covid Care Centre (CCC),Covid Care Centre (CCC),0.95
+Covid Care Centre (CCC),Dedicated Covid Health Centre,0.7192307692307692
+Covid Care Centre (CCC),Health_Care_Professional,0.6202127659574468
+Covid Care Centre (CCC),Dedicated Covid Hospital,0.598936170212766
+Covid Care Centre (CCC),Nurse,0.5571428571428572
+Covid Care Centre (CCC),Close_Contact,0.6722222222222223
+Covid Care Centre (CCC),Security_Guard,0.5851351351351352
+Covid Care Centre (CCC),Exposure_to_Covid_-19,0.609090909090909
+Covid Care Centre (CCC),Car,0.5653846153846154
+GeographicCluster,Cluster,0.7416666666666667
+InfectedFamilyMember,InfectedFamilyMember,0.95
+Gender type,Corporate_Lending,0.5571428571428572
+Gender type,Standard,0.6078947368421053
+Gender type,Person,0.5676470588235294
+Gender type,Police_Person,0.6166666666666667
+Diagnosis,Limit,0.5928571428571429
+Diagnosis,State_Bank_of_India,0.5928571428571429
+Diagnosis,COVID-19_Diagnosis,0.7833333333333333
+Diagnosis,Exposure_to_Covid_-19,0.55
+Diagnosis,State,0.5214285714285714
+Doctor,Doctor,0.95
+Doctor,Standard,0.5928571428571429
+Doctor,Person,0.5333333333333333
+Doctor,Police_Person,0.6078947368421053
+InfectedViaJob,InfectedViaJob,0.95
+ExposureViaGathering,Exposure_to_Covid_-19,0.6939024390243902
+ExposureViaGathering,Gathering,0.760344827586207
+Disease,Dedicated Covid Health Centre,0.5888888888888889
+Disease,Health_Care_Professional,0.5467741935483871
+Disease,Disease,0.95
+Disease,Infectious_Disease,0.73
+Disease,LAP,0.55
+Disease,Viral_Disease,0.8
+InfectedCousin,InfectedCousin,0.95
+Business,Covid Care Centre (CCC),0.5467741935483871
+Business,Health_Care_Professional,0.54375
+Business,Business,0.95
+Business,Market,0.5214285714285714
+Business,Saving,0.6642857142857143
+Business,Public_Sector,0.5928571428571429
+Business,State_Bank_of_India,0.5611111111111111
+Business,City,0.5333333333333333
+Business,Commercial_Banks,0.575
+Business,State,0.6038461538461539
+InfectedDomesticHelp,InfectedDomesticHelp,0.95
+InfectedViaPoliceWork,Police_Person,0.6558823529411765
+Test result,PM_Swanidhi,0.5409090909090909
+Test result,Standard,0.6078947368421053
+Test result,State_Bank_of_India,0.55
+Test result,Close_Contact,0.575
+Test result,State,0.6375
+Clinical finding (finding),NPA,0.5189655172413793
+Clinical finding (finding),PM_Swanidhi,0.5851351351351352
+Clinical finding (finding),Police_Person,0.5782051282051281
+Clinical finding (finding),Non_Scheduled_Banks,0.5833333333333334
+Clinical finding (finding),Personal,0.5382352941176471
+DiagnosedWithCovid,Covid Care Centre (CCC),0.5719512195121951
+DiagnosedWithCovid,Dedicated Covid Health Centre,0.6627659574468084
+DiagnosedWithCovid,Dedicated Covid Hospital,0.6880952380952381
+DiagnosedWithCovid,Exposure_to_Covid_-19,0.6807692307692308
+CovidTestingFacility,Covid Care Centre (CCC),0.636046511627907
+CovidTestingFacility,Dedicated Covid Health Centre,0.6336734693877552
+CovidTestingFacility,Dedicated Covid Hospital,0.6545454545454545
+CovidTestingFacility,COVID-19 dedicated facility,0.7691489361702127
+CovidTestingFacility,Exposure_to_Covid_-19,0.5719512195121951
+Man,Person,0.5611111111111111
+Man,Police_Person,0.5125
+CountryWiseStatistics,Country,0.7
+CountryWiseStatistics,Statistics,0.7725806451612902
+Coronavirus infection,Dedicated Covid Health Centre,0.61
+Coronavirus infection,Doctor,0.5981481481481481
+Coronavirus infection,Health_Care_Professional,0.65
+Coronavirus infection,Disease,0.5571428571428572
+Coronavirus infection,Infectious_Disease,0.6551282051282051
+Coronavirus infection,City,0.57
+Coronavirus infection,Viral_Disease,0.6264705882352941
+Coronavirus infection,Coronavirus,0.79375
+CovidCareCentre,Covid Care Centre (CCC),0.8447368421052631
+CovidCareCentre,Dedicated Covid Health Centre,0.7227272727272727
+CovidCareCentre,Health_Care_Professional,0.6038461538461539
+CovidCareCentre,Dedicated Covid Hospital,0.6038461538461539
+CovidCareCentre,Exposure_to_Covid_-19,0.5888888888888889
+CovidCareCentre,Car,0.6166666666666667
+Dedicated Covid Hospital (DCH),Covid Care Centre (CCC),0.6575471698113208
+Dedicated Covid Hospital (DCH),Dedicated Covid Health Centre,0.8059322033898306
+Dedicated Covid Hospital (DCH),Health_Care_Professional,0.6537037037037037
+Dedicated Covid Hospital (DCH),Business,0.5289473684210526
+Dedicated Covid Hospital (DCH),Dedicated Covid Hospital,0.8944444444444444
+Dedicated Covid Hospital (DCH),Place,0.5357142857142857
+Dedicated Covid Hospital (DCH),COVID-19 dedicated facility,0.6956140350877194
+Dedicated Covid Hospital (DCH),Exposure_to_Covid_-19,0.6264705882352941
+Dedicated Covid Hospital (DCH),Home,0.5088235294117647
+Dedicated Covid Hospital (DCH),Car,0.5106060606060606
+Viral disease,Dedicated Covid Health Centre,0.6166666666666667
+Viral disease,Health_Care_Professional,0.5851351351351352
+Viral disease,Disease,0.8
+Viral disease,Infectious_Disease,0.7403225806451613
+Viral disease,LAP,0.575
+Viral disease,Viral_Disease,0.95
+InfectedNephew,InfectedNephew,0.95
+Person,Person,0.95
+Person,Police_Person,0.7657894736842106
+Person,Personal,0.8785714285714286
+Person,Customer,0.5928571428571429
+ModerateCOVID-19,Covid Care Centre (CCC),0.6038461538461539
+ModerateCOVID-19,Dedicated Covid Health Centre,0.6722222222222223
+ModerateCOVID-19,Dedicated Covid Hospital,0.7
+ModerateCOVID-19,COVID-19_Diagnosis,0.6852941176470588
+ModerateCOVID-19,Moderate_COVID-19,0.9348484848484848
+ModerateCOVID-19,Covid-19_not_Impacted,0.6662162162162162
+ModerateCOVID-19,Covid-19_Impacted,0.6924242424242425
+ModerateCOVID-19,Severe_COVID-19,0.8048387096774193
+ModerateCOVID-19,COVID-19 dedicated facility,0.636046511627907
+ModerateCOVID-19,Exposure_to_Covid_-19,0.7472972972972972
+ModerateCOVID-19,Mild_COVID-19,0.7948275862068965
+SevereCOVID-19,Covid Care Centre (CCC),0.5851351351351352
+SevereCOVID-19,Dedicated Covid Health Centre,0.6127906976744186
+SevereCOVID-19,Dedicated Covid Hospital,0.6342105263157894
+SevereCOVID-19,COVID-19_Diagnosis,0.7
+SevereCOVID-19,Moderate_COVID-19,0.8048387096774193
+SevereCOVID-19,Covid-19_not_Impacted,0.6785714285714286
+SevereCOVID-19,Covid-19_Impacted,0.7080645161290323
+SevereCOVID-19,Severe_COVID-19,0.9327586206896552
+SevereCOVID-19,COVID-19 dedicated facility,0.6451219512195122
+SevereCOVID-19,Exposure_to_Covid_-19,0.7642857142857143
+SevereCOVID-19,Mild_COVID-19,0.7462962962962962
+Geographic Region,Country,0.575
+Geographic Region,Current,0.6166666666666667
+Geographic Region,Limit,0.5409090909090909
+Geographic Region,Public_Sector,0.65
+Geographic Region,State_Bank_of_India,0.5888888888888889
+Geographic Region,City,0.5452380952380953
+Geographic Region,Place,0.5863636363636363
+Geographic Region,LAP,0.55
+Geographic Region,Zone,0.5452380952380953
+Geographic Region,State,0.5409090909090909
+Geographic Region,Home,0.5452380952380953
+Geographic Region,Private_Sector,0.6112903225806451
+Severe COVID-19,Covid Care Centre (CCC),0.6078947368421053
+Severe COVID-19,Dedicated Covid Health Centre,0.6318181818181818
+Severe COVID-19,Health_Care_Professional,0.6038461538461539
+Severe COVID-19,Dedicated Covid Hospital,0.6551282051282051
+Severe COVID-19,COVID-19_Diagnosis,0.6924242424242425
+Severe COVID-19,Moderate_COVID-19,0.825
+Severe COVID-19,Covid-19_not_Impacted,0.6722222222222223
+Severe COVID-19,Covid-19_Impacted,0.7
+Severe COVID-19,Close_Contact,0.6285714285714286
+Severe COVID-19,Severe_COVID-19,0.95
+Severe COVID-19,COVID-19 dedicated facility,0.6404761904761905
+Severe COVID-19,Exposure_to_Covid_-19,0.7833333333333333
+Severe COVID-19,Car,0.5055555555555555
+Severe COVID-19,Mild_COVID-19,0.7714285714285714
+UrgentlyNeedsCovidTest,Covid Care Centre (CCC),0.6055555555555556
+UrgentlyNeedsCovidTest,Dedicated Covid Health Centre,0.6852941176470588
+UrgentlyNeedsCovidTest,Dedicated Covid Hospital,0.6891304347826087
+UrgentlyNeedsCovidTest,Exposure_to_Covid_-19,0.6593023255813953
+City,Market,0.55
+City,Public_Sector,0.5676470588235294
+City,City,0.95
+City,Place,0.5611111111111111
+City,State,0.5611111111111111
+City,Private_Sector,0.5611111111111111
+town,Corporate_Lending,0.5452380952380953
+town,Market,0.55
+town,Limit,0.5611111111111111
+town,Public_Sector,0.5676470588235294
+town,City,0.575
+town,Regional_Rural_Banks,0.5333333333333333
+town,Home,0.575
+CityWard,City,0.7833333333333333
+InfectedSpouse,InfectedSpouse,0.95
+Nurse,Covid Care Centre (CCC),0.5571428571428572
+Nurse,Doctor,0.5409090909090909
+Nurse,Health_Care_Professional,0.5189655172413793
+Nurse,Person,0.6318181818181818
+Nurse,Police_Person,0.5611111111111111
+Nurse,Nurse,0.95
+Nurse,Car,0.575
+Infectious disease,Dedicated Covid Health Centre,0.6202127659574468
+Infectious disease,Health_Care_Professional,0.5928571428571429
+Infectious disease,Disease,0.73
+Infectious disease,Infectious_Disease,0.95
+Infectious disease,Viral_Disease,0.7403225806451613
+Place,Country,0.5333333333333333
+Place,Deposit,0.5333333333333333
+Place,State_Bank_of_India,0.5333333333333333
+Place,City,0.5611111111111111
+Place,Place,0.95
+Place,Zone,0.5611111111111111
+Place,State,0.65
+Place,Home,0.5611111111111111
+Status,State_Bank_of_India,0.61
+Status,City,0.55
+Status,Place,0.5409090909090909
+Status,State,0.8136363636363637
+Statistics,Statistics,0.95
+Statistics,Account,0.5676470588235294
+Statistics,Non_Scheduled_Banks,0.553448275862069
+Vital signs,Severe_COVID-19,0.5653846153846154
+Vital signs,Car,0.5214285714285714
+ContactCluster,Cluster,0.7833333333333333
+ContactCluster,Close_Contact,0.7092592592592593
+HealthCareProfessional,Covid Care Centre (CCC),0.5833333333333334
+HealthCareProfessional,Dedicated Covid Health Centre,0.6460784313725491
+HealthCareProfessional,Health_Care_Professional,0.9282608695652175
+HealthCareProfessional,Car,0.57
+UntestedForCovid,Covid Care Centre (CCC),0.5782051282051281
+UntestedForCovid,Dedicated Covid Health Centre,0.65
+UntestedForCovid,Dedicated Covid Hospital,0.675
+UntestedForCovid,Exposure_to_Covid_-19,0.6932432432432433
+InfectedNiece,InfectedNiece,0.95
+Medical clinic,Dedicated Covid Health Centre,0.6593023255813953
+Medical clinic,Employee,0.5409090909090909
+Medical clinic,Health_Care_Professional,0.6342105263157894
+Medical clinic,Business,0.5409090909090909
+Medical clinic,Person,0.55
+Medical clinic,Dedicated Covid Hospital,0.6868421052631578
+Medical clinic,Police_Person,0.5981481481481481
+Medical clinic,LAP,0.5088235294117647
+Medical clinic,Home,0.5611111111111111
+InfectedSon,InfectedSon,0.95
+Mild and very mild COVID-19,Patient,0.5088235294117647
+Mild and very mild COVID-19,Covid Care Centre (CCC),0.63
+Mild and very mild COVID-19,Dedicated Covid Health Centre,0.6285714285714286
+Mild and very mild COVID-19,Dedicated Covid Hospital,0.6460784313725491
+Mild and very mild COVID-19,COVID-19_Diagnosis,0.6277777777777778
+Mild and very mild COVID-19,Moderate_COVID-19,0.7454545454545455
+Mild and very mild COVID-19,Covid-19_not_Impacted,0.6166666666666667
+Mild and very mild COVID-19,Covid-19_Impacted,0.6318181818181818
+Mild and very mild COVID-19,Severe_COVID-19,0.7357142857142857
+Mild and very mild COVID-19,COVID-19 dedicated facility,0.6351851851851852
+Mild and very mild COVID-19,Exposure_to_Covid_-19,0.7
+Mild and very mild COVID-19,Home,0.5145161290322581
+Mild and very mild COVID-19,Mild_COVID-19,0.775
+Close contact,Covid Care Centre (CCC),0.6722222222222223
+Close contact,Health_Care_Professional,0.6121621621621621
+Close contact,Saving,0.5552631578947369
+Close contact,LAP,0.575
+Close contact,Close_Contact,0.95
+Close contact,Severe_COVID-19,0.6285714285714286
+Close contact,Car,0.575
+Close contact,Private_Sector,0.5981481481481481
+InfectedDaughter,InfectedDaughter,0.95
+Country wise statistics,Country,0.6833333333333332
+Country wise statistics,Covid Care Centre (CCC),0.6239130434782608
+Country wise statistics,Health_Care_Professional,0.598936170212766
+Country wise statistics,Limit,0.5571428571428572
+Country wise statistics,Public_Sector,0.5888888888888889
+Country wise statistics,State_Bank_of_India,0.5928571428571429
+Country wise statistics,Statistics,0.7530303030303032
+Country wise statistics,Account,0.6166666666666667
+Country wise statistics,Regional_Rural_Banks,0.5895348837209302
+Country wise statistics,Security_Guard,0.6121621621621621
+Country wise statistics,Non_Scheduled_Banks,0.6404761904761905
+Country wise statistics,State,0.5928571428571429
+Country wise statistics,Home,0.524074074074074
+Country wise statistics,Car,0.5269230769230769
+Professional nurse,Covid Care Centre (CCC),0.6207317073170732
+Professional nurse,Doctor,0.575
+Professional nurse,Health_Care_Professional,0.7357142857142857
+Professional nurse,Person,0.6583333333333334
+Professional nurse,Police_Person,0.6435483870967742
+Professional nurse,Nurse,0.6673913043478261
+Professional nurse,Car,0.5452380952380953
+Agent,Business,0.5269230769230769
+Agent,Person,0.6318181818181818
+Agent,Former,0.5409090909090909
+Agent,Police_Person,0.5611111111111111
+Agent,Car,0.575
+ContactWithHealthWorkers,Dedicated Covid Health Centre,0.6764150943396227
+ContactWithHealthWorkers,Health_Care_Professional,0.6583333333333334
+ContactWithHealthWorkers,Close_Contact,0.6391891891891892
+State wise statistics,Covid Care Centre (CCC),0.5863636363636363
+State wise statistics,Health_Care_Professional,0.6277777777777778
+State wise statistics,Limit,0.5653846153846154
+State wise statistics,Public_Sector,0.5676470588235294
+State wise statistics,State_Bank_of_India,0.675
+State wise statistics,City,0.53
+State wise statistics,Statistics,0.7725806451612902
+State wise statistics,Account,0.5214285714285714
+State wise statistics,Close_Contact,0.6264705882352941
+State wise statistics,Security_Guard,0.5928571428571429
+State wise statistics,Non_Scheduled_Banks,0.6
+State wise statistics,State,0.6423076923076922
+District,Limit,0.6807692307692308
+District,Public_Sector,0.6404761904761905
+District,State_Bank_of_India,0.5611111111111111
+District,State,0.6807692307692308
+District,Private_Sector,0.6318181818181818
+StateWiseStatistics,State_Bank_of_India,0.6605263157894737
+StateWiseStatistics,Statistics,0.7948275862068965
+StateWiseStatistics,State,0.6583333333333334
+COVID-19 dedicated facility,PM_Swanidhi,0.5552631578947369
+COVID-19 dedicated facility,Covid Care Centre (CCC),0.69
+COVID-19 dedicated facility,Dedicated Covid Health Centre,0.7
+COVID-19 dedicated facility,Dedicated Covid Hospital,0.7245098039215686
+COVID-19 dedicated facility,City,0.5790322580645162
+COVID-19 dedicated facility,COVID-19_Diagnosis,0.7388888888888888
+COVID-19 dedicated facility,Moderate_COVID-19,0.6545454545454545
+COVID-19 dedicated facility,Covid-19_not_Impacted,0.7416666666666667
+COVID-19 dedicated facility,Covid-19_Impacted,0.7681818181818181
+COVID-19 dedicated facility,Severe_COVID-19,0.6404761904761905
+COVID-19 dedicated facility,COVID-19 dedicated facility,0.95
+COVID-19 dedicated facility,Exposure_to_Covid_-19,0.6166666666666667
+COVID-19 dedicated facility,Car,0.5166666666666666
+COVID-19 dedicated facility,Mild_COVID-19,0.65
+Diagnosed With COVID-19,Covid Care Centre (CCC),0.6021739130434782
+Diagnosed With COVID-19,Dedicated Covid Health Centre,0.6615384615384616
+Diagnosed With COVID-19,Dedicated Covid Hospital,0.6840425531914894
+Diagnosed With COVID-19,COVID-19_Diagnosis,0.6451219512195122
+Diagnosed With COVID-19,Place,0.5214285714285714
+Diagnosed With COVID-19,Moderate_COVID-19,0.75
+Diagnosed With COVID-19,Covid-19_not_Impacted,0.6318181818181818
+Diagnosed With COVID-19,Covid-19_Impacted,0.65
+Diagnosed With COVID-19,Severe_COVID-19,0.7394736842105263
+Diagnosed With COVID-19,COVID-19 dedicated facility,0.61
+Diagnosed With COVID-19,Exposure_to_Covid_-19,0.7681818181818181
+Diagnosed With COVID-19,Mild_COVID-19,0.7555555555555555
+PolicePerson,Person,0.7833333333333333
+PolicePerson,Police_Person,0.93
+CloseContact,Close_Contact,0.93
+TimeCluster,Cluster,0.8388888888888889
+Moderate COVID-19,NPA,0.5
+Moderate COVID-19,Covid Care Centre (CCC),0.625
+Moderate COVID-19,Dedicated Covid Health Centre,0.6891304347826087
+Moderate COVID-19,Health_Care_Professional,0.6207317073170732
+Moderate COVID-19,Standard,0.57
+Moderate COVID-19,Limit,0.5409090909090909
+Moderate COVID-19,Dedicated Covid Hospital,0.7182926829268292
+Moderate COVID-19,COVID-19_Diagnosis,0.6785714285714286
+Moderate COVID-19,Moderate_COVID-19,0.95
+Moderate COVID-19,Covid-19_not_Impacted,0.6605263157894737
+Moderate COVID-19,Covid-19_Impacted,0.6852941176470588
+Moderate COVID-19,Severe_COVID-19,0.825
+Moderate COVID-19,COVID-19 dedicated facility,0.6545454545454545
+Moderate COVID-19,Exposure_to_Covid_-19,0.7657894736842106
+Moderate COVID-19,Non_Scheduled_Banks,0.5611111111111111
+Moderate COVID-19,Car,0.5
+Moderate COVID-19,Mild_COVID-19,0.8166666666666665
+DiseaseCausedByCoronaviridae,Disease,0.65
+DiseaseCausedByCoronaviridae,Infectious_Disease,0.6456521739130434
+DiseaseCausedByCoronaviridae,Viral_Disease,0.6207317073170732
+COVID-19 Diagnosis,Covid Care Centre (CCC),0.6451219512195122
+COVID-19 Diagnosis,Dedicated Covid Health Centre,0.6202127659574468
+COVID-19 Diagnosis,Limit,0.5369565217391304
+COVID-19 Diagnosis,State_Bank_of_India,0.5851351351351352
+COVID-19 Diagnosis,Dedicated Covid Hospital,0.6642857142857143
+COVID-19 Diagnosis,COVID-19_Diagnosis,0.95
+COVID-19 Diagnosis,Moderate_COVID-19,0.6785714285714286
+COVID-19 Diagnosis,Covid-19_not_Impacted,0.7576923076923078
+COVID-19 Diagnosis,Covid-19_Impacted,0.7642857142857143
+COVID-19 Diagnosis,Severe_COVID-19,0.6924242424242425
+COVID-19 Diagnosis,COVID-19 dedicated facility,0.7388888888888888
+COVID-19 Diagnosis,Exposure_to_Covid_-19,0.6551282051282051
+COVID-19 Diagnosis,Mild_COVID-19,0.7080645161290323
+Anniversary,Anniversary,0.95
+Anniversary,Car,0.5928571428571429
+Disease caused by Coronaviridae,Dedicated Covid Health Centre,0.6833333333333332
+Disease caused by Coronaviridae,Health_Care_Professional,0.65
+Disease caused by Coronaviridae,Disease,0.6342105263157894
+Disease caused by Coronaviridae,Infectious_Disease,0.6336734693877552
+Disease caused by Coronaviridae,Viral_Disease,0.609090909090909
+DedicatedCovidHospital,Covid Care Centre (CCC),0.5833333333333334
+DedicatedCovidHospital,Dedicated Covid Health Centre,0.7833333333333333
+DedicatedCovidHospital,Dedicated Covid Hospital,0.9282608695652175
+DedicatedCovidHospital,COVID-19 dedicated facility,0.7153061224489795
+DedicatedCovidHospital,Exposure_to_Covid_-19,0.6127906976744186
+DiagnosisType,COVID-19_Diagnosis,0.7403225806451613
+InfectedViaHealthcareWork,Covid Care Centre (CCC),0.6166666666666667
+InfectedViaHealthcareWork,Dedicated Covid Health Centre,0.7462962962962962
+InfectedViaHealthcareWork,Health_Care_Professional,0.6744897959183673
+InfectedViaHealthcareWork,Car,0.5571428571428572
+Dedicated Covid Health Centre (DCHC),Covid Care Centre (CCC),0.7720338983050847
+Dedicated Covid Health Centre (DCHC),Dedicated Covid Health Centre,0.8961538461538461
+Dedicated Covid Health Centre (DCHC),Health_Care_Professional,0.6333333333333333
+Dedicated Covid Health Centre (DCHC),Person,0.5214285714285714
+Dedicated Covid Health Centre (DCHC),State_Bank_of_India,0.5954545454545455
+Dedicated Covid Health Centre (DCHC),Dedicated Covid Hospital,0.7666666666666666
+Dedicated Covid Health Centre (DCHC),Police_Person,0.5724489795918367
+Dedicated Covid Health Centre (DCHC),City,0.525
+Dedicated Covid Health Centre (DCHC),Profit,0.5214285714285714
+Dedicated Covid Health Centre (DCHC),COVID-19 dedicated facility,0.6722222222222223
+Dedicated Covid Health Centre (DCHC),Exposure_to_Covid_-19,0.6078947368421053
+Dedicated Covid Health Centre (DCHC),Non_Scheduled_Banks,0.5772727272727273
+Dedicated Covid Health Centre (DCHC),State,0.5475609756097561
+Dedicated Covid Health Centre (DCHC),Car,0.5269230769230769
+State,Limit,0.55
+State,Public_Sector,0.5611111111111111
+State,State_Bank_of_India,0.6583333333333334
+State,City,0.5611111111111111
+State,Close_Contact,0.6722222222222223
+State,State,0.95
+Gathering,Cluster,0.6375
+Gathering,Public_Sector,0.5409090909090909
+Gathering,Gathering,0.95
+Symptom,Deposit,0.5928571428571429
+Symptom,Person,0.6038461538461539
+Symptom,Police_Person,0.55
+Symptom,Personal,0.5833333333333334
+COVID-19DedicatedFacility,Covid Care Centre (CCC),0.6583333333333334
+COVID-19DedicatedFacility,Dedicated Covid Health Centre,0.6907407407407408
+COVID-19DedicatedFacility,Dedicated Covid Hospital,0.7153061224489795
+COVID-19DedicatedFacility,COVID-19_Diagnosis,0.7290697674418604
+COVID-19DedicatedFacility,Moderate_COVID-19,0.6404761904761905
+COVID-19DedicatedFacility,Covid-19_not_Impacted,0.7326086956521739
+COVID-19DedicatedFacility,Covid-19_Impacted,0.7595238095238095
+COVID-19DedicatedFacility,Severe_COVID-19,0.65
+COVID-19DedicatedFacility,COVID-19 dedicated facility,0.9307692307692308
+COVID-19DedicatedFacility,Exposure_to_Covid_-19,0.6239130434782608
+COVID-19DedicatedFacility,Mild_COVID-19,0.6605263157894737
+Exposure to COVID-19,Covid Care Centre (CCC),0.6127906976744186
+Exposure to COVID-19,Dedicated Covid Health Centre,0.6132653061224489
+Exposure to COVID-19,Business,0.5214285714285714
+Exposure to COVID-19,Public_Sector,0.6015151515151516
+Exposure to COVID-19,State_Bank_of_India,0.6294871794871795
+Exposure to COVID-19,Dedicated Covid Hospital,0.6318181818181818
+Exposure to COVID-19,City,0.5333333333333333
+Exposure to COVID-19,COVID-19_Diagnosis,0.6605263157894737
+Exposure to COVID-19,Moderate_COVID-19,0.7743243243243243
+Exposure to COVID-19,Covid-19_not_Impacted,0.6451219512195122
+Exposure to COVID-19,Covid-19_Impacted,0.6662162162162162
+Exposure to COVID-19,Severe_COVID-19,0.7928571428571428
+Exposure to COVID-19,COVID-19 dedicated facility,0.6202127659574468
+Exposure to COVID-19,Security_Guard,0.6264705882352941
+Exposure to COVID-19,Exposure_to_Covid_-19,0.9378048780487805
+Exposure to COVID-19,State,0.53
+Exposure to COVID-19,Mild_COVID-19,0.7227272727272727
+CoronavirusInfection,Coronavirus,0.8048387096774193
+COVID-19Diagnosis,Covid Care Centre (CCC),0.625
+COVID-19Diagnosis,Dedicated Covid Health Centre,0.6021739130434782
+COVID-19Diagnosis,Dedicated Covid Hospital,0.6451219512195122
+COVID-19Diagnosis,COVID-19_Diagnosis,0.9357142857142857
+COVID-19Diagnosis,Moderate_COVID-19,0.6852941176470588
+COVID-19Diagnosis,Covid-19_not_Impacted,0.7394736842105263
+COVID-19Diagnosis,Covid-19_Impacted,0.7441176470588234
+COVID-19Diagnosis,Severe_COVID-19,0.7
+COVID-19Diagnosis,COVID-19 dedicated facility,0.7227272727272727
+COVID-19Diagnosis,Exposure_to_Covid_-19,0.6605263157894737
+COVID-19Diagnosis,Mild_COVID-19,0.7166666666666667
+Woman,Person,0.6318181818181818
+Woman,Police_Person,0.5611111111111111
+Laboratory test finding,PM_Swanidhi,0.5970588235294118
+Laboratory test finding,Cooperative_Banks,0.625
+Laboratory test finding,Standard,0.5790322580645162
+DistrictWiseStatistics,Statistics,0.7625
+SecondaryContact,Close_Contact,0.760344827586207
+SecondaryContact,SecondaryContact,0.95
+InfectedNeighbor,InfectedNeighbor,0.95
+InfectedSister,InfectedSister,0.95
+Province,Covid Care Centre (CCC),0.6112903225806451
+Province,Health_Care_Professional,0.60625
+Province,Business,0.6375
+Province,Public_Sector,0.6404761904761905
+Province,State_Bank_of_India,0.5611111111111111
+Province,City,0.5333333333333333
+Province,Zone,0.7
+Province,State,0.5269230769230769
+Province,Car,0.5409090909090909
+Province,Private_Sector,0.6318181818181818
+ViralDisease,Disease,0.8184210526315789
+ViralDisease,Infectious_Disease,0.7166666666666667
+ViralDisease,Viral_Disease,0.93
+InfectedMother,InfectedMother,0.95
+SecurityGuard,Security_Guard,0.9314814814814816
+MildAndVeryMildCOVID-19,Covid Care Centre (CCC),0.5804347826086956
+MildAndVeryMildCOVID-19,Dedicated Covid Health Centre,0.6230769230769231
+MildAndVeryMildCOVID-19,Dedicated Covid Hospital,0.6414893617021277
+MildAndVeryMildCOVID-19,COVID-19_Diagnosis,0.6451219512195122
+MildAndVeryMildCOVID-19,Moderate_COVID-19,0.75
+MildAndVeryMildCOVID-19,Covid-19_not_Impacted,0.6318181818181818
+MildAndVeryMildCOVID-19,Covid-19_Impacted,0.65
+MildAndVeryMildCOVID-19,Severe_COVID-19,0.7394736842105263
+MildAndVeryMildCOVID-19,COVID-19 dedicated facility,0.61
+MildAndVeryMildCOVID-19,Exposure_to_Covid_-19,0.6772727272727272
+MildAndVeryMildCOVID-19,Mild_COVID-19,0.7833333333333333
+InfectedFather,InfectedFather,0.95
+Untested for COVID-19,Covid Care Centre (CCC),0.5636363636363636
+Untested for COVID-19,Dedicated Covid Health Centre,0.65
+Untested for COVID-19,Dedicated Covid Hospital,0.6722222222222223
+Untested for COVID-19,COVID-19_Diagnosis,0.6551282051282051
+Untested for COVID-19,Moderate_COVID-19,0.7657894736842106
+Untested for COVID-19,Covid-19_not_Impacted,0.6404761904761905
+Untested for COVID-19,Covid-19_Impacted,0.6605263157894737
+Untested for COVID-19,Severe_COVID-19,0.7833333333333333
+Untested for COVID-19,COVID-19 dedicated facility,0.6166666666666667
+Untested for COVID-19,Exposure_to_Covid_-19,0.7833333333333333
+Untested for COVID-19,Mild_COVID-19,0.7441176470588234

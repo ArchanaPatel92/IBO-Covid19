@@ -1,0 +1,2291 @@
+Source Class, Target Class, Score
+Disease caused by Coronaviridae,primary infectious disposition,0.6139344262295081
+Disease caused by Coronaviridae,process of establishing viral infection,0.6071428571428572
+Disease caused by Coronaviridae,virus adhesion susceptible cell,0.6435483870967742
+Disease caused by Coronaviridae,single-stranded DNA virus,0.6642857142857143
+Disease caused by Coronaviridae,SARS-CoV-2 disorder,0.65
+Disease caused by Coronaviridae,virus release stage,0.65
+Disease caused by Coronaviridae,virus translation stage,0.6351851851851852
+Disease caused by Coronaviridae,subclinical infection,0.6038461538461539
+Disease caused by Coronaviridae,COVID-19 mortality rate,0.6351851851851852
+Disease caused by Coronaviridae,double-stranded RNA virus,0.6821428571428573
+Disease caused by Coronaviridae,collective pathogenic disposition,0.590625
+Disease caused by Coronaviridae,infectious disease endemicity,0.65
+Disease caused by Coronaviridae,infection,0.575
+Disease caused by Coronaviridae,establishment of localization in virus host,0.6256756756756756
+Disease caused by Coronaviridae,negative-sense single-stranded RNA virus,0.6753521126760563
+Disease caused by Coronaviridae,infectious disease course,0.6642857142857143
+Disease caused by Coronaviridae,communicability start process boundary,0.6239130434782608
+Disease caused by Coronaviridae,infectious disease mortality rate,0.684375
+Disease caused by Coronaviridae,virostatic disposition,0.6009433962264151
+Disease caused by Coronaviridae,SARS-COV-2 adhesion disposition,0.6112903225806451
+Disease caused by Coronaviridae,exotoxin disposition,0.5676470588235294
+Disease caused by Coronaviridae,virus synthesis stage,0.6230769230769231
+Disease caused by Coronaviridae,invasive disposition,0.6264705882352941
+Disease caused by Coronaviridae,disposition,0.5928571428571429
+Disease caused by Coronaviridae,viral disease pandemic,0.6764150943396227
+Disease caused by Coronaviridae,establishment of a clinically abnormal colony,0.6342105263157894
+Disease caused by Coronaviridae,nursing-home acquired infection,0.6274193548387097
+Disease caused by Coronaviridae,local infection,0.5804347826086956
+Disease caused by Coronaviridae,fungistatic disposition,0.5981481481481481
+Disease caused by Coronaviridae,disease surveillance objective specification,0.6766666666666665
+Disease caused by Coronaviridae,cidal agent disposition,0.6166666666666667
+Disease caused by Coronaviridae,COVID-19 incidence rate,0.6166666666666667
+Disease caused by Coronaviridae,COVID-19 epidemic,0.5958333333333333
+Disease caused by Coronaviridae,complex infection,0.575
+Disease caused by Coronaviridae,immunosuppressive disposition,0.6166666666666667
+Disease caused by Coronaviridae,endotoxin disposition,0.5846153846153846
+Disease caused by Coronaviridae,source of infection site,0.6318181818181818
+Disease caused by Coronaviridae,infectious disease sporadicity,0.6795081967213115
+Disease caused by Coronaviridae,coronavirus disease course,0.6605263157894737
+Disease caused by Coronaviridae,disordered virus,0.6627659574468084
+Disease caused by Coronaviridae,infectious disease control objective specification,0.6475308641975309
+Disease caused by Coronaviridae,viral disease course,0.6852941176470588
+Disease caused by Coronaviridae,infectious disease epidemic,0.656896551724138
+Disease caused by Coronaviridae,parasiticidal disposition,0.5928571428571429
+Disease caused by Coronaviridae,neurotoxin disposition,0.5820754716981132
+Disease caused by Coronaviridae,infectious disease,0.6336734693877552
+Disease caused by Coronaviridae,intracellular infection,0.5981481481481481
+Disease caused by Coronaviridae,infection incidence rate profile,0.6246031746031746
+Disease caused by Coronaviridae,source of infection,0.61
+Disease caused by Coronaviridae,T cell receptor complex,0.6166666666666667
+Disease caused by Coronaviridae,acquired immunodeficiency,0.6285714285714286
+Disease caused by Coronaviridae,static agent disposition,0.6136363636363636
+Disease caused by Coronaviridae,viral disease epidemic,0.6764150943396227
+Disease caused by Coronaviridae,incubation end temporal region,0.630327868852459
+Disease caused by Coronaviridae,reverse zoonotic disposition,0.6194915254237288
+Disease caused by Coronaviridae,COVID-19 disease course,0.6722222222222223
+Disease caused by Coronaviridae,viricidal disposition,0.5846153846153846
+Disease caused by Coronaviridae,viral disease,0.609090909090909
+Disease caused by Coronaviridae,communicability start temporal region,0.6117647058823529
+Disease caused by Coronaviridae,disease,0.6342105263157894
+Disease caused by Coronaviridae,opportunistic infectious disposition,0.5992537313432835
+Disease caused by Coronaviridae,site of infection,0.5958333333333333
+Disease caused by Coronaviridae,positive-sense single-stranded RNA virus,0.6753521126760563
+Disease caused by Coronaviridae,collective disposition,0.5820754716981132
+Disease caused by Coronaviridae,source of infection role,0.6318181818181818
+Disease caused by Coronaviridae,hospital-acquired infection,0.6224137931034482
+Disease caused by Coronaviridae,primary infection,0.5958333333333333
+Disease caused by Coronaviridae,acute infection,0.6239130434782608
+Disease caused by Coronaviridae,COVID-19 disease incidence proportion,0.6705882352941177
+Disease caused by Coronaviridae,infection incidence,0.63
+Disease caused by Coronaviridae,coronavirus disease,0.69
+Disease caused by Coronaviridae,viral adhesion disposition,0.6078947368421053
+Disease caused by Coronaviridae,virus disorder,0.6277777777777778
+Disease caused by Coronaviridae,pathogenic disposition,0.5820754716981132
+Disease caused by Coronaviridae,virus aggregate,0.6239130434782608
+Disease caused by Coronaviridae,virus generative stage,0.619811320754717
+Disease caused by Coronaviridae,infectious disease incidence rate,0.66875
+Disease caused by Coronaviridae,community-acquired infection,0.6194915254237288
+Disease caused by Coronaviridae,adhesion disposition,0.6068627450980393
+Disease caused by Coronaviridae,infection start temporal region,0.6112903225806451
+Disease caused by Coronaviridae,infectious disposition,0.619811320754717
+Disease caused by Coronaviridae,virus replication,0.5958333333333333
+Disease caused by Coronaviridae,chronic infection,0.5958333333333333
+Disease caused by Coronaviridae,zoonotic disposition,0.5676470588235294
+Disease caused by Coronaviridae,bactericidal disposition,0.5954545454545455
+Disease caused by Coronaviridae,disorder,0.6294871794871795
+Disease caused by Coronaviridae,acute respiratory distress syndrome,0.6166666666666667
+Disease caused by Coronaviridae,infectious disease prevalence,0.65
+Disease caused by Coronaviridae,lower respiratory tract disease,0.6112903225806451
+Disease caused by Coronaviridae,primary infection role,0.619811320754717
+Disease caused by Coronaviridae,acute infectious disease course,0.6435483870967742
+Disease caused by Coronaviridae,infectious disease control strategy,0.6772727272727272
+Disease caused by Coronaviridae,communicability end process boundary,0.6291044776119403
+Disease caused by Coronaviridae,collective resistance disposition,0.590625
+Disease caused by Coronaviridae,subclinical SARS-CoV-2 infection,0.6087301587301588
+Disease caused by Coronaviridae,disease course,0.7166666666666667
+Disease caused by Coronaviridae,communicability end temporal region,0.6166666666666667
+Disease caused by Coronaviridae,simple infection,0.598936170212766
+Disease caused by Coronaviridae,infection end temporal region,0.6333333333333333
+Disease caused by Coronaviridae,infectious disease incidence,0.6533898305084747
+Disease caused by Coronaviridae,infectious disease pandemic,0.656896551724138
+Disease caused by Coronaviridae,disease transmission model,0.6956140350877194
+Disease caused by Coronaviridae,virus attachment stage,0.6009433962264151
+Disease caused by Coronaviridae,process of establishing an infection,0.5992537313432835
+Disease caused by Coronaviridae,infection incidence proportion profile,0.6384057971014493
+Disease caused by Coronaviridae,incubation end process boundary,0.6435483870967742
+Disease caused by Coronaviridae,infection incidence profile,0.6224137931034482
+Disease caused by Coronaviridae,respiratory system disease,0.6078947368421053
+Disease caused by Coronaviridae,respiratory droplet virus fomite,0.6404761904761905
+Disease caused by Coronaviridae,incubation start process boundary,0.6375
+Disease caused by Coronaviridae,latency end process boundary,0.6364406779661017
+Disease caused by Coronaviridae,SARS-CoV-2 incidence rate,0.6464285714285714
+Disease caused by Coronaviridae,infection prevalence,0.6068627450980393
+Disease caused by Coronaviridae,infectious disorder,0.65
+Disease caused by Coronaviridae,systematic infection,0.6068627450980393
+Disease caused by Coronaviridae,infectious disease incidence proportion,0.6642857142857143
+Disease caused by Coronaviridae,double-stranded DNA virus,0.6642857142857143
+Disease caused by Coronaviridae,B cell receptor complex,0.6166666666666667
+Disease caused by Coronaviridae,secondary infection role,0.65
+Disease caused by Coronaviridae,enterotoxin disposition,0.5796296296296296
+Disease caused by Coronaviridae,chronic infectious disease course,0.6375
+Disease caused by Coronaviridae,virus uncoating stage,0.6423076923076922
+Disease caused by Coronaviridae,infectious disease lifetime prevalence,0.6528985507246376
+Disease caused by Coronaviridae,appearance of disorder,0.6386792452830189
+Disease caused by Coronaviridae,toxin disposition,0.575
+Disease caused by Coronaviridae,secondary infection,0.63
+Disease caused by Coronaviridae,virus penetration stage,0.6166666666666667
+Disease caused by Coronaviridae,infection start process boundary,0.6404761904761905
+Disease caused by Coronaviridae,transmissibility disposition,0.6025423728813559
+Disease caused by Coronaviridae,acquired immunity to infectious agent,0.6411764705882353
+Disease caused by Coronaviridae,virus host,0.5719512195121951
+Disease caused by Coronaviridae,virulence factor disposition,0.6364406779661017
+Disease caused by Coronaviridae,latency end temporal region,0.6396551724137931
+Disease caused by Coronaviridae,invasion disposition,0.6068627450980393
+Disease caused by Coronaviridae,infection incidence rate,0.6318181818181818
+Disease caused by Coronaviridae,virus,0.5333333333333333
+Disease caused by Coronaviridae,subclinical virus infection,0.6396551724137931
+Disease caused by Coronaviridae,extracellular infection,0.5981481481481481
+Disease caused by Coronaviridae,subclinical coronavirus infection,0.684375
+Disease caused by Coronaviridae,parasitostatic disposition,0.5903508771929825
+Disease caused by Coronaviridae,metastatic infection,0.6068627450980393
+Disease caused by Coronaviridae,infection incidence proportion,0.6139344262295081
+Disease caused by Coronaviridae,cytotoxin disposition,0.5846153846153846
+Disease caused by Coronaviridae,long-term non-progressing infectious disease course,0.5963414634146341
+Disease caused by Coronaviridae,fungicidal disposition,0.5820754716981132
+Disease caused by Coronaviridae,coronavirus disorder,0.6852941176470588
+Disease caused by Coronaviridae,latency start process boundary,0.630327868852459
+Disease caused by Coronaviridae,bacteriostatic disposition,0.5903508771929825
+Disease caused by Coronaviridae,virus transcription stage,0.6464285714285714
+Person,molecular entity,0.5863636363636363
+Person,anatomical entity,0.5369565217391304
+Person,establishment of a clinically abnormal colony,0.5284313725490196
+Person,organism population,0.61
+Person,geographical entity,0.57
+Person,immunosuppressed organism,0.6112903225806451
+Person,pathologically immunosuppressed organism,0.558695652173913
+Person,geopolitical entity,0.57
+Person,T cell receptor complex,0.553448275862069
+Person,resistant entity,0.5863636363636363
+Person,immaterial entity,0.5804347826086956
+Person,drug-based immunosuppressed organism,0.569047619047619
+Person,directive information content entity,0.5452380952380953
+Person,herd immunity to infectious organism,0.569047619047619
+Person,information content entity,0.54375
+Person,immunodeficient organism,0.55
+Person,material entity,0.5928571428571429
+Person,organism,0.5928571428571429
+Person,lower respiratory tract disease,0.5581081081081081
+Person,division of geopolitical entity,0.5310810810810811
+Person,colonization of human,0.524074074074074
+Person,B cell receptor complex,0.553448275862069
+Person,establishment of localization in human host,0.5316326530612244
+Person,infectious human pathogen,0.5790322580645162
+Person,descriptive information content entity,0.5636363636363636
+Person,realizable entity,0.5369565217391304
+Person,designative information content entity,0.5409090909090909
+Person,entity,0.6166666666666667
+Person,extended organism,0.5804347826086956
+Person,organism substance,0.575
+Person,susceptible organism,0.6038461538461539
+Person,immunocompetent organism,0.5833333333333334
+Agent,passive immunity to infectious agent,0.5719512195121951
+Agent,humoral immunity to infectious agent,0.5719512195121951
+Agent,COVID-19 mortality rate,0.5214285714285714
+Agent,susceptibility to infectious agent,0.5782051282051281
+Agent,infectious disease course,0.5166666666666666
+Agent,symptomatic carrier,0.5333333333333333
+Agent,sterilizing immunity to infectious agent,0.5611111111111111
+Agent,infectious disease mortality rate,0.5289473684210526
+Agent,establishment of a clinically abnormal colony,0.53
+Agent,intermediate host,0.5863636363636363
+Agent,adhesion factor,0.65
+Agent,asymptomatic infectious structure carrier,0.5152173913043478
+Agent,infectious agent colony,0.6285714285714286
+Agent,drug susceptibility of infectious agent,0.5636363636363636
+Agent,cidal agent disposition,0.6285714285714286
+Agent,COVID-19 incidence rate,0.5571428571428572
+Agent,coronavirus disease course,0.5145161290322581
+Agent,symptomatic carrier role,0.5189655172413793
+Agent,viral disease course,0.53
+Agent,infection incidence rate profile,0.5310810810810811
+Agent,T cell receptor complex,0.5214285714285714
+Agent,static agent disposition,0.6224137931034482
+Agent,incubation end temporal region,0.5642857142857143
+Agent,invasion factor,0.6
+Agent,COVID-19 disease course,0.5214285714285714
+Agent,symptomatic infectious agent carrier,0.5719512195121951
+Agent,function,0.6038461538461539
+Agent,passive immunization against infectious agent,0.55
+Agent,directive information content entity,0.5475609756097561
+Agent,innate immunity to infectious agent,0.575
+Agent,information content entity,0.5790322580645162
+Agent,polymerase chain reaction,0.5833333333333334
+Agent,static agent,0.7441176470588234
+Agent,infectious disease incidence rate,0.5552631578947369
+Agent,biological vehicle,0.5369565217391304
+Agent,pathogen vehicle role,0.6038461538461539
+Agent,acute infectious disease course,0.5611111111111111
+Agent,pathogen transporter role,0.6166666666666667
+Agent,immunization against infectious agent,0.569047619047619
+Agent,pathogen transporter,0.65
+Agent,communicability end process boundary,0.523170731707317
+Agent,infectious agent population,0.60625
+Agent,disease course,0.5552631578947369
+Agent,communicability end temporal region,0.55
+Agent,infection end temporal region,0.5382352941176471
+Agent,pathogen vehicle,0.6404761904761905
+Agent,biological vehicle role,0.5214285714285714
+Agent,incubation end process boundary,0.5333333333333333
+Agent,infectious agent reservoir,0.6112903225806451
+Agent,latency end process boundary,0.5409090909090909
+Agent,asymptomatic infectious agent carrier,0.569047619047619
+Agent,asymptomatic carrier role,0.5166666666666666
+Agent,SARS-CoV-2 incidence rate,0.5833333333333334
+Agent,infectious agent,0.6880952380952381
+Agent,intermediate host role,0.5611111111111111
+Agent,symptomatic infectious structure carrier,0.5166666666666666
+Agent,B cell receptor complex,0.5214285714285714
+Agent,leukocyte-mediated immunity to infectious agent,0.5461538461538461
+Agent,active immunization against infectious agent,0.5520408163265306
+Agent,chronic infectious disease course,0.5026315789473684
+Agent,asymptomatic carrier,0.53
+Agent,vaccination against infectious agent,0.5719512195121951
+Agent,descriptive information content entity,0.5430232558139535
+Agent,infectious agent host,0.6423076923076922
+Agent,cidal agent,0.7625
+Agent,acquired immunity to infectious agent,0.569047619047619
+Agent,virulence factor disposition,0.5409090909090909
+Agent,infectious agent host role,0.6112903225806451
+Agent,designative information content entity,0.5430232558139535
+Agent,latency end temporal region,0.575
+Agent,infection incidence rate,0.553448275862069
+Agent,action specification,0.57
+Agent,virulence factor,0.5928571428571429
+Agent,infectious agent generative stage,0.581578947368421
+Agent,long-term non-progressing infectious disease course,0.5214285714285714
+InfectedNiece,infected population,0.73125
+InfectedNiece,T cell receptor complex,0.5888888888888889
+Diagnosed With COVID-19,COVID-19 mortality rate,0.6239130434782608
+Diagnosed With COVID-19,COVID-19 prevalence,0.6404761904761905
+Diagnosed With COVID-19,establishment of a clinically abnormal colony,0.5676470588235294
+Diagnosed With COVID-19,COVID-19 incidence rate,0.6239130434782608
+Diagnosed With COVID-19,COVID-19 epidemic,0.65
+Diagnosed With COVID-19,COVID-19 sporadicity,0.636046511627907
+Diagnosed With COVID-19,COVID-19,0.7080645161290323
+Diagnosed With COVID-19,COVID-19 pandemic,0.65
+Diagnosed With COVID-19,T cell receptor complex,0.5804347826086956
+Diagnosed With COVID-19,COVID-19 disease course,0.6239130434782608
+Diagnosed With COVID-19,COVID-19 disease incidence proportion,0.6166666666666667
+Diagnosed With COVID-19,COVID-19 lifetime prevalence,0.6068627450980393
+Diagnosed With COVID-19,COVID-19 incidence,0.6451219512195122
+Diagnosed With COVID-19,COVID-19 endemicity,0.6404761904761905
+Diagnosed With COVID-19,place closure control strategy,0.5820754716981132
+Group,infectious disease mortality rate,0.5026315789473684
+Group,infectious structure aggregate,0.5071428571428571
+Group,object aggregate,0.5452380952380953
+Group,infection incidence rate profile,0.504054054054054
+Group,T cell receptor complex,0.5571428571428572
+Group,coronavirus aggregate,0.5653846153846154
+Group,polymerase chain reaction,0.5166666666666666
+Group,virus aggregate,0.55
+Group,infectious disease incidence rate,0.5026315789473684
+Group,SARS-CoV-2 aggregate,0.53
+Group,viroid aggregate,0.5452380952380953
+Group,respiratory system disease,0.5145161290322581
+Group,SARS-CoV-2 incidence rate,0.5166666666666666
+Group,B cell receptor complex,0.5571428571428572
+Group,acellular structure aggregate,0.5088235294117647
+Group,prion aggregate,0.55
+Group,action specification,0.53
+Business,process of establishing viral infection,0.5563829787234043
+Business,pathogen death process boundary,0.5525641025641026
+Business,pathogen birth process boundary,0.5782051282051281
+Business,establishment of localization in virus host,0.5676470588235294
+Business,communicability start process boundary,0.558695652173913
+Business,droplet pathogen transmission process,0.5833333333333334
+Business,establishment of a clinically abnormal colony,0.5254716981132076
+Business,negative regulation of biological process,0.5724489795918367
+Business,adhesion factor,0.5804347826086956
+Business,pathogen portal of entry site,0.5310810810810811
+Business,establishment of localization,0.5581081081081081
+Business,source of infection site,0.60625
+Business,process profile,0.5804347826086956
+Business,negative regulation of establishment of localization,0.55
+Business,immune response,0.6673913043478261
+Business,source of infection,0.5981481481481481
+Business,incubation end temporal region,0.5552631578947369
+Business,invasion factor,0.5804347826086956
+Business,entry into host,0.5804347826086956
+Business,function,0.6375
+Business,entry into host through host barriers,0.5611111111111111
+Business,source of infection role,0.575
+Business,plan specification,0.5653846153846154
+Business,pathogen portal of entry role,0.504054054054054
+Business,generically dependent continuant,0.525
+Business,polymerase chain reaction,0.5712121212121213
+Business,production,0.6166666666666667
+Business,contact pathogen transmission process,0.5833333333333334
+Business,process boundary,0.575
+Business,pathogen portal of entry,0.5125
+Business,process that results in death,0.5851351351351352
+Business,lower respiratory tract disease,0.5525641025641026
+Business,establishment of localization in host,0.5611111111111111
+Business,communicability end process boundary,0.5863636363636363
+Business,negative regulation of immune response,0.5804347826086956
+Business,negative regulation of production,0.523170731707317
+Business,developmental process,0.5879310344827586
+Business,negative regulation of life-sustaining process,0.5796296296296296
+Business,communicability end temporal region,0.5430232558139535
+Business,negative regulation of developmental process,0.5653846153846154
+Business,infection end temporal region,0.5310810810810811
+Business,pathogen transmission process,0.6121621621621621
+Business,process,0.65
+Business,process of establishing an infection,0.5636363636363636
+Business,humoral immune response,0.6435483870967742
+Business,incubation end process boundary,0.6038461538461539
+Business,innate immune response,0.6166666666666667
+Business,incubation start process boundary,0.5963414634146341
+Business,surveillance process,0.6642857142857143
+Business,symbiotic process,0.65
+Business,latency end process boundary,0.5611111111111111
+Business,B cell receptor complex,0.5145161290322581
+Business,biological process,0.6423076923076922
+Business,specifically dependent continuant,0.5475609756097561
+Business,establishment of localization in human host,0.5480392156862746
+Business,infection start process boundary,0.575
+Business,PCR product,0.5026315789473684
+Business,planned process,0.6239130434782608
+Business,virulence factor disposition,0.5888888888888889
+Business,horizontal pathogen transmission process,0.575
+Business,latency end temporal region,0.5071428571428571
+Business,negative regulation of viral process,0.5863636363636363
+Business,organism substance,0.6038461538461539
+Business,action specification,0.5571428571428572
+Business,virulence factor,0.575
+Business,adaptive immune response,0.60625
+Business,indirect pathogen transmission process,0.5804347826086956
+Business,latency start process boundary,0.5552631578947369
+Comorbidity,T cell receptor complex,0.5382352941176471
+Comorbidity,B cell receptor complex,0.5382352941176471
+District wise statistics,infectious disease course,0.6744897959183673
+District wise statistics,establishment of a clinically abnormal colony,0.5949275362318841
+District wise statistics,organism population,0.6127906976744186
+District wise statistics,local infection,0.6038461538461539
+District wise statistics,material processing,0.636046511627907
+District wise statistics,infectious agent colony,0.6414893617021277
+District wise statistics,infected population,0.636046511627907
+District wise statistics,source of infection site,0.6583333333333334
+District wise statistics,coronavirus disease course,0.65
+District wise statistics,spatial region,0.6078947368421053
+District wise statistics,viral disease course,0.6772727272727272
+District wise statistics,source of infection,0.636046511627907
+District wise statistics,T cell receptor complex,0.5776595744680851
+District wise statistics,incubation end temporal region,0.6166666666666667
+District wise statistics,temporal region,0.5782051282051281
+District wise statistics,COVID-19 disease course,0.6414893617021277
+District wise statistics,communicability start temporal region,0.6139344262295081
+District wise statistics,one-dimensional temporal region,0.5954545454545455
+District wise statistics,directive information content entity,0.6666666666666667
+District wise statistics,three-dimensional spatial region,0.6285714285714286
+District wise statistics,source of infection role,0.6166666666666667
+District wise statistics,acute infection,0.6294871794871795
+District wise statistics,plan specification,0.5928571428571429
+District wise statistics,zero-dimensional temporal region,0.5928571428571429
+District wise statistics,information content entity,0.65
+District wise statistics,processed material,0.6404761904761905
+District wise statistics,normal resident microbiota population,0.5975409836065574
+District wise statistics,infection start temporal region,0.65
+District wise statistics,material entity,0.6551282051282051
+District wise statistics,process that results in death,0.6386792452830189
+District wise statistics,acute respiratory distress syndrome,0.6364406779661017
+District wise statistics,geospatial region,0.5963414634146341
+District wise statistics,lower respiratory tract disease,0.65
+District wise statistics,acute infectious disease course,0.6681818181818181
+District wise statistics,communicability end process boundary,0.5833333333333334
+District wise statistics,infectious agent population,0.6460784313725491
+District wise statistics,disease course,0.6605263157894737
+District wise statistics,zero-dimensional spatial region,0.6318181818181818
+District wise statistics,communicability end temporal region,0.6025423728813559
+District wise statistics,infection end temporal region,0.619811320754717
+District wise statistics,incubation end process boundary,0.5954545454545455
+District wise statistics,latency end process boundary,0.5846153846153846
+District wise statistics,angiotensin-converting enzyme 2,0.5954545454545455
+District wise statistics,pathogen birth temporal region,0.5796296296296296
+District wise statistics,susceptible population,0.6456521739130434
+District wise statistics,B cell receptor complex,0.5563829787234043
+District wise statistics,geographical region,0.5895348837209302
+District wise statistics,immune population,0.5963414634146341
+District wise statistics,active immunization against infectious agent,0.6411764705882353
+District wise statistics,chronic infectious disease course,0.6605263157894737
+District wise statistics,spatiotemporal region,0.6055555555555556
+District wise statistics,descriptive information content entity,0.6596774193548387
+District wise statistics,two-dimensional spatial region,0.6351851851851852
+District wise statistics,pathogen death temporal region,0.5796296296296296
+District wise statistics,designative information content entity,0.6435483870967742
+District wise statistics,latency end temporal region,0.6068627450980393
+District wise statistics,diseased population,0.6593023255813953
+District wise statistics,one-dimensional spatial region,0.6351851851851852
+District wise statistics,long-term non-progressing infectious disease course,0.6233333333333334
+Disease,primary infectious disposition,0.5581081081081081
+Disease,process of establishing viral infection,0.558695652173913
+Disease,virus adhesion susceptible cell,0.581578947368421
+Disease,single-stranded DNA virus,0.60625
+Disease,SARS-CoV-2 disorder,0.6038461538461539
+Disease,virus release stage,0.6807692307692308
+Disease,virus translation stage,0.6166666666666667
+Disease,subclinical infection,0.5571428571428572
+Disease,double-stranded RNA virus,0.60625
+Disease,collective pathogenic disposition,0.55
+Disease,infectious disease endemicity,0.6444444444444444
+Disease,infection,0.575
+Disease,establishment of localization in virus host,0.55
+Disease,negative-sense single-stranded RNA virus,0.5563829787234043
+Disease,infectious disease course,0.66875
+Disease,infectious disease mortality rate,0.625
+Disease,virostatic disposition,0.5879310344827586
+Disease,SARS-COV-2 adhesion disposition,0.5552631578947369
+Disease,exotoxin disposition,0.5981481481481481
+Disease,virus synthesis stage,0.6285714285714286
+Disease,invasive disposition,0.5981481481481481
+Disease,disposition,0.6722222222222223
+Disease,viral disease pandemic,0.6913793103448276
+Disease,establishment of a clinically abnormal colony,0.5269230769230769
+Disease,nursing-home acquired infection,0.5552631578947369
+Disease,local infection,0.5409090909090909
+Disease,fungistatic disposition,0.5833333333333334
+Disease,disease surveillance objective specification,0.5872549019607843
+Disease,cidal agent disposition,0.5833333333333334
+Disease,COVID-19 epidemic,0.575
+Disease,complex infection,0.5333333333333333
+Disease,immunosuppressive disposition,0.5888888888888889
+Disease,endotoxin disposition,0.5928571428571429
+Disease,source of infection site,0.5790322580645162
+Disease,infectious disease sporadicity,0.6391891891891892
+Disease,coronavirus disease course,0.6621212121212122
+Disease,disordered virus,0.6673913043478261
+Disease,infectious disease control objective specification,0.5728070175438597
+Disease,viral disease course,0.7092592592592593
+Disease,infectious disease epidemic,0.6558823529411765
+Disease,parasiticidal disposition,0.575
+Disease,neurotoxin disposition,0.5879310344827586
+Disease,infectious disease,0.73
+Disease,intracellular infection,0.5833333333333334
+Disease,infection incidence rate profile,0.5525641025641026
+Disease,source of infection,0.5653846153846154
+Disease,T cell receptor complex,0.5166666666666666
+Disease,static agent disposition,0.5790322580645162
+Disease,viral disease epidemic,0.6913793103448276
+Disease,incubation end temporal region,0.5581081081081081
+Disease,reverse zoonotic disposition,0.5642857142857143
+Disease,COVID-19 disease course,0.6833333333333332
+Disease,viricidal disposition,0.5928571428571429
+Disease,viral disease,0.8
+Disease,disease,0.95
+Disease,opportunistic infectious disposition,0.5430232558139535
+Disease,site of infection,0.575
+Disease,positive-sense single-stranded RNA virus,0.5563829787234043
+Disease,collective disposition,0.5879310344827586
+Disease,source of infection role,0.5467741935483871
+Disease,hospital-acquired infection,0.5382352941176471
+Disease,primary infection,0.575
+Disease,acute infection,0.5409090909090909
+Disease,COVID-19 disease incidence proportion,0.609090909090909
+Disease,infection incidence,0.5653846153846154
+Disease,coronavirus disease,0.7192307692307692
+Disease,viral adhesion disposition,0.5712121212121213
+Disease,virus disorder,0.6404761904761905
+Disease,pathogenic disposition,0.5879310344827586
+Disease,virus aggregate,0.6772727272727272
+Disease,virus generative stage,0.656896551724138
+Disease,infectious disease incidence rate,0.625
+Disease,community-acquired infection,0.5357142857142857
+Disease,adhesion disposition,0.5981481481481481
+Disease,infection start temporal region,0.581578947368421
+Disease,infectious disposition,0.5879310344827586
+Disease,virus replication,0.6166666666666667
+Disease,chronic infection,0.5333333333333333
+Disease,zoonotic disposition,0.5981481481481481
+Disease,bactericidal disposition,0.5790322580645162
+Disease,disorder,0.7166666666666667
+Disease,acute respiratory distress syndrome,0.5928571428571429
+Disease,infectious disease prevalence,0.6444444444444444
+Disease,lower respiratory tract disease,0.6342105263157894
+Disease,primary infection role,0.553448275862069
+Disease,acute infectious disease course,0.6342105263157894
+Disease,infectious disease control strategy,0.6166666666666667
+Disease,communicability end process boundary,0.5197674418604651
+Disease,collective resistance disposition,0.55
+Disease,subclinical SARS-CoV-2 infection,0.5782051282051281
+Disease,disease course,0.7833333333333333
+Disease,communicability end temporal region,0.5452380952380953
+Disease,simple infection,0.5804347826086956
+Disease,infection end temporal region,0.5611111111111111
+Disease,infectious disease incidence,0.65
+Disease,infectious disease pandemic,0.6558823529411765
+Disease,disease transmission model,0.6621212121212122
+Disease,virus attachment stage,0.6224137931034482
+Disease,process of establishing an infection,0.5662790697674418
+Disease,infection incidence proportion profile,0.5166666666666666
+Disease,incubation end process boundary,0.5289473684210526
+Disease,infection incidence profile,0.5382352941176471
+Disease,respiratory system disease,0.6621212121212122
+Disease,respiratory droplet virus fomite,0.5525641025641026
+Disease,latency end process boundary,0.5357142857142857
+Disease,infection prevalence,0.5981481481481481
+Disease,infectious disorder,0.6038461538461539
+Disease,systematic infection,0.5981481481481481
+Disease,infectious disease incidence proportion,0.6021739130434782
+Disease,double-stranded DNA virus,0.60625
+Disease,B cell receptor complex,0.5166666666666666
+Disease,secondary infection role,0.5790322580645162
+Disease,enterotoxin disposition,0.5833333333333334
+Disease,chronic infectious disease course,0.625
+Disease,virus uncoating stage,0.6285714285714286
+Disease,infectious disease lifetime prevalence,0.6055555555555556
+Disease,appearance of disorder,0.5879310344827586
+Disease,toxin disposition,0.6166666666666667
+Disease,secondary infection,0.6038461538461539
+Disease,virus penetration stage,0.65
+Disease,infection start process boundary,0.5525641025641026
+Disease,transmissibility disposition,0.5642857142857143
+Disease,virus host,0.6264705882352941
+Disease,virulence factor disposition,0.5642857142857143
+Disease,latency end temporal region,0.5676470588235294
+Disease,invasion disposition,0.5981481481481481
+Disease,infection incidence rate,0.5790322580645162
+Disease,virus,0.6166666666666667
+Disease,subclinical virus infection,0.5676470588235294
+Disease,extracellular infection,0.55
+Disease,subclinical coronavirus infection,0.55
+Disease,parasitostatic disposition,0.5712121212121213
+Disease,metastatic infection,0.5981481481481481
+Disease,infection incidence proportion,0.5310810810810811
+Disease,cytotoxin disposition,0.5928571428571429
+Disease,long-term non-progressing infectious disease course,0.5706896551724138
+Disease,fungicidal disposition,0.5879310344827586
+Disease,coronavirus disorder,0.5981481481481481
+Disease,bacteriostatic disposition,0.5712121212121213
+Disease,virus transcription stage,0.60625
+Infectious disease,primary infectious disposition,0.7625
+Infectious disease,infectious pathogen transmissibility,0.7092592592592593
+Infectious disease,passive immunity to infectious agent,0.6907407407407408
+Infectious disease,process of establishing viral infection,0.6078947368421053
+Infectious disease,virus adhesion susceptible cell,0.6336734693877552
+Infectious disease,single-stranded DNA virus,0.636046511627907
+Infectious disease,SARS-CoV-2 disorder,0.6391891891891892
+Infectious disease,virus release stage,0.6662162162162162
+Infectious disease,humoral immunity to infectious agent,0.6907407407407408
+Infectious disease,virus translation stage,0.6695121951219513
+Infectious disease,subclinical infection,0.6551282051282051
+Infectious disease,double-stranded RNA virus,0.6127906976744186
+Infectious disease,collective pathogenic disposition,0.6460784313725491
+Infectious disease,infectious disease endemicity,0.8329787234042553
+Infectious disease,infection,0.7462962962962962
+Infectious disease,establishment of localization in virus host,0.630327868852459
+Infectious disease,negative-sense single-stranded RNA virus,0.6396551724137931
+Infectious disease,susceptibility to infectious agent,0.7
+Infectious disease,infectious disease course,0.8686046511627907
+Infectious disease,sterilizing immunity to infectious agent,0.6741379310344828
+Infectious disease,infectious disease mortality rate,0.8029411764705883
+Infectious disease,virostatic disposition,0.65
+Infectious disease,SARS-COV-2 adhesion disposition,0.6132653061224489
+Infectious disease,exotoxin disposition,0.6605263157894737
+Infectious disease,virus synthesis stage,0.6807692307692308
+Infectious disease,invasive disposition,0.6605263157894737
+Infectious disease,disposition,0.5879310344827586
+Infectious disease,viral disease pandemic,0.675
+Infectious disease,establishment of a clinically abnormal colony,0.5611111111111111
+Infectious disease,nursing-home acquired infection,0.6132653061224489
+Infectious disease,local infection,0.6924242424242425
+Infectious disease,fungistatic disposition,0.6451219512195122
+Infectious disease,asymptomatic infectious structure carrier,0.7042372881355932
+Infectious disease,infectious agent colony,0.7670731707317073
+Infectious disease,disease surveillance objective specification,0.6112903225806451
+Infectious disease,drug susceptibility of infectious agent,0.6780701754385965
+Infectious disease,infectious structure aggregate,0.7625
+Infectious disease,infected population,0.6932432432432433
+Infectious disease,cidal agent disposition,0.6451219512195122
+Infectious disease,COVID-19 epidemic,0.5928571428571429
+Infectious disease,complex infection,0.6785714285714286
+Infectious disease,immunosuppressive disposition,0.6627659574468084
+Infectious disease,endotoxin disposition,0.6551282051282051
+Infectious disease,source of infection site,0.7119047619047619
+Infectious disease,infectious disease sporadicity,0.825
+Infectious disease,coronavirus disease course,0.7227272727272727
+Infectious disease,disordered virus,0.5970588235294118
+Infectious disease,infectious disease control objective specification,0.7147058823529412
+Infectious disease,viral disease course,0.6868421052631578
+Infectious disease,infectious disease epidemic,0.85
+Infectious disease,parasiticidal disposition,0.636046511627907
+Infectious disease,COVID-19 pandemic,0.5928571428571429
+Infectious disease,neurotoxin disposition,0.675
+Infectious disease,infectious disease,0.95
+Infectious disease,intracellular infection,0.6451219512195122
+Infectious disease,infection incidence rate profile,0.71
+Infectious disease,source of infection,0.6662162162162162
+Infectious disease,infectious structure host,0.7755813953488372
+Infectious disease,T cell receptor complex,0.5963414634146341
+Infectious disease,static agent disposition,0.6404761904761905
+Infectious disease,viral disease epidemic,0.675
+Infectious disease,incubation end temporal region,0.6791666666666666
+Infectious disease,reverse zoonotic disposition,0.6239130434782608
+Infectious disease,COVID-19 disease course,0.6939024390243902
+Infectious disease,symptomatic infectious agent carrier,0.7092592592592593
+Infectious disease,viricidal disposition,0.6551282051282051
+Infectious disease,viral disease,0.7403225806451613
+Infectious disease,disease,0.73
+Infectious disease,opportunistic infectious disposition,0.7277777777777777
+Infectious disease,passive immunization against infectious agent,0.6563492063492063
+Infectious disease,site of infection,0.6785714285714286
+Infectious disease,positive-sense single-stranded RNA virus,0.6224137931034482
+Infectious disease,collective disposition,0.675
+Infectious disease,source of infection role,0.6880952380952381
+Infectious disease,hospital-acquired infection,0.6277777777777778
+Infectious disease,primary infection,0.6785714285714286
+Infectious disease,acute infection,0.6924242424242425
+Infectious disease,COVID-19 disease incidence proportion,0.6318181818181818
+Infectious disease,infection incidence,0.7743243243243243
+Infectious disease,herd immunity to infectious organism,0.6907407407407408
+Infectious disease,coronavirus disease,0.7743243243243243
+Infectious disease,viral adhesion disposition,0.6545454545454545
+Infectious disease,innate immunity to infectious agent,0.6952830188679244
+Infectious disease,virus disorder,0.7
+Infectious disease,pathogenic disposition,0.625
+Infectious disease,virus aggregate,0.6621212121212122
+Infectious disease,virus generative stage,0.675
+Infectious disease,infectious disease incidence rate,0.8029411764705883
+Infectious disease,community-acquired infection,0.6239130434782608
+Infectious disease,adhesion disposition,0.6605263157894737
+Infectious disease,infection start temporal region,0.7153061224489795
+Infectious disease,infectious disposition,0.825
+Infectious disease,virus replication,0.6214285714285714
+Infectious disease,chronic infection,0.6785714285714286
+Infectious disease,zoonotic disposition,0.6605263157894737
+Infectious disease,bactericidal disposition,0.6404761904761905
+Infectious disease,disorder,0.6038461538461539
+Infectious disease,acute respiratory distress syndrome,0.6575471698113208
+Infectious disease,infectious disease prevalence,0.8329787234042553
+Infectious disease,lower respiratory tract disease,0.6744897959183673
+Infectious disease,primary infection role,0.7
+Infectious disease,acute infectious disease course,0.8173469387755102
+Infectious disease,infectious disease control strategy,0.789622641509434
+Infectious disease,immunization against infectious agent,0.6863636363636364
+Infectious disease,communicability end process boundary,0.5981481481481481
+Infectious disease,infectious agent population,0.7388888888888888
+Infectious disease,infectious structure,0.7921052631578948
+Infectious disease,infectious structure host role,0.7625
+Infectious disease,collective resistance disposition,0.6460784313725491
+Infectious disease,subclinical SARS-CoV-2 infection,0.61
+Infectious disease,disease course,0.66875
+Infectious disease,communicability end temporal region,0.6009433962264151
+Infectious disease,simple infection,0.6852941176470588
+Infectious disease,infection end temporal region,0.7265957446808511
+Infectious disease,infectious disease incidence,0.8413043478260869
+Infectious disease,infectious disease pandemic,0.85
+Infectious disease,disease transmission model,0.6318181818181818
+Infectious disease,virus attachment stage,0.625
+Infectious disease,process of establishing an infection,0.5981481481481481
+Infectious disease,infection incidence proportion profile,0.6642857142857143
+Infectious disease,incubation end process boundary,0.6540816326530612
+Infectious disease,infection incidence profile,0.7166666666666667
+Infectious disease,respiratory system disease,0.7227272727272727
+Infectious disease,respiratory droplet virus fomite,0.63
+Infectious disease,infectious structure generative stage,0.740909090909091
+Infectious disease,infectious agent reservoir,0.7681818181818181
+Infectious disease,latency end process boundary,0.6021739130434782
+Infectious disease,asymptomatic infectious agent carrier,0.7045454545454546
+Infectious disease,infectious agent,0.8323529411764706
+Infectious disease,infection prevalence,0.7657894736842106
+Infectious disease,infectious disorder,0.8554054054054054
+Infectious disease,systematic infection,0.6605263157894737
+Infectious disease,infectious disease incidence proportion,0.7657894736842106
+Infectious disease,double-stranded DNA virus,0.6127906976744186
+Infectious disease,symptomatic infectious structure carrier,0.7086206896551723
+Infectious disease,B cell receptor complex,0.5963414634146341
+Infectious disease,secondary infection role,0.6880952380952381
+Infectious disease,enterotoxin disposition,0.6695121951219513
+Infectious disease,leukocyte-mediated immunity to infectious agent,0.65
+Infectious disease,active immunization against infectious agent,0.6596774193548387
+Infectious disease,chronic infectious disease course,0.8029411764705883
+Infectious disease,infectious human pathogen,0.7523255813953489
+Infectious disease,virus uncoating stage,0.6807692307692308
+Infectious disease,infectious disease lifetime prevalence,0.7714285714285714
+Infectious disease,appearance of disorder,0.65
+Infectious disease,toxin disposition,0.65
+Infectious disease,secondary infection,0.6662162162162162
+Infectious disease,virus penetration stage,0.6939024390243902
+Infectious disease,infection start process boundary,0.69
+Infectious disease,vaccination against infectious agent,0.6907407407407408
+Infectious disease,transmissibility disposition,0.6239130434782608
+Infectious disease,infectious agent host,0.7833333333333333
+Infectious disease,acquired immunity to infectious agent,0.6863636363636364
+Infectious disease,virus host,0.6285714285714286
+Infectious disease,virulence factor disposition,0.6891304347826087
+Infectious disease,infectious agent host role,0.7681818181818181
+Infectious disease,latency end temporal region,0.6055555555555556
+Infectious disease,invasion disposition,0.6868421052631578
+Infectious disease,infection incidence rate,0.7595238095238095
+Infectious disease,virus,0.5804347826086956
+Infectious disease,subclinical virus infection,0.65
+Infectious disease,extracellular infection,0.6451219512195122
+Infectious disease,subclinical coronavirus infection,0.6264705882352941
+Infectious disease,parasitostatic disposition,0.6545454545454545
+Infectious disease,diseased population,0.6391891891891892
+Infectious disease,metastatic infection,0.6605263157894737
+Infectious disease,infection incidence proportion,0.7
+Infectious disease,infectious agent generative stage,0.7441176470588234
+Infectious disease,cytotoxin disposition,0.6551282051282051
+Infectious disease,long-term non-progressing infectious disease course,0.7108695652173913
+Infectious disease,fungicidal disposition,0.65
+Infectious disease,coronavirus disorder,0.6868421052631578
+Infectious disease,bacteriostatic disposition,0.6772727272727272
+Infectious disease,virus transcription stage,0.6825581395348838
+Coronavirus infection,primary infectious disposition,0.7049019607843137
+Coronavirus infection,process of establishing viral infection,0.7166666666666667
+Coronavirus infection,virus adhesion susceptible cell,0.6615384615384616
+Coronavirus infection,single-stranded DNA virus,0.6239130434782608
+Coronavirus infection,SARS-CoV-2 disorder,0.6
+Coronavirus infection,virus release stage,0.65
+Coronavirus infection,virus translation stage,0.7
+Coronavirus infection,subclinical infection,0.7595238095238095
+Coronavirus infection,double-stranded RNA virus,0.6456521739130434
+Coronavirus infection,collective pathogenic disposition,0.6537037037037037
+Coronavirus infection,infectious disease endemicity,0.65
+Coronavirus infection,infection,0.75
+Coronavirus infection,establishment of localization in virus host,0.60625
+Coronavirus infection,negative-sense single-stranded RNA virus,0.6139344262295081
+Coronavirus infection,infectious disease course,0.6456521739130434
+Coronavirus infection,communicability start process boundary,0.6194915254237288
+Coronavirus infection,infectious disease mortality rate,0.6166666666666667
+Coronavirus infection,virostatic disposition,0.6825581395348838
+Coronavirus infection,SARS-COV-2 adhesion disposition,0.6615384615384616
+Coronavirus infection,exotoxin disposition,0.6939024390243902
+Coronavirus infection,virus synthesis stage,0.6642857142857143
+Coronavirus infection,invasive disposition,0.6939024390243902
+Coronavirus infection,disposition,0.66875
+Coronavirus infection,viral disease pandemic,0.636046511627907
+Coronavirus infection,establishment of a clinically abnormal colony,0.5863636363636363
+Coronavirus infection,nursing-home acquired infection,0.7384615384615384
+Coronavirus infection,local infection,0.7833333333333333
+Coronavirus infection,fungistatic disposition,0.6545454545454545
+Coronavirus infection,disease surveillance objective specification,0.6192307692307693
+Coronavirus infection,cidal agent disposition,0.6545454545454545
+Coronavirus infection,COVID-19 epidemic,0.6605263157894737
+Coronavirus infection,complex infection,0.7657894736842106
+Coronavirus infection,immunosuppressive disposition,0.65
+Coronavirus infection,endotoxin disposition,0.6880952380952381
+Coronavirus infection,source of infection site,0.7388888888888888
+Coronavirus infection,infectious disease sporadicity,0.6264705882352941
+Coronavirus infection,coronavirus disease course,0.7904255319148936
+Coronavirus infection,disordered virus,0.6391891891891892
+Coronavirus infection,infectious disease control objective specification,0.6330985915492958
+Coronavirus infection,viral disease course,0.6451219512195122
+Coronavirus infection,infectious disease epidemic,0.6166666666666667
+Coronavirus infection,parasiticidal disposition,0.6456521739130434
+Coronavirus infection,neurotoxin disposition,0.6825581395348838
+Coronavirus infection,infectious disease,0.6551282051282051
+Coronavirus infection,intracellular infection,0.7454545454545455
+Coronavirus infection,infection incidence rate profile,0.6386792452830189
+Coronavirus infection,source of infection,0.775
+Coronavirus infection,T cell receptor complex,0.609090909090909
+Coronavirus infection,static agent disposition,0.65
+Coronavirus infection,viral disease epidemic,0.636046511627907
+Coronavirus infection,contagiousness,0.7071428571428571
+Coronavirus infection,incubation end temporal region,0.6264705882352941
+Coronavirus infection,reverse zoonotic disposition,0.6744897959183673
+Coronavirus infection,coronavirus pathogenesis,0.7833333333333333
+Coronavirus infection,COVID-19 disease course,0.6545454545454545
+Coronavirus infection,viricidal disposition,0.6642857142857143
+Coronavirus infection,viral disease,0.6264705882352941
+Coronavirus infection,communicability start temporal region,0.6396551724137931
+Coronavirus infection,disease,0.5571428571428572
+Coronavirus infection,communicability interval,0.65
+Coronavirus infection,opportunistic infectious disposition,0.7131578947368421
+Coronavirus infection,site of infection,0.7394736842105263
+Coronavirus infection,positive-sense single-stranded RNA virus,0.5975409836065574
+Coronavirus infection,collective disposition,0.6825581395348838
+Coronavirus infection,source of infection role,0.7388888888888888
+Coronavirus infection,hospital-acquired infection,0.7416666666666667
+Coronavirus infection,primary infection,0.7921052631578948
+Coronavirus infection,acute infection,0.7833333333333333
+Coronavirus infection,COVID-19 disease incidence proportion,0.6913793103448276
+Coronavirus infection,infection incidence,0.675
+Coronavirus infection,coronavirus disease,0.8
+Coronavirus infection,coronavirus,0.79375
+Coronavirus infection,viral adhesion disposition,0.6627659574468084
+Coronavirus infection,coronavirus aggregate,0.7833333333333333
+Coronavirus infection,virus disorder,0.6785714285714286
+Coronavirus infection,pathogenic disposition,0.6593023255813953
+Coronavirus infection,virus aggregate,0.6722222222222223
+Coronavirus infection,virus generative stage,0.6825581395348838
+Coronavirus infection,infectious disease incidence rate,0.6351851851851852
+Coronavirus infection,community-acquired infection,0.7765306122448979
+Coronavirus infection,adhesion disposition,0.6695121951219513
+Coronavirus infection,infection start temporal region,0.6423076923076922
+Coronavirus infection,infectious disposition,0.6825581395348838
+Coronavirus infection,virus replication,0.7657894736842106
+Coronavirus infection,chronic infection,0.8447368421052631
+Coronavirus infection,zoonotic disposition,0.6939024390243902
+Coronavirus infection,bactericidal disposition,0.6722222222222223
+Coronavirus infection,disorder,0.553448275862069
+Coronavirus infection,acute respiratory distress syndrome,0.6107142857142857
+Coronavirus infection,infectious disease prevalence,0.63
+Coronavirus infection,lower respiratory tract disease,0.6038461538461539
+Coronavirus infection,primary infection role,0.7523255813953489
+Coronavirus infection,acute infectious disease course,0.6615384615384616
+Coronavirus infection,infectious disease control strategy,0.6285714285714286
+Coronavirus infection,communicability end process boundary,0.6254385964912281
+Coronavirus infection,collective resistance disposition,0.6722222222222223
+Coronavirus infection,coronavirus replication,0.859090909090909
+Coronavirus infection,subclinical SARS-CoV-2 infection,0.7330188679245283
+Coronavirus infection,disease course,0.5928571428571429
+Coronavirus infection,communicability end temporal region,0.6464285714285714
+Coronavirus infection,respiratory droplet coronavirus fomite,0.6872881355932203
+Coronavirus infection,simple infection,0.7472972972972972
+Coronavirus infection,infection end temporal region,0.63
+Coronavirus infection,infectious disease incidence,0.6540816326530612
+Coronavirus infection,infectious disease pandemic,0.6375
+Coronavirus infection,disease transmission model,0.598936170212766
+Coronavirus infection,virus attachment stage,0.636046511627907
+Coronavirus infection,process of establishing an infection,0.7131578947368421
+Coronavirus infection,infection incidence proportion profile,0.6533898305084747
+Coronavirus infection,incubation end process boundary,0.6038461538461539
+Coronavirus infection,infection incidence profile,0.6375
+Coronavirus infection,respiratory system disease,0.598936170212766
+Coronavirus infection,respiratory droplet virus fomite,0.6575471698113208
+Coronavirus infection,latency end process boundary,0.5928571428571429
+Coronavirus infection,communicability,0.6444444444444444
+Coronavirus infection,infection prevalence,0.6695121951219513
+Coronavirus infection,infectious disorder,0.65
+Coronavirus infection,systematic infection,0.7426829268292683
+Coronavirus infection,infectious disease incidence proportion,0.6666666666666667
+Coronavirus infection,double-stranded DNA virus,0.6456521739130434
+Coronavirus infection,B cell receptor complex,0.609090909090909
+Coronavirus infection,secondary infection role,0.7833333333333333
+Coronavirus infection,enterotoxin disposition,0.6772727272727272
+Coronavirus infection,chronic infectious disease course,0.7092592592592593
+Coronavirus infection,virus uncoating stage,0.7119047619047619
+Coronavirus infection,infectious disease lifetime prevalence,0.6364406779661017
+Coronavirus infection,appearance of disorder,0.5895348837209302
+Coronavirus infection,toxin disposition,0.6868421052631578
+Coronavirus infection,secondary infection,0.825
+Coronavirus infection,virus penetration stage,0.7227272727272727
+Coronavirus infection,infection start process boundary,0.619811320754717
+Coronavirus infection,transmissibility disposition,0.6540816326530612
+Coronavirus infection,virus host,0.6758064516129032
+Coronavirus infection,virulence factor disposition,0.6744897959183673
+Coronavirus infection,latency end temporal region,0.6375
+Coronavirus infection,invasion disposition,0.6695121951219513
+Coronavirus infection,infection incidence rate,0.65
+Coronavirus infection,virus,0.6423076923076922
+Coronavirus infection,subclinical virus infection,0.825
+Coronavirus infection,extracellular infection,0.7454545454545455
+Coronavirus infection,action specification,0.7182926829268292
+Coronavirus infection,subclinical coronavirus infection,0.8388888888888889
+Coronavirus infection,parasitostatic disposition,0.6627659574468084
+Coronavirus infection,metastatic infection,0.7426829268292683
+Coronavirus infection,infection incidence proportion,0.6852941176470588
+Coronavirus infection,cytotoxin disposition,0.7119047619047619
+Coronavirus infection,long-term non-progressing infectious disease course,0.6583333333333334
+Coronavirus infection,fungicidal disposition,0.6593023255813953
+Coronavirus infection,coronavirus disorder,0.7914634146341464
+Coronavirus infection,bacteriostatic disposition,0.6840425531914894
+Coronavirus infection,virus transcription stage,0.7108695652173913
+Close contact,infectious disease course,0.6342105263157894
+Close contact,establishment of a clinically abnormal colony,0.5879310344827586
+Close contact,pathogen portal of entry site,0.6166666666666667
+Close contact,coronavirus disease course,0.6294871794871795
+Close contact,viral disease course,0.6318181818181818
+Close contact,T cell receptor complex,0.6166666666666667
+Close contact,incubation end temporal region,0.5895348837209302
+Close contact,COVID-19 disease course,0.6444444444444444
+Close contact,entry into host,0.6285714285714286
+Close contact,entry into host through host barriers,0.57
+Close contact,pathogen portal of entry role,0.6166666666666667
+Close contact,polymerase chain reaction,0.6868421052631578
+Close contact,contact pathogen transmission process,0.61
+Close contact,pathogen portal of entry,0.6391891891891892
+Close contact,acute infectious disease course,0.609090909090909
+Close contact,communicability end process boundary,0.6132653061224489
+Close contact,disease course,0.6351851851851852
+Close contact,communicability end temporal region,0.575
+Close contact,infection end temporal region,0.5928571428571429
+Close contact,incubation end process boundary,0.6318181818181818
+Close contact,respiratory system disease,0.5782051282051281
+Close contact,latency end process boundary,0.6207317073170732
+Close contact,systematic infection,0.6318181818181818
+Close contact,B cell receptor complex,0.6166666666666667
+Close contact,chronic infectious disease course,0.6021739130434782
+Close contact,latency end temporal region,0.6
+Close contact,action specification,0.6621212121212122
+Close contact,contact tracing,0.7
+Close contact,long-term non-progressing infectious disease course,0.590625
+Moderate COVID-19,case isolation control strategy,0.575
+Moderate COVID-19,COVID-19 mortality rate,0.65
+Moderate COVID-19,infectious disease mortality rate,0.61
+Moderate COVID-19,quarantine control strategy,0.609090909090909
+Moderate COVID-19,COVID-19 prevalence,0.6722222222222223
+Moderate COVID-19,establishment of a clinically abnormal colony,0.5629032258064516
+Moderate COVID-19,intermediate host,0.6558823529411765
+Moderate COVID-19,adhesion factor,0.60625
+Moderate COVID-19,COVID-19 incidence rate,0.65
+Moderate COVID-19,COVID-19 epidemic,0.6852941176470588
+Moderate COVID-19,COVID-19 sporadicity,0.6662162162162162
+Moderate COVID-19,COVID-19,0.77
+Moderate COVID-19,infectious disease control objective specification,0.5992537313432835
+Moderate COVID-19,object aggregate,0.6318181818181818
+Moderate COVID-19,object,0.5804347826086956
+Moderate COVID-19,COVID-19 pandemic,0.6852941176470588
+Moderate COVID-19,infection incidence rate profile,0.6540816326530612
+Moderate COVID-19,T cell receptor complex,0.6
+Moderate COVID-19,incubation end temporal region,0.598936170212766
+Moderate COVID-19,invasion factor,0.575
+Moderate COVID-19,COVID-19 disease course,0.65
+Moderate COVID-19,COVID-19 disease incidence proportion,0.6166666666666667
+Moderate COVID-19,COVID-19 lifetime prevalence,0.6277777777777778
+Moderate COVID-19,COVID-19 incidence,0.6785714285714286
+Moderate COVID-19,infectious disease incidence rate,0.63
+Moderate COVID-19,infectious disease control strategy,0.6038461538461539
+Moderate COVID-19,communicability end process boundary,0.6009433962264151
+Moderate COVID-19,COVID-19 endemicity,0.6722222222222223
+Moderate COVID-19,communicability end temporal region,0.5846153846153846
+Moderate COVID-19,infection end temporal region,0.6021739130434782
+Moderate COVID-19,incubation end process boundary,0.5958333333333333
+Moderate COVID-19,vector control strategy,0.575
+Moderate COVID-19,latency end process boundary,0.6055555555555556
+Moderate COVID-19,SARS-CoV-2 incidence rate,0.6166666666666667
+Moderate COVID-19,intermediate host role,0.6294871794871795
+Moderate COVID-19,place closure control strategy,0.5776595744680851
+Moderate COVID-19,B cell receptor complex,0.6
+Moderate COVID-19,virulence factor disposition,0.5833333333333334
+Moderate COVID-19,latency end temporal region,0.5863636363636363
+Moderate COVID-19,infection incidence rate,0.6207317073170732
+Moderate COVID-19,virulence factor,0.6015151515151516
+Status,virus release stage,0.57
+Status,virus translation stage,0.6224137931034482
+Status,virus synthesis stage,0.5611111111111111
+Status,establishment of a clinically abnormal colony,0.5284313725490196
+Status,T cell receptor complex,0.5189655172413793
+Status,SARS-CoV-2 attachment stage,0.6015151515151516
+Status,SARS-CoV-2 uncoating stage,0.575
+Status,SARS-CoV-2 transcription stage,0.5888888888888889
+Status,generative stage,0.5863636363636363
+Status,pathogen generative stage,0.5790322580645162
+Status,virus generative stage,0.5928571428571429
+Status,lower respiratory tract disease,0.5851351351351352
+Status,SARS-CoV-2 release stage,0.55
+Status,SARS-CoV-2 synthesis stage,0.575
+Status,virus attachment stage,0.6285714285714286
+Status,infectious structure generative stage,0.5662790697674418
+Status,place closure control strategy,0.5611111111111111
+Status,quality,0.6038461538461539
+Status,SARS-CoV-2 penetration stage,0.5970588235294118
+Status,virus uncoating stage,0.5981481481481481
+Status,virus penetration stage,0.6224137931034482
+Status,action specification,0.5653846153846154
+Status,SARS-CoV-2 genome replication stage,0.5475609756097561
+Status,infectious agent generative stage,0.5782051282051281
+Status,virus transcription stage,0.6112903225806451
+COVID-19 dedicated facility,virus adhesion susceptible cell,0.656896551724138
+COVID-19 dedicated facility,cell space,0.5851351351351352
+COVID-19 dedicated facility,COVID-19 mortality rate,0.75
+COVID-19 dedicated facility,infectious disease mortality rate,0.6666666666666667
+COVID-19 dedicated facility,COVID-19 prevalence,0.7326086956521739
+COVID-19 dedicated facility,establishment of a clinically abnormal colony,0.5888888888888889
+COVID-19 dedicated facility,hospital facility,0.7227272727272727
+COVID-19 dedicated facility,material processing,0.5804347826086956
+COVID-19 dedicated facility,COVID-19 incidence rate,0.77
+COVID-19 dedicated facility,COVID-19 epidemic,0.7454545454545455
+COVID-19 dedicated facility,source of infection site,0.6264705882352941
+COVID-19 dedicated facility,COVID-19 sporadicity,0.7691489361702127
+COVID-19 dedicated facility,COVID-19,0.6785714285714286
+COVID-19 dedicated facility,facility,0.6785714285714286
+COVID-19 dedicated facility,COVID-19 pandemic,0.7454545454545455
+COVID-19 dedicated facility,infection incidence rate profile,0.6703389830508475
+COVID-19 dedicated facility,source of infection,0.6021739130434782
+COVID-19 dedicated facility,T cell receptor complex,0.61
+COVID-19 dedicated facility,incubation end temporal region,0.6254385964912281
+COVID-19 dedicated facility,COVID-19 disease course,0.75
+COVID-19 dedicated facility,source of infection role,0.6068627450980393
+COVID-19 dedicated facility,COVID-19 disease incidence proportion,0.715625
+COVID-19 dedicated facility,COVID-19 lifetime prevalence,0.7227272727272727
+COVID-19 dedicated facility,SARS-COV-2 adhesion susceptible cell,0.6722222222222223
+COVID-19 dedicated facility,COVID-19 incidence,0.7388888888888888
+COVID-19 dedicated facility,processed material,0.6277777777777778
+COVID-19 dedicated facility,infectious disease incidence rate,0.6333333333333333
+COVID-19 dedicated facility,material entity,0.6404761904761905
+COVID-19 dedicated facility,communicability end process boundary,0.6246031746031746
+COVID-19 dedicated facility,COVID-19 endemicity,0.7978260869565217
+COVID-19 dedicated facility,communicability end temporal region,0.6435483870967742
+COVID-19 dedicated facility,infection end temporal region,0.6285714285714286
+COVID-19 dedicated facility,incubation end process boundary,0.6224137931034482
+COVID-19 dedicated facility,latency end process boundary,0.6136363636363636
+COVID-19 dedicated facility,SARS-CoV-2 incidence rate,0.6807692307692308
+COVID-19 dedicated facility,quality,0.5970588235294118
+COVID-19 dedicated facility,B cell receptor complex,0.61
+COVID-19 dedicated facility,active immunization against infectious agent,0.6049295774647887
+COVID-19 dedicated facility,healthcare facility,0.7326086956521739
+COVID-19 dedicated facility,latency end temporal region,0.6166666666666667
+COVID-19 dedicated facility,infection incidence rate,0.6460784313725491
+COVID-19 dedicated facility,cell,0.5467741935483871
+District,infectious disease course,0.5712121212121213
+District,establishment of a clinically abnormal colony,0.5443396226415094
+District,local infection,0.5804347826086956
+District,infectious agent colony,0.5790322580645162
+District,coronavirus disease course,0.5676470588235294
+District,spatial region,0.6318181818181818
+District,viral disease course,0.5928571428571429
+District,T cell receptor complex,0.5790322580645162
+District,incubation end temporal region,0.5552631578947369
+District,temporal region,0.5804347826086956
+District,COVID-19 disease course,0.5790322580645162
+District,communicability start temporal region,0.5611111111111111
+District,one-dimensional temporal region,0.6038461538461539
+District,three-dimensional spatial region,0.6
+District,zero-dimensional temporal region,0.6
+District,normal resident microbiota population,0.5611111111111111
+District,colony,0.5214285714285714
+District,infection start temporal region,0.5782051282051281
+District,geospatial region,0.61
+District,lower respiratory tract disease,0.5782051282051281
+District,acute infectious disease course,0.5525641025641026
+District,disease course,0.6318181818181818
+District,zero-dimensional spatial region,0.6038461538461539
+District,communicability end temporal region,0.5430232558139535
+District,infection end temporal region,0.5581081081081081
+District,pathogen birth temporal region,0.5552631578947369
+District,B cell receptor complex,0.5467741935483871
+District,geographical region,0.5611111111111111
+District,chronic infectious disease course,0.5475609756097561
+District,spatiotemporal region,0.5879310344827586
+District,two-dimensional spatial region,0.6078947368421053
+District,pathogen death temporal region,0.5552631578947369
+District,latency end temporal region,0.5642857142857143
+District,one-dimensional spatial region,0.6078947368421053
+District,long-term non-progressing infectious disease course,0.5347457627118644
+InfectedNephew,infected population,0.7227272727272727
+InfectedNephew,T cell receptor complex,0.5851351351351352
+Patient,passive immunity to infectious agent,0.6127906976744186
+Patient,case isolation control strategy,0.581578947368421
+Patient,COVID-19 mortality rate,0.55
+Patient,infectious disease mortality rate,0.55
+Patient,establishment of a clinically abnormal colony,0.5461538461538461
+Patient,COVID-19 incidence rate,0.5833333333333334
+Patient,infection incidence rate profile,0.5782051282051281
+Patient,T cell receptor complex,0.55
+Patient,incubation end temporal region,0.6121621621621621
+Patient,ribonucleic acid,0.5369565217391304
+Patient,passive immunization against infectious agent,0.5846153846153846
+Patient,deoxyribonucleic acid,0.5214285714285714
+Patient,generically dependent continuant,0.5782051282051281
+Patient,infectious disease incidence rate,0.575
+Patient,lower respiratory tract disease,0.581578947368421
+Patient,communicability end process boundary,0.5430232558139535
+Patient,communicability end temporal region,0.569047619047619
+Patient,infection end temporal region,0.5888888888888889
+Patient,incubation end process boundary,0.581578947368421
+Patient,latency end process boundary,0.5642857142857143
+Patient,SARS-CoV-2 incidence rate,0.60625
+Patient,B cell receptor complex,0.55
+Patient,specifically dependent continuant,0.6
+Patient,nucleic acid,0.5552631578947369
+Patient,latency end temporal region,0.5970588235294118
+Patient,infection incidence rate,0.6112903225806451
+Medical clinic,COVID-19 mortality rate,0.5581081081081081
+Medical clinic,establishment of localization in virus host,0.6078947368421053
+Medical clinic,infectious disease mortality rate,0.598936170212766
+Medical clinic,establishment of a clinically abnormal colony,0.6194915254237288
+Medical clinic,hospital facility,0.6758064516129032
+Medical clinic,establishment of localization,0.636046511627907
+Medical clinic,COVID-19 incidence rate,0.6121621621621621
+Medical clinic,negative regulation of establishment of localization,0.5863636363636363
+Medical clinic,infection incidence rate profile,0.6021739130434782
+Medical clinic,T cell receptor complex,0.5851351351351352
+Medical clinic,infectious disease incidence rate,0.6414893617021277
+Medical clinic,establishment of localization in host,0.6264705882352941
+Medical clinic,pathologic immunosuppression,0.5928571428571429
+Medical clinic,respiratory system disease,0.575
+Medical clinic,SARS-CoV-2 incidence rate,0.6038461538461539
+Medical clinic,B cell receptor complex,0.5851351351351352
+Medical clinic,establishment of localization in human host,0.6078947368421053
+Medical clinic,infection incidence rate,0.6342105263157894
+Symptom,primary infectious disposition,0.5581081081081081
+Symptom,collective pathogenic disposition,0.55
+Symptom,virostatic disposition,0.5879310344827586
+Symptom,SARS-COV-2 adhesion disposition,0.5552631578947369
+Symptom,exotoxin disposition,0.5981481481481481
+Symptom,invasive disposition,0.5981481481481481
+Symptom,disposition,0.6722222222222223
+Symptom,establishment of a clinically abnormal colony,0.5461538461538461
+Symptom,fungistatic disposition,0.5833333333333334
+Symptom,cidal agent disposition,0.5833333333333334
+Symptom,complex infection,0.6166666666666667
+Symptom,immunosuppressive disposition,0.5611111111111111
+Symptom,endotoxin disposition,0.5928571428571429
+Symptom,parasiticidal disposition,0.575
+Symptom,neurotoxin disposition,0.5879310344827586
+Symptom,T cell receptor complex,0.5833333333333334
+Symptom,static agent disposition,0.5790322580645162
+Symptom,immunoglobulin complex,0.553448275862069
+Symptom,incubation end temporal region,0.5310810810810811
+Symptom,reverse zoonotic disposition,0.5642857142857143
+Symptom,viricidal disposition,0.5928571428571429
+Symptom,opportunistic infectious disposition,0.5430232558139535
+Symptom,directive information content entity,0.5197674418604651
+Symptom,collective disposition,0.5879310344827586
+Symptom,viral adhesion disposition,0.5712121212121213
+Symptom,information content entity,0.5409090909090909
+Symptom,pathogenic disposition,0.5879310344827586
+Symptom,adhesion disposition,0.5981481481481481
+Symptom,infectious disposition,0.5879310344827586
+Symptom,zoonotic disposition,0.5981481481481481
+Symptom,bactericidal disposition,0.5790322580645162
+Symptom,acute respiratory distress syndrome,0.569047619047619
+Symptom,communicability end process boundary,0.5197674418604651
+Symptom,collective resistance disposition,0.55
+Symptom,communicability end temporal region,0.5452380952380953
+Symptom,infection end temporal region,0.5333333333333333
+Symptom,disease transmission model,0.5712121212121213
+Symptom,incubation end process boundary,0.5026315789473684
+Symptom,latency end process boundary,0.5357142857142857
+Symptom,quality,0.5214285714285714
+Symptom,B cell receptor complex,0.5833333333333334
+Symptom,enterotoxin disposition,0.5833333333333334
+Symptom,macromolecular complex,0.553448275862069
+Symptom,toxin disposition,0.6166666666666667
+Symptom,transmissibility disposition,0.5928571428571429
+Symptom,descriptive information content entity,0.5611111111111111
+Symptom,virulence factor disposition,0.5642857142857143
+Symptom,symptom,0.95
+Symptom,designative information content entity,0.5388888888888889
+Symptom,latency end temporal region,0.5676470588235294
+Symptom,invasion disposition,0.5981481481481481
+Symptom,parasitostatic disposition,0.5712121212121213
+Symptom,cytotoxin disposition,0.5928571428571429
+Symptom,fungicidal disposition,0.5879310344827586
+Symptom,bacteriostatic disposition,0.5712121212121213
+InfectedViaJob,establishment of a clinically abnormal colony,0.5686440677966101
+InfectedViaJob,infected population,0.7530303030303032
+InfectedViaJob,T cell receptor complex,0.5581081081081081
+InfectedViaJob,B cell receptor complex,0.5581081081081081
+Mild and very mild COVID-19,COVID-19 mortality rate,0.61
+Mild and very mild COVID-19,infectious disease mortality rate,0.5833333333333334
+Mild and very mild COVID-19,COVID-19 prevalence,0.6239130434782608
+Mild and very mild COVID-19,establishment of a clinically abnormal colony,0.6166666666666667
+Mild and very mild COVID-19,pathogen portal of entry site,0.5928571428571429
+Mild and very mild COVID-19,COVID-19 incidence rate,0.61
+Mild and very mild COVID-19,COVID-19 epidemic,0.6318181818181818
+Mild and very mild COVID-19,source of infection site,0.5676470588235294
+Mild and very mild COVID-19,COVID-19 sporadicity,0.6202127659574468
+Mild and very mild COVID-19,COVID-19,0.6785714285714286
+Mild and very mild COVID-19,COVID-19 pandemic,0.6772727272727272
+Mild and very mild COVID-19,infection incidence rate profile,0.6025423728813559
+Mild and very mild COVID-19,T cell receptor complex,0.59
+Mild and very mild COVID-19,incubation end temporal region,0.6254385964912281
+Mild and very mild COVID-19,COVID-19 disease course,0.61
+Mild and very mild COVID-19,ribonucleic acid,0.636046511627907
+Mild and very mild COVID-19,site of infection,0.5863636363636363
+Mild and very mild COVID-19,deoxyribonucleic acid,0.6375
+Mild and very mild COVID-19,COVID-19 disease incidence proportion,0.621875
+Mild and very mild COVID-19,COVID-19 lifetime prevalence,0.5954545454545455
+Mild and very mild COVID-19,COVID-19 incidence,0.6277777777777778
+Mild and very mild COVID-19,infectious disease incidence rate,0.6
+Mild and very mild COVID-19,site,0.5145161290322581
+Mild and very mild COVID-19,epitope site,0.5525641025641026
+Mild and very mild COVID-19,lower respiratory tract disease,0.5879310344827586
+Mild and very mild COVID-19,communicability end process boundary,0.6246031746031746
+Mild and very mild COVID-19,COVID-19 endemicity,0.6673913043478261
+Mild and very mild COVID-19,communicability end temporal region,0.6435483870967742
+Mild and very mild COVID-19,infection end temporal region,0.6285714285714286
+Mild and very mild COVID-19,colonization of human,0.575
+Mild and very mild COVID-19,incubation end process boundary,0.6224137931034482
+Mild and very mild COVID-19,pathogen portal of exit site,0.5954545454545455
+Mild and very mild COVID-19,latency end process boundary,0.6318181818181818
+Mild and very mild COVID-19,SARS-CoV-2 incidence rate,0.5846153846153846
+Mild and very mild COVID-19,B cell receptor complex,0.59
+Mild and very mild COVID-19,active immunization against infectious agent,0.5767605633802817
+Mild and very mild COVID-19,establishment of localization in human host,0.5785714285714285
+Mild and very mild COVID-19,infectious human pathogen,0.5846153846153846
+Mild and very mild COVID-19,nucleic acid,0.6294871794871795
+Mild and very mild COVID-19,latency end temporal region,0.6351851851851852
+Mild and very mild COVID-19,infection incidence rate,0.6068627450980393
+State wise statistics,case isolation control strategy,0.6423076923076922
+State wise statistics,COVID-19 mortality rate,0.5863636363636363
+State wise statistics,infectious disease mortality rate,0.6351851851851852
+State wise statistics,establishment of a clinically abnormal colony,0.6166666666666667
+State wise statistics,organism population,0.625
+State wise statistics,material processing,0.65
+State wise statistics,infected population,0.6
+State wise statistics,pathogen portal of entry site,0.63
+State wise statistics,COVID-19 incidence rate,0.5863636363636363
+State wise statistics,source of infection site,0.65
+State wise statistics,infection incidence rate profile,0.6009433962264151
+State wise statistics,source of infection,0.625
+State wise statistics,T cell receptor complex,0.5863636363636363
+State wise statistics,incubation end temporal region,0.6068627450980393
+State wise statistics,site of infection,0.6605263157894737
+State wise statistics,directive information content entity,0.6078947368421053
+State wise statistics,source of infection role,0.6055555555555556
+State wise statistics,acute infection,0.6722222222222223
+State wise statistics,plan specification,0.6294871794871795
+State wise statistics,information content entity,0.6202127659574468
+State wise statistics,processed material,0.6294871794871795
+State wise statistics,infectious disease incidence rate,0.6166666666666667
+State wise statistics,normal resident microbiota population,0.6051724137931035
+State wise statistics,material entity,0.6722222222222223
+State wise statistics,process that results in death,0.65
+State wise statistics,site,0.57
+State wise statistics,epitope site,0.6621212121212122
+State wise statistics,acute respiratory distress syndrome,0.6642857142857143
+State wise statistics,lower respiratory tract disease,0.6423076923076922
+State wise statistics,acute infectious disease course,0.6807692307692308
+State wise statistics,communicability end process boundary,0.5728070175438597
+State wise statistics,infectious agent population,0.6166666666666667
+State wise statistics,communicability end temporal region,0.5928571428571429
+State wise statistics,infection end temporal region,0.59
+State wise statistics,incubation end process boundary,0.5846153846153846
+State wise statistics,pathogen portal of exit site,0.6336734693877552
+State wise statistics,latency end process boundary,0.6132653061224489
+State wise statistics,SARS-CoV-2 incidence rate,0.6239130434782608
+State wise statistics,angiotensin-converting enzyme 2,0.5846153846153846
+State wise statistics,susceptible population,0.636046511627907
+State wise statistics,B cell receptor complex,0.5636363636363636
+State wise statistics,immune population,0.6078947368421053
+State wise statistics,active immunization against infectious agent,0.65
+State wise statistics,descriptive information content entity,0.6194915254237288
+State wise statistics,designative information content entity,0.6364406779661017
+State wise statistics,latency end temporal region,0.6375
+State wise statistics,infection incidence rate,0.6055555555555556
+State wise statistics,diseased population,0.65
+City,infectious disease course,0.5189655172413793
+City,establishment of a clinically abnormal colony,0.5112244897959184
+City,local infection,0.6078947368421053
+City,complex infection,0.5928571428571429
+City,coronavirus disease course,0.5166666666666666
+City,T cell receptor complex,0.524074074074074
+City,COVID-19 disease course,0.524074074074074
+City,lower respiratory tract disease,0.5357142857142857
+City,acute infectious disease course,0.5357142857142857
+City,division of geopolitical entity,0.5642857142857143
+City,disease course,0.5055555555555555
+City,place closure control strategy,0.5382352941176471
+City,B cell receptor complex,0.524074074074074
+City,chronic infectious disease course,0.5310810810810811
+town,single-stranded RNA retrovirus,0.5088235294117647
+town,double-stranded RNA virus,0.5189655172413793
+town,infectious disease course,0.5189655172413793
+town,infectious disease mortality rate,0.504054054054054
+town,establishment of a clinically abnormal colony,0.5112244897959184
+town,local infection,0.6078947368421053
+town,geographical entity,0.5369565217391304
+town,COVID-19 incidence rate,0.524074074074074
+town,coronavirus disease course,0.5166666666666666
+town,spatial region,0.6166666666666667
+town,infection incidence rate profile,0.5333333333333333
+town,T cell receptor complex,0.524074074074074
+town,incubation end temporal region,0.5382352941176471
+town,temporal region,0.6078947368421053
+town,communicability start temporal region,0.523170731707317
+town,one-dimensional temporal region,0.5357142857142857
+town,three-dimensional spatial region,0.5333333333333333
+town,zero-dimensional temporal region,0.5333333333333333
+town,infectious disease incidence rate,0.5310810810810811
+town,infection start temporal region,0.5357142857142857
+town,geospatial region,0.5928571428571429
+town,acute infectious disease course,0.5071428571428571
+town,communicability end process boundary,0.525
+town,division of geopolitical entity,0.5071428571428571
+town,disease course,0.5055555555555555
+town,zero-dimensional spatial region,0.5357142857142857
+town,communicability end temporal region,0.5269230769230769
+town,infection end temporal region,0.5409090909090909
+town,incubation end process boundary,0.5357142857142857
+town,latency end process boundary,0.54375
+town,SARS-CoV-2 incidence rate,0.5189655172413793
+town,pathogen birth temporal region,0.5382352941176471
+town,place closure control strategy,0.5088235294117647
+town,B cell receptor complex,0.524074074074074
+town,geographical region,0.5369565217391304
+town,chronic infectious disease course,0.504054054054054
+town,spatiotemporal region,0.57
+town,two-dimensional spatial region,0.5382352941176471
+town,pathogen death temporal region,0.5382352941176471
+town,latency end temporal region,0.5467741935483871
+town,infection incidence rate,0.5571428571428572
+town,one-dimensional spatial region,0.5382352941176471
+town,long-term non-progressing infectious disease course,0.5045454545454545
+Doctor,COVID-19 mortality rate,0.5879310344827586
+Doctor,infectious disease mortality rate,0.5525641025641026
+Doctor,establishment of a clinically abnormal colony,0.5284313725490196
+Doctor,COVID-19 incidence rate,0.553448275862069
+Doctor,infection incidence rate profile,0.5552631578947369
+Doctor,T cell receptor complex,0.5879310344827586
+Doctor,incubation end temporal region,0.5611111111111111
+Doctor,plan specification,0.575
+Doctor,infectious disease incidence rate,0.5525641025641026
+Doctor,communicability end process boundary,0.569047619047619
+Doctor,communicability end temporal region,0.5719512195121951
+Doctor,infection end temporal region,0.5642857142857143
+Doctor,incubation end process boundary,0.5851351351351352
+Doctor,respiratory system disease,0.54375
+Doctor,SARS-CoV-2 spike glycoprotein,0.5642857142857143
+Doctor,latency end process boundary,0.5970588235294118
+Doctor,SARS-CoV-2 incidence rate,0.5467741935483871
+Doctor,B cell receptor complex,0.5879310344827586
+Doctor,viral load,0.5125
+Doctor,latency end temporal region,0.5712121212121213
+Doctor,infection incidence rate,0.5833333333333334
+Covid Care Centre (CCC),case isolation control strategy,0.6351851851851852
+Covid Care Centre (CCC),single-stranded RNA retrovirus,0.6009433962264151
+Covid Care Centre (CCC),double-stranded RNA virus,0.575
+Covid Care Centre (CCC),negative-sense single-stranded RNA virus,0.5769841269841269
+Covid Care Centre (CCC),quarantine control strategy,0.63
+Covid Care Centre (CCC),establishment of a clinically abnormal colony,0.5823529411764706
+Covid Care Centre (CCC),infectious disease control objective specification,0.6417808219178082
+Covid Care Centre (CCC),T cell receptor complex,0.6673913043478261
+Covid Care Centre (CCC),pathogen portal of exit,0.5804347826086956
+Covid Care Centre (CCC),incubation end temporal region,0.619811320754717
+Covid Care Centre (CCC),SARS-CoV-2 attachment stage,0.65
+Covid Care Centre (CCC),positive-sense single-stranded RNA virus,0.5928571428571429
+Covid Care Centre (CCC),herd immunity to infectious organism,0.5516949152542373
+Covid Care Centre (CCC),acute respiratory distress syndrome,0.6051724137931035
+Covid Care Centre (CCC),infectious disease control strategy,0.6396551724137931
+Covid Care Centre (CCC),communicability end process boundary,0.6364406779661017
+Covid Care Centre (CCC),communicability end temporal region,0.6396551724137931
+Covid Care Centre (CCC),infection end temporal region,0.6038461538461539
+Covid Care Centre (CCC),virus attachment stage,0.65
+Covid Care Centre (CCC),pathogen portal of exit role,0.6068627450980393
+Covid Care Centre (CCC),incubation end process boundary,0.6166666666666667
+Covid Care Centre (CCC),pathogen portal of exit site,0.5872549019607843
+Covid Care Centre (CCC),vector control strategy,0.6456521739130434
+Covid Care Centre (CCC),latency end process boundary,0.6068627450980393
+Covid Care Centre (CCC),place closure control strategy,0.6575471698113208
+Covid Care Centre (CCC),B cell receptor complex,0.6673913043478261
+Covid Care Centre (CCC),viral load,0.5712121212121213
+Covid Care Centre (CCC),latency end temporal region,0.61
+Covid Care Centre (CCC),action specification,0.5895348837209302
+Country wise statistics,cell space,0.6318181818181818
+Country wise statistics,COVID-19 mortality rate,0.6239130434782608
+Country wise statistics,infectious disease mortality rate,0.6642857142857143
+Country wise statistics,country,0.6833333333333332
+Country wise statistics,establishment of a clinically abnormal colony,0.5823529411764706
+Country wise statistics,organism population,0.6404761904761905
+Country wise statistics,material processing,0.6166666666666667
+Country wise statistics,infected population,0.6166666666666667
+Country wise statistics,COVID-19 incidence rate,0.6239130434782608
+Country wise statistics,source of infection site,0.6627659574468084
+Country wise statistics,spatial region,0.5851351351351352
+Country wise statistics,SARS-CoV-2 incidence proportion,0.5981481481481481
+Country wise statistics,infection incidence rate profile,0.6318181818181818
+Country wise statistics,source of infection,0.6404761904761905
+Country wise statistics,T cell receptor complex,0.5804347826086956
+Country wise statistics,incubation end temporal region,0.619811320754717
+Country wise statistics,temporal region,0.581578947368421
+Country wise statistics,communicability start temporal region,0.6666666666666667
+Country wise statistics,one-dimensional temporal region,0.5981481481481481
+Country wise statistics,directive information content entity,0.6194915254237288
+Country wise statistics,anatomical space,0.6294871794871795
+Country wise statistics,three-dimensional spatial region,0.6318181818181818
+Country wise statistics,source of infection role,0.6202127659574468
+Country wise statistics,acute infection,0.6605263157894737
+Country wise statistics,plan specification,0.6207317073170732
+Country wise statistics,COVID-19 disease incidence proportion,0.6166666666666667
+Country wise statistics,zero-dimensional temporal region,0.5772727272727273
+Country wise statistics,information content entity,0.6336734693877552
+Country wise statistics,processed material,0.6207317073170732
+Country wise statistics,infectious disease incidence rate,0.6464285714285714
+Country wise statistics,normal resident microbiota population,0.6166666666666667
+Country wise statistics,infection start temporal region,0.6351851851851852
+Country wise statistics,material entity,0.6342105263157894
+Country wise statistics,process that results in death,0.6230769230769231
+Country wise statistics,acute respiratory distress syndrome,0.656896551724138
+Country wise statistics,geospatial region,0.6
+Country wise statistics,lower respiratory tract disease,0.6537037037037037
+Country wise statistics,acute infectious disease course,0.6722222222222223
+Country wise statistics,communicability end process boundary,0.6364406779661017
+Country wise statistics,infectious agent population,0.63
+Country wise statistics,zero-dimensional spatial region,0.6166666666666667
+Country wise statistics,communicability end temporal region,0.656896551724138
+Country wise statistics,simple infection,0.6038461538461539
+Country wise statistics,infection end temporal region,0.6230769230769231
+Country wise statistics,infection incidence proportion profile,0.6139344262295081
+Country wise statistics,incubation end process boundary,0.5981481481481481
+Country wise statistics,latency end process boundary,0.5872549019607843
+Country wise statistics,SARS-CoV-2 incidence rate,0.6166666666666667
+Country wise statistics,angiotensin-converting enzyme 2,0.5796296296296296
+Country wise statistics,pathogen birth temporal region,0.6009433962264151
+Country wise statistics,infectious disease incidence proportion,0.6274193548387097
+Country wise statistics,susceptible population,0.6277777777777778
+Country wise statistics,B cell receptor complex,0.558695652173913
+Country wise statistics,geographical region,0.569047619047619
+Country wise statistics,immune population,0.625
+Country wise statistics,active immunization against infectious agent,0.6440298507462687
+Country wise statistics,spatiotemporal region,0.5863636363636363
+Country wise statistics,descriptive information content entity,0.6139344262295081
+Country wise statistics,two-dimensional spatial region,0.6386792452830189
+Country wise statistics,pathogen death temporal region,0.6009433962264151
+Country wise statistics,designative information content entity,0.6139344262295081
+Country wise statistics,latency end temporal region,0.61
+Country wise statistics,infection incidence rate,0.6414893617021277
+Country wise statistics,diseased population,0.6166666666666667
+Country wise statistics,infection incidence proportion,0.619811320754717
+Country wise statistics,one-dimensional spatial region,0.6386792452830189
+Organization,primary infectious disposition,0.6404761904761905
+Organization,case isolation control strategy,0.6127906976744186
+Organization,pathogen surveillance,0.6318181818181818
+Organization,COVID-19 mortality rate,0.6214285714285714
+Organization,collective pathogenic disposition,0.6277777777777778
+Organization,establishment of localization in virus host,0.6136363636363636
+Organization,infectious disease mortality rate,0.5833333333333334
+Organization,virostatic disposition,0.6558823529411765
+Organization,quarantine control strategy,0.6294871794871795
+Organization,SARS-COV-2 adhesion disposition,0.636046511627907
+Organization,exotoxin disposition,0.66875
+Organization,negative regulation of replication,0.6673913043478261
+Organization,invasive disposition,0.6375
+Organization,disposition,0.7108695652173913
+Organization,establishment of a clinically abnormal colony,0.5728070175438597
+Organization,organism population,0.8048387096774193
+Organization,negative regulation of biological process,0.6009433962264151
+Organization,fungistatic disposition,0.65
+Organization,asymptomatic infectious structure carrier,0.5632075471698114
+Organization,disease surveillance objective specification,0.6107142857142857
+Organization,immunosuppressed organism,0.6121621621621621
+Organization,infectious structure aggregate,0.569047619047619
+Organization,cidal agent disposition,0.65
+Organization,establishment of localization,0.6695121951219513
+Organization,COVID-19 incidence rate,0.5928571428571429
+Organization,immunosuppressive disposition,0.6207317073170732
+Organization,endotoxin disposition,0.6621212121212122
+Organization,infectious disease control objective specification,0.5951612903225807
+Organization,negative regulation of establishment of localization,0.621875
+Organization,pathologically immunosuppressed organism,0.5846153846153846
+Organization,biological regulation,0.6924242424242425
+Organization,vector surveillance,0.6112903225806451
+Organization,parasiticidal disposition,0.6662162162162162
+Organization,neurotoxin disposition,0.6558823529411765
+Organization,infection incidence rate profile,0.5863636363636363
+Organization,infectious structure host,0.5581081081081081
+Organization,T cell receptor complex,0.5357142857142857
+Organization,static agent disposition,0.6444444444444444
+Organization,acellular structure,0.5467741935483871
+Organization,incubation end temporal region,0.5928571428571429
+Organization,reverse zoonotic disposition,0.625
+Organization,viricidal disposition,0.6621212121212122
+Organization,drug-based immunosuppressed organism,0.575
+Organization,opportunistic infectious disposition,0.6166666666666667
+Organization,collective disposition,0.6264705882352941
+Organization,plan specification,0.7166666666666667
+Organization,architectual structure,0.5676470588235294
+Organization,herd immunity to infectious organism,0.5958333333333333
+Organization,viral adhesion disposition,0.6605263157894737
+Organization,pathogenic disposition,0.6852941176470588
+Organization,infectious disease incidence rate,0.5833333333333334
+Organization,immunodeficient organism,0.6166666666666667
+Organization,adhesion disposition,0.66875
+Organization,infectious disposition,0.6264705882352941
+Organization,zoonotic disposition,0.66875
+Organization,bactericidal disposition,0.6444444444444444
+Organization,organism,0.75
+Organization,infectious disease control strategy,0.5563829787234043
+Organization,establishment of localization in host,0.6336734693877552
+Organization,communicability end process boundary,0.5958333333333333
+Organization,negative regulation of immune response,0.61
+Organization,infectious structure,0.575
+Organization,infectious structure host role,0.5452380952380953
+Organization,collective resistance disposition,0.65
+Organization,negative regulation of production,0.6277777777777778
+Organization,negative regulation of life-sustaining process,0.5879310344827586
+Organization,communicability end temporal region,0.6202127659574468
+Organization,negative regulation of developmental process,0.5928571428571429
+Organization,infection end temporal region,0.5963414634146341
+Organization,incubation end process boundary,0.5895348837209302
+Organization,respiratory system disease,0.581578947368421
+Organization,infectious structure generative stage,0.5928571428571429
+Organization,surveillance process,0.575
+Organization,vector control strategy,0.5928571428571429
+Organization,latency end process boundary,0.55
+Organization,SARS-CoV-2 incidence rate,0.5851351351351352
+Organization,place closure control strategy,0.569047619047619
+Organization,symptomatic infectious structure carrier,0.5653846153846154
+Organization,B cell receptor complex,0.5357142857142857
+Organization,acellular structure aggregate,0.5475609756097561
+Organization,enterotoxin disposition,0.65
+Organization,establishment of localization in human host,0.6136363636363636
+Organization,toxin disposition,0.6913793103448276
+Organization,transmissibility disposition,0.65
+Organization,virulence factor disposition,0.625
+Organization,latency end temporal region,0.6038461538461539
+Organization,negative regulation of viral process,0.6166666666666667
+Organization,invasion disposition,0.66875
+Organization,extended organism,0.656896551724138
+Organization,infection incidence rate,0.5888888888888889
+Organization,organism substance,0.7166666666666667
+Organization,susceptible organism,0.6375
+Organization,parasitostatic disposition,0.6605263157894737
+Organization,immunocompetent organism,0.6166666666666667
+Organization,cytotoxin disposition,0.6621212121212122
+Organization,fungicidal disposition,0.6558823529411765
+Organization,bacteriostatic disposition,0.6342105263157894
+Test result,COVID-19 mortality rate,0.5970588235294118
+Test result,communicability start process boundary,0.6132653061224489
+Test result,infectious disease mortality rate,0.609090909090909
+Test result,establishment of a clinically abnormal colony,0.5571428571428572
+Test result,COVID-19 incidence rate,0.5676470588235294
+Test result,immune response,0.6423076923076922
+Test result,infection incidence rate profile,0.5895348837209302
+Test result,T cell receptor complex,0.6264705882352941
+Test result,incubation end temporal region,0.5963414634146341
+Test result,communicability start temporal region,0.575
+Test result,plan specification,0.553448275862069
+Test result,polymerase chain reaction,0.6166666666666667
+Test result,production,0.5928571428571429
+Test result,infectious disease incidence rate,0.5863636363636363
+Test result,infection start temporal region,0.5928571428571429
+Test result,communicability end process boundary,0.598936170212766
+Test result,negative regulation of immune response,0.6132653061224489
+Test result,division of geopolitical entity,0.569047619047619
+Test result,negative regulation of production,0.6318181818181818
+Test result,communicability end temporal region,0.5804347826086956
+Test result,infection end temporal region,0.6
+Test result,assay,0.575
+Test result,humoral immune response,0.5970588235294118
+Test result,incubation end process boundary,0.6166666666666667
+Test result,innate immune response,0.6318181818181818
+Test result,incubation start process boundary,0.6318181818181818
+Test result,latency end process boundary,0.6294871794871795
+Test result,SARS-CoV-2 incidence rate,0.5611111111111111
+Test result,place closure control strategy,0.5963414634146341
+Test result,B cell receptor complex,0.5970588235294118
+Test result,viral plaque assay,0.553448275862069
+Test result,infection start process boundary,0.636046511627907
+Test result,PCR product,0.6318181818181818
+Test result,serology assay,0.57
+Test result,latency end temporal region,0.6078947368421053
+Test result,infection incidence rate,0.5928571428571429
+Test result,organism substance,0.6224137931034482
+Test result,action specification,0.5790322580645162
+Test result,adaptive immune response,0.6214285714285714
+Test result,latency start process boundary,0.6695121951219513
+InfectedNeighbor,infected population,0.7357142857142857
+InfectedNeighbor,T cell receptor complex,0.5782051282051281
+InfectedNeighbor,B cell receptor complex,0.5782051282051281
+SecondaryContact,establishment of a clinically abnormal colony,0.5975409836065574
+SecondaryContact,T cell receptor complex,0.6038461538461539
+SecondaryContact,contact pathogen transmission process,0.6386792452830189
+SecondaryContact,secondary infection role,0.75
+SecondaryContact,secondary infection,0.7928571428571428
+SecondaryContact,contact tracing,0.7080645161290323
+InfectedViaPoliceWork,establishment of a clinically abnormal colony,0.6015151515151516
+InfectedViaPoliceWork,infected population,0.775
+InfectedViaPoliceWork,T cell receptor complex,0.609090909090909
+Dedicated Covid Hospital (DCH),COVID-19 mortality rate,0.6575471698113208
+Dedicated Covid Hospital (DCH),establishment of localization in virus host,0.6280821917808219
+Dedicated Covid Hospital (DCH),infectious disease mortality rate,0.6246031746031746
+Dedicated Covid Hospital (DCH),establishment of a clinically abnormal colony,0.61
+Dedicated Covid Hospital (DCH),hospital facility,0.6627659574468084
+Dedicated Covid Hospital (DCH),establishment of localization,0.6025423728813559
+Dedicated Covid Hospital (DCH),COVID-19 incidence rate,0.619811320754717
+Dedicated Covid Hospital (DCH),negative regulation of establishment of localization,0.6207317073170732
+Dedicated Covid Hospital (DCH),infection incidence rate profile,0.6274193548387097
+Dedicated Covid Hospital (DCH),T cell receptor complex,0.619811320754717
+Dedicated Covid Hospital (DCH),incubation end temporal region,0.6333333333333333
+Dedicated Covid Hospital (DCH),infectious disease incidence rate,0.6246031746031746
+Dedicated Covid Hospital (DCH),establishment of localization in host,0.6291044776119403
+Dedicated Covid Hospital (DCH),communicability end process boundary,0.6166666666666667
+Dedicated Covid Hospital (DCH),communicability end temporal region,0.6192307692307693
+Dedicated Covid Hospital (DCH),infection end temporal region,0.6194915254237288
+Dedicated Covid Hospital (DCH),incubation end process boundary,0.630327868852459
+Dedicated Covid Hospital (DCH),respiratory system disease,0.6285714285714286
+Dedicated Covid Hospital (DCH),latency end process boundary,0.6224137931034482
+Dedicated Covid Hospital (DCH),SARS-CoV-2 incidence rate,0.5954545454545455
+Dedicated Covid Hospital (DCH),place closure control strategy,0.6166666666666667
+Dedicated Covid Hospital (DCH),B cell receptor complex,0.619811320754717
+Dedicated Covid Hospital (DCH),active immunization against infectious agent,0.5851351351351352
+Dedicated Covid Hospital (DCH),establishment of localization in human host,0.6143835616438357
+Dedicated Covid Hospital (DCH),latency end temporal region,0.6254385964912281
+Dedicated Covid Hospital (DCH),infection incidence rate,0.6166666666666667
+Severe COVID-19,COVID-19 mortality rate,0.6605263157894737
+Severe COVID-19,infectious disease mortality rate,0.575
+Severe COVID-19,COVID-19 prevalence,0.6852941176470588
+Severe COVID-19,establishment of a clinically abnormal colony,0.55
+Severe COVID-19,pathogen portal of entry site,0.5636363636363636
+Severe COVID-19,COVID-19 incidence rate,0.6605263157894737
+Severe COVID-19,COVID-19 epidemic,0.7
+Severe COVID-19,source of infection site,0.6294871794871795
+Severe COVID-19,COVID-19 sporadicity,0.6785714285714286
+Severe COVID-19,COVID-19,0.7978260869565217
+Severe COVID-19,COVID-19 pandemic,0.7
+Severe COVID-19,infection incidence rate profile,0.598936170212766
+Severe COVID-19,T cell receptor complex,0.6078947368421053
+Severe COVID-19,incubation end temporal region,0.5611111111111111
+Severe COVID-19,COVID-19 disease course,0.6605263157894737
+Severe COVID-19,site of infection,0.60625
+Severe COVID-19,acute infection,0.5833333333333334
+Severe COVID-19,COVID-19 disease incidence proportion,0.6038461538461539
+Severe COVID-19,COVID-19 lifetime prevalence,0.636046511627907
+Severe COVID-19,COVID-19 incidence,0.6924242424242425
+Severe COVID-19,infectious disease incidence rate,0.5958333333333333
+Severe COVID-19,site,0.5552631578947369
+Severe COVID-19,epitope site,0.5981481481481481
+Severe COVID-19,acute respiratory distress syndrome,0.57
+Severe COVID-19,acute infectious disease course,0.5804347826086956
+Severe COVID-19,communicability end process boundary,0.5676470588235294
+Severe COVID-19,COVID-19 endemicity,0.6852941176470588
+Severe COVID-19,communicability end temporal region,0.55
+Severe COVID-19,simple infection,0.6112903225806451
+Severe COVID-19,infection end temporal region,0.5636363636363636
+Severe COVID-19,incubation end process boundary,0.5804347826086956
+Severe COVID-19,respiratory system disease,0.5719512195121951
+Severe COVID-19,pathogen portal of exit site,0.5662790697674418
+Severe COVID-19,latency end process boundary,0.6127906976744186
+Severe COVID-19,SARS-CoV-2 incidence rate,0.625
+Severe COVID-19,systematic infection,0.5928571428571429
+Severe COVID-19,B cell receptor complex,0.6078947368421053
+Severe COVID-19,latency end temporal region,0.569047619047619
+Severe COVID-19,infection incidence rate,0.5782051282051281
+Geographic Region,objective specification,0.625
+Geographic Region,infectious disease course,0.5928571428571429
+Geographic Region,country,0.575
+Geographic Region,establishment of a clinically abnormal colony,0.5951612903225807
+Geographic Region,local infection,0.66875
+Geographic Region,disease surveillance objective specification,0.5975409836065574
+Geographic Region,coronavirus disease course,0.6127906976744186
+Geographic Region,infectious disease control objective specification,0.5843283582089552
+Geographic Region,spatial region,0.7403225806451613
+Geographic Region,viral disease course,0.6121621621621621
+Geographic Region,object aggregate,0.6318181818181818
+Geographic Region,object,0.5369565217391304
+Geographic Region,SARS-CoV-2 incidence proportion,0.6166666666666667
+Geographic Region,T cell receptor complex,0.575
+Geographic Region,incubation end temporal region,0.6840425531914894
+Geographic Region,temporal region,0.79375
+Geographic Region,COVID-19 disease course,0.575
+Geographic Region,communicability start temporal region,0.6537037037037037
+Geographic Region,one-dimensional temporal region,0.6791666666666666
+Geographic Region,three-dimensional spatial region,0.6948979591836735
+Geographic Region,COVID-19 disease incidence proportion,0.6166666666666667
+Geographic Region,zero-dimensional temporal region,0.6744897959183673
+Geographic Region,infection start temporal region,0.6791666666666666
+Geographic Region,geospatial region,0.8029411764705883
+Geographic Region,lower respiratory tract disease,0.5958333333333333
+Geographic Region,acute infectious disease course,0.575
+Geographic Region,communicability end process boundary,0.6009433962264151
+Geographic Region,division of geopolitical entity,0.6375
+Geographic Region,disease course,0.6112903225806451
+Geographic Region,zero-dimensional spatial region,0.7
+Geographic Region,communicability end temporal region,0.6615384615384616
+Geographic Region,infection end temporal region,0.6891304347826087
+Geographic Region,infection incidence proportion profile,0.6136363636363636
+Geographic Region,incubation end process boundary,0.5958333333333333
+Geographic Region,latency end process boundary,0.6055555555555556
+Geographic Region,pathogen birth temporal region,0.7053191489361703
+Geographic Region,place closure control strategy,0.6202127659574468
+Geographic Region,infectious disease incidence proportion,0.6285714285714286
+Geographic Region,B cell receptor complex,0.575
+Geographic Region,geographical region,0.9222222222222223
+Geographic Region,chronic infectious disease course,0.59
+Geographic Region,spatiotemporal region,0.7394736842105263
+Geographic Region,two-dimensional spatial region,0.7053191489361703
+Geographic Region,pathogen death temporal region,0.7053191489361703
+Geographic Region,latency end temporal region,0.7
+Geographic Region,infection incidence proportion,0.6414893617021277
+Geographic Region,one-dimensional spatial region,0.7053191489361703
+Geographic Region,long-term non-progressing infectious disease course,0.5970588235294118
+State,case isolation control strategy,0.5888888888888889
+State,COVID-19 mortality rate,0.5928571428571429
+State,infectious disease mortality rate,0.581578947368421
+State,establishment of a clinically abnormal colony,0.53
+State,pathogen portal of entry site,0.5676470588235294
+State,COVID-19 incidence rate,0.5571428571428572
+State,source of infection site,0.5879310344827586
+State,infection incidence rate profile,0.5581081081081081
+State,T cell receptor complex,0.5571428571428572
+State,incubation end temporal region,0.5357142857142857
+State,site of infection,0.5863636363636363
+State,infectious disease incidence rate,0.5552631578947369
+State,site,0.7833333333333333
+State,epitope site,0.6264705882352941
+State,communicability end process boundary,0.523170731707317
+State,communicability end temporal region,0.525
+State,infection end temporal region,0.5382352941176471
+State,incubation end process boundary,0.5333333333333333
+State,pathogen portal of exit site,0.5712121212121213
+State,latency end process boundary,0.5409090909090909
+State,SARS-CoV-2 incidence rate,0.5833333333333334
+State,B cell receptor complex,0.5214285714285714
+State,latency end temporal region,0.54375
+State,infection incidence rate,0.5879310344827586
+Clinical finding (finding),single-stranded RNA retrovirus,0.5928571428571429
+Clinical finding (finding),objective specification,0.6132653061224489
+Clinical finding (finding),double-stranded RNA virus,0.5872549019607843
+Clinical finding (finding),negative-sense single-stranded RNA virus,0.6015151515151516
+Clinical finding (finding),establishment of a clinically abnormal colony,0.6190140845070422
+Clinical finding (finding),disease surveillance objective specification,0.6071428571428572
+Clinical finding (finding),infectious disease control objective specification,0.6078947368421053
+Clinical finding (finding),object aggregate,0.5452380952380953
+Clinical finding (finding),T cell receptor complex,0.5520408163265306
+Clinical finding (finding),incubation end temporal region,0.6464285714285714
+Clinical finding (finding),positive-sense single-stranded RNA virus,0.5863636363636363
+Clinical finding (finding),lower respiratory tract disease,0.5728070175438597
+Clinical finding (finding),communicability end process boundary,0.6435483870967742
+Clinical finding (finding),communicability end temporal region,0.6467213114754098
+Clinical finding (finding),infection end temporal region,0.6318181818181818
+Clinical finding (finding),incubation end process boundary,0.6254385964912281
+Clinical finding (finding),latency end process boundary,0.6166666666666667
+Clinical finding (finding),B cell receptor complex,0.5520408163265306
+Clinical finding (finding),active immunization against infectious agent,0.65
+Clinical finding (finding),latency end temporal region,0.619811320754717
+Gender type,case isolation control strategy,0.5928571428571429
+Gender type,COVID-19 mortality rate,0.5970588235294118
+Gender type,infectious disease mortality rate,0.609090909090909
+Gender type,establishment of a clinically abnormal colony,0.5392857142857143
+Gender type,COVID-19 incidence rate,0.6264705882352941
+Gender type,complex infection,0.5928571428571429
+Gender type,infection incidence rate profile,0.636046511627907
+Gender type,T cell receptor complex,0.6264705882352941
+Gender type,immunoglobulin complex,0.6015151515151516
+Gender type,incubation end temporal region,0.6207317073170732
+Gender type,infectious disease incidence rate,0.609090909090909
+Gender type,lower respiratory tract disease,0.5928571428571429
+Gender type,communicability end process boundary,0.5776595744680851
+Gender type,division of geopolitical entity,0.569047619047619
+Gender type,communicability end temporal region,0.6021739130434782
+Gender type,infection end temporal region,0.625
+Gender type,incubation end process boundary,0.5928571428571429
+Gender type,respiratory system disease,0.5851351351351352
+Gender type,latency end process boundary,0.6038461538461539
+Gender type,SARS-CoV-2 incidence rate,0.6166666666666667
+Gender type,B cell receptor complex,0.6264705882352941
+Gender type,macromolecular complex,0.6015151515151516
+Gender type,latency end temporal region,0.6342105263157894
+Gender type,infection incidence rate,0.65
+Gender type,action specification,0.5790322580645162
+Viral disease,primary infectious disposition,0.6127906976744186
+Viral disease,process of establishing viral infection,0.6038461538461539
+Viral disease,virus adhesion susceptible cell,0.6545454545454545
+Viral disease,viral capsid,0.77
+Viral disease,single-stranded DNA virus,0.6342105263157894
+Viral disease,SARS-CoV-2 disorder,0.6375
+Viral disease,virus release stage,0.7
+Viral disease,virus translation stage,0.7
+Viral disease,subclinical infection,0.6264705882352941
+Viral disease,double-stranded RNA virus,0.6078947368421053
+Viral disease,collective pathogenic disposition,0.6021739130434782
+Viral disease,infectious disease endemicity,0.6642857142857143
+Viral disease,infection,0.5409090909090909
+Viral disease,establishment of localization in virus host,0.575
+Viral disease,negative-sense single-stranded RNA virus,0.6009433962264151
+Viral disease,infectious disease course,0.6868421052631578
+Viral disease,infectious disease mortality rate,0.6456521739130434
+Viral disease,virostatic disposition,0.7071428571428571
+Viral disease,SARS-COV-2 adhesion disposition,0.609090909090909
+Viral disease,exotoxin disposition,0.6318181818181818
+Viral disease,virus synthesis stage,0.6852941176470588
+Viral disease,invasive disposition,0.6621212121212122
+Viral disease,disposition,0.6166666666666667
+Viral disease,viral disease pandemic,0.8214285714285714
+Viral disease,establishment of a clinically abnormal colony,0.553448275862069
+Viral disease,nursing-home acquired infection,0.5636363636363636
+Viral disease,local infection,0.6285714285714286
+Viral disease,fungistatic disposition,0.6444444444444444
+Viral disease,disease surveillance objective specification,0.5903508771929825
+Viral disease,cidal agent disposition,0.6722222222222223
+Viral disease,COVID-19 epidemic,0.6166666666666667
+Viral disease,complex infection,0.5833333333333334
+Viral disease,immunosuppressive disposition,0.6166666666666667
+Viral disease,endotoxin disposition,0.6264705882352941
+Viral disease,source of infection site,0.6121621621621621
+Viral disease,infectious disease sporadicity,0.6593023255813953
+Viral disease,coronavirus disease course,0.732051282051282
+Viral disease,disordered virus,0.6224137931034482
+Viral disease,infectious disease control objective specification,0.5928571428571429
+Viral disease,viral disease course,0.8439393939393939
+Viral disease,infectious disease epidemic,0.675
+Viral disease,parasiticidal disposition,0.6605263157894737
+Viral disease,neurotoxin disposition,0.6214285714285714
+Viral disease,infectious disease,0.7403225806451613
+Viral disease,intracellular infection,0.6444444444444444
+Viral disease,infection incidence rate profile,0.5833333333333334
+Viral disease,source of infection,0.575
+Viral disease,T cell receptor complex,0.5611111111111111
+Viral disease,viral pathogenesis,0.7080645161290323
+Viral disease,static agent disposition,0.6391891891891892
+Viral disease,viral disease epidemic,0.8214285714285714
+Viral disease,incubation end temporal region,0.6127906976744186
+Viral disease,reverse zoonotic disposition,0.6207317073170732
+Viral disease,COVID-19 disease course,0.7277777777777777
+Viral disease,viricidal disposition,0.7441176470588234
+Viral disease,viral disease,0.95
+Viral disease,disease,0.8
+Viral disease,opportunistic infectious disposition,0.5724489795918367
+Viral disease,site of infection,0.5833333333333334
+Viral disease,positive-sense single-stranded RNA virus,0.6009433962264151
+Viral disease,collective disposition,0.6214285714285714
+Viral disease,source of infection role,0.5851351351351352
+Viral disease,hospital-acquired infection,0.6
+Viral disease,primary infection,0.6166666666666667
+Viral disease,acute infection,0.5928571428571429
+Viral disease,COVID-19 disease incidence proportion,0.65
+Viral disease,infection incidence,0.60625
+Viral disease,coronavirus disease,0.79375
+Viral disease,viral adhesion disposition,0.7064102564102563
+Viral disease,virus disorder,0.7462962962962962
+Viral disease,pathogenic disposition,0.6214285714285714
+Viral disease,virus aggregate,0.7
+Viral disease,virus generative stage,0.6785714285714286
+Viral disease,infectious disease incidence rate,0.6456521739130434
+Viral disease,community-acquired infection,0.5719512195121951
+Viral disease,adhesion disposition,0.6318181818181818
+Viral disease,infection start temporal region,0.5863636363636363
+Viral disease,infectious disposition,0.6214285714285714
+Viral disease,virus replication,0.65
+Viral disease,viral envelope,0.7462962962962962
+Viral disease,chronic infection,0.5833333333333334
+Viral disease,zoonotic disposition,0.6318181818181818
+Viral disease,bactericidal disposition,0.6662162162162162
+Viral disease,disorder,0.6404761904761905
+Viral disease,acute respiratory distress syndrome,0.6583333333333334
+Viral disease,infectious disease prevalence,0.6642857142857143
+Viral disease,lower respiratory tract disease,0.7
+Viral disease,primary infection role,0.6214285714285714
+Viral disease,acute infectious disease course,0.6545454545454545
+Viral disease,infectious disease control strategy,0.6375
+Viral disease,communicability end process boundary,0.5928571428571429
+Viral disease,collective resistance disposition,0.6239130434782608
+Viral disease,subclinical SARS-CoV-2 infection,0.6277777777777778
+Viral disease,disease course,0.7092592592592593
+Viral disease,communicability end temporal region,0.6166666666666667
+Viral disease,simple infection,0.6224137931034482
+Viral disease,infection end temporal region,0.5928571428571429
+Viral disease,infectious disease incidence,0.6695121951219513
+Viral disease,infectious disease pandemic,0.675
+Viral disease,disease transmission model,0.6294871794871795
+Viral disease,virus attachment stage,0.6785714285714286
+Viral disease,process of establishing an infection,0.5928571428571429
+Viral disease,infection incidence proportion profile,0.5480392156862746
+Viral disease,incubation end process boundary,0.5863636363636363
+Viral disease,infection incidence profile,0.575
+Viral disease,respiratory system disease,0.732051282051282
+Viral disease,respiratory droplet virus fomite,0.6277777777777778
+Viral disease,latency end process boundary,0.5719512195121951
+Viral disease,infection prevalence,0.6318181818181818
+Viral disease,infectious disorder,0.6375
+Viral disease,systematic infection,0.5712121212121213
+Viral disease,infectious disease incidence proportion,0.6230769230769231
+Viral disease,double-stranded DNA virus,0.6078947368421053
+Viral disease,B cell receptor complex,0.5611111111111111
+Viral disease,secondary infection role,0.5851351351351352
+Viral disease,enterotoxin disposition,0.6166666666666667
+Viral disease,viral plaque assay,0.7403225806451613
+Viral disease,chronic infectious disease course,0.6456521739130434
+Viral disease,virus uncoating stage,0.6852941176470588
+Viral disease,infectious disease lifetime prevalence,0.6264705882352941
+Viral disease,appearance of disorder,0.65
+Viral disease,toxin disposition,0.65
+Viral disease,secondary infection,0.575
+Viral disease,virus penetration stage,0.6722222222222223
+Viral disease,infection start process boundary,0.5611111111111111
+Viral disease,transmissibility disposition,0.6451219512195122
+Viral disease,viral load,0.7543478260869566
+Viral disease,virus host,0.6673913043478261
+Viral disease,virulence factor disposition,0.6695121951219513
+Viral disease,latency end temporal region,0.6
+Viral disease,negative regulation of viral process,0.6132653061224489
+Viral disease,invasion disposition,0.6621212121212122
+Viral disease,infection incidence rate,0.6121621621621621
+Viral disease,virus,0.6722222222222223
+Viral disease,subclinical virus infection,0.625
+Viral disease,extracellular infection,0.6166666666666667
+Viral disease,subclinical coronavirus infection,0.6021739130434782
+Viral disease,parasitostatic disposition,0.6294871794871795
+Viral disease,metastatic infection,0.5712121212121213
+Viral disease,infection incidence proportion,0.5662790697674418
+Viral disease,cytotoxin disposition,0.6264705882352941
+Viral disease,long-term non-progressing infectious disease course,0.590625
+Viral disease,fungicidal disposition,0.6785714285714286
+Viral disease,coronavirus disorder,0.6924242424242425
+Viral disease,bacteriostatic disposition,0.6294871794871795
+Viral disease,virus transcription stage,0.6605263157894737
+HealthCareProfessional,establishment of a clinically abnormal colony,0.6141791044776119
+HealthCareProfessional,T cell receptor complex,0.6277777777777778
+HealthCareProfessional,healthcare facility,0.7670731707317073
+Laboratory test finding,primary infectious disposition,0.6575471698113208
+Laboratory test finding,single-stranded RNA retrovirus,0.6009433962264151
+Laboratory test finding,virus release stage,0.5928571428571429
+Laboratory test finding,virus translation stage,0.6239130434782608
+Laboratory test finding,COVID-19 mortality rate,0.6239130434782608
+Laboratory test finding,double-stranded RNA virus,0.5958333333333333
+Laboratory test finding,negative-sense single-stranded RNA virus,0.5928571428571429
+Laboratory test finding,infectious disease mortality rate,0.6107142857142857
+Laboratory test finding,virus synthesis stage,0.609090909090909
+Laboratory test finding,establishment of a clinically abnormal colony,0.5970588235294118
+Laboratory test finding,adhesion factor,0.6078947368421053
+Laboratory test finding,COVID-19 incidence rate,0.5804347826086956
+Laboratory test finding,primary pathogen,0.6551282051282051
+Laboratory test finding,infection incidence rate profile,0.5954545454545455
+Laboratory test finding,T cell receptor complex,0.6021739130434782
+Laboratory test finding,incubation end temporal region,0.6386792452830189
+Laboratory test finding,SARS-CoV-2 attachment stage,0.63
+Laboratory test finding,invasion factor,0.6078947368421053
+Laboratory test finding,SARS-CoV-2 uncoating stage,0.6132653061224489
+Laboratory test finding,SARS-CoV-2 transcription stage,0.6386792452830189
+Laboratory test finding,positive-sense single-stranded RNA virus,0.5928571428571429
+Laboratory test finding,primary infection,0.675
+Laboratory test finding,generative stage,0.6294871794871795
+Laboratory test finding,pathogen generative stage,0.6375
+Laboratory test finding,virus generative stage,0.6055555555555556
+Laboratory test finding,infectious disease incidence rate,0.6285714285714286
+Laboratory test finding,lower respiratory tract disease,0.7092592592592593
+Laboratory test finding,primary infection role,0.65
+Laboratory test finding,communicability end process boundary,0.6194915254237288
+Laboratory test finding,SARS-CoV-2 release stage,0.6202127659574468
+Laboratory test finding,division of geopolitical entity,0.5981481481481481
+Laboratory test finding,developmental process,0.5863636363636363
+Laboratory test finding,communicability end temporal region,0.6224137931034482
+Laboratory test finding,negative regulation of developmental process,0.5843283582089552
+Laboratory test finding,infection end temporal region,0.6038461538461539
+Laboratory test finding,assay,0.5571428571428572
+Laboratory test finding,SARS-CoV-2 synthesis stage,0.6336734693877552
+Laboratory test finding,virus attachment stage,0.6277777777777778
+Laboratory test finding,incubation end process boundary,0.6351851851851852
+Laboratory test finding,infectious structure generative stage,0.6166666666666667
+Laboratory test finding,latency end process boundary,0.6460784313725491
+Laboratory test finding,SARS-CoV-2 incidence rate,0.6166666666666667
+Laboratory test finding,B cell receptor complex,0.6021739130434782
+Laboratory test finding,SARS-CoV-2 penetration stage,0.6460784313725491
+Laboratory test finding,viral plaque assay,0.5719512195121951
+Laboratory test finding,virus uncoating stage,0.609090909090909
+Laboratory test finding,virus penetration stage,0.6239130434782608
+Laboratory test finding,serology assay,0.5851351351351352
+Laboratory test finding,virulence factor disposition,0.6460784313725491
+Laboratory test finding,latency end temporal region,0.65
+Laboratory test finding,infection incidence rate,0.598936170212766
+Laboratory test finding,SARS-CoV-2 genome replication stage,0.6224137931034482
+Laboratory test finding,primary immunodeficiency,0.6627659574468084
+Laboratory test finding,virulence factor,0.5782051282051281
+Laboratory test finding,infectious agent generative stage,0.6107142857142857
+Laboratory test finding,virus transcription stage,0.6166666666666667
+Country,cell space,0.5088235294117647
+Country,COVID-19 mortality rate,0.5833333333333334
+Country,infectious disease mortality rate,0.575
+Country,country,0.95
+Country,establishment of a clinically abnormal colony,0.5269230769230769
+Country,COVID-19 incidence rate,0.5833333333333334
+Country,spatial region,0.5452380952380953
+Country,SARS-CoV-2 incidence proportion,0.5552631578947369
+Country,infection incidence rate profile,0.5782051282051281
+Country,T cell receptor complex,0.55
+Country,incubation end temporal region,0.5851351351351352
+Country,temporal region,0.5409090909090909
+Country,communicability start temporal region,0.5863636363636363
+Country,one-dimensional temporal region,0.5552631578947369
+Country,anatomical space,0.5369565217391304
+Country,three-dimensional spatial region,0.5525641025641026
+Country,COVID-19 disease incidence proportion,0.5409090909090909
+Country,zero-dimensional temporal region,0.5525641025641026
+Country,infectious disease incidence rate,0.575
+Country,infection start temporal region,0.581578947368421
+Country,geospatial region,0.575
+Country,communicability end process boundary,0.6127906976744186
+Country,zero-dimensional spatial region,0.5552631578947369
+Country,communicability end temporal region,0.5928571428571429
+Country,simple infection,0.5804347826086956
+Country,infection end temporal region,0.5888888888888889
+Country,infection incidence proportion profile,0.5611111111111111
+Country,incubation end process boundary,0.6078947368421053
+Country,latency end process boundary,0.6214285714285714
+Country,SARS-CoV-2 incidence rate,0.575
+Country,pathogen birth temporal region,0.5581081081081081
+Country,infectious disease incidence proportion,0.558695652173913
+Country,B cell receptor complex,0.55
+Country,geographical region,0.5653846153846154
+Country,spatiotemporal region,0.5571428571428572
+Country,two-dimensional spatial region,0.5581081081081081
+Country,pathogen death temporal region,0.5581081081081081
+Country,latency end temporal region,0.5676470588235294
+Country,infection incidence rate,0.5790322580645162
+Country,infection incidence proportion,0.5581081081081081
+Country,one-dimensional spatial region,0.5581081081081081
+Nurse,T cell receptor complex,0.5214285714285714
+Nurse,incubation end temporal region,0.5642857142857143
+Nurse,lower respiratory tract disease,0.5333333333333333
+Nurse,communicability end process boundary,0.523170731707317
+Nurse,communicability end temporal region,0.525
+Nurse,infection end temporal region,0.5382352941176471
+Nurse,incubation end process boundary,0.5611111111111111
+Nurse,latency end process boundary,0.5409090909090909
+Nurse,B cell receptor complex,0.5214285714285714
+Nurse,latency end temporal region,0.54375
+Professional nurse,establishment of localization in virus host,0.6139344262295081
+Professional nurse,establishment of a clinically abnormal colony,0.6087301587301588
+Professional nurse,establishment of localization,0.598936170212766
+Professional nurse,negative regulation of establishment of localization,0.5928571428571429
+Professional nurse,T cell receptor complex,0.5719512195121951
+Professional nurse,incubation end temporal region,0.6166666666666667
+Professional nurse,lower respiratory tract disease,0.6336734693877552
+Professional nurse,establishment of localization in host,0.6136363636363636
+Professional nurse,communicability end process boundary,0.6351851851851852
+Professional nurse,communicability end temporal region,0.6009433962264151
+Professional nurse,infection end temporal region,0.6627659574468084
+Professional nurse,incubation end process boundary,0.6540816326530612
+Professional nurse,latency end process boundary,0.6673913043478261
+Professional nurse,B cell receptor complex,0.5719512195121951
+Professional nurse,establishment of localization in human host,0.6139344262295081
+Professional nurse,latency end temporal region,0.6055555555555556
+Province,case isolation control strategy,0.5782051282051281
+Province,reagent role,0.6
+Province,dead-end host role,0.5653846153846154
+Province,COVID-19 mortality rate,0.5790322580645162
+Province,infectious disease mortality rate,0.5475609756097561
+Province,establishment of a clinically abnormal colony,0.5254716981132076
+Province,biological vector role,0.5833333333333334
+Province,mutualist role,0.5863636363636363
+Province,infectious agent colony,0.5790322580645162
+Province,COVID-19 incidence rate,0.6435483870967742
+Province,parasite role,0.6404761904761905
+Province,source of infection site,0.6375
+Province,symptomatic carrier role,0.60625
+Province,spatial region,0.6318181818181818
+Province,infection incidence rate profile,0.575
+Province,source of infection,0.6351851851851852
+Province,T cell receptor complex,0.5790322580645162
+Province,incubation end temporal region,0.5552631578947369
+Province,temporal region,0.6239130434782608
+Province,communicability start temporal region,0.5388888888888889
+Province,mechanical vector role,0.55
+Province,function,0.575
+Province,one-dimensional temporal region,0.5525641025641026
+Province,three-dimensional spatial region,0.55
+Province,source of infection role,0.6375
+Province,pathogen host role,0.6038461538461539
+Province,pathogen portal of entry role,0.5851351351351352
+Province,antigen role,0.6
+Province,zero-dimensional temporal region,0.575
+Province,infectious disease incidence rate,0.5719512195121951
+Province,colony,0.5928571428571429
+Province,infection start temporal region,0.5525641025641026
+Province,pathogen vehicle role,0.656896551724138
+Province,geospatial region,0.61
+Province,lower respiratory tract disease,0.5782051282051281
+Province,primary infection role,0.65
+Province,pathogen transporter role,0.5712121212121213
+Province,symbiont host role,0.5653846153846154
+Province,communicability end process boundary,0.5636363636363636
+Province,infectious structure host role,0.5552631578947369
+Province,division of geopolitical entity,0.5782051282051281
+Province,zero-dimensional spatial region,0.5782051282051281
+Province,communicability end temporal region,0.5430232558139535
+Province,infection end temporal region,0.5581081081081081
+Province,host role,0.6264705882352941
+Province,fomite role,0.6078947368421053
+Province,biological role,0.6239130434782608
+Province,biological vehicle role,0.6112903225806451
+Province,role,0.7
+Province,pathogen portal of exit role,0.5888888888888889
+Province,incubation end process boundary,0.5782051282051281
+Province,latency end process boundary,0.5888888888888889
+Province,asymptomatic carrier role,0.6015151515151516
+Province,SARS-CoV-2 incidence rate,0.6621212121212122
+Province,symbiont role,0.5928571428571429
+Province,intermediate host role,0.55
+Province,pathogen birth temporal region,0.581578947368421
+Province,quality,0.5166666666666666
+Province,epitope role,0.65
+Province,B cell receptor complex,0.5790322580645162
+Province,geographical region,0.5981481481481481
+Province,secondary infection role,0.60625
+Province,spatiotemporal region,0.5879310344827586
+Province,commensal role,0.5863636363636363
+Province,two-dimensional spatial region,0.5552631578947369
+Province,pathogen vector role,0.6285714285714286
+Province,reservoir of pathogen role,0.5970588235294118
+Province,definitive host role,0.5571428571428572
+Province,pathogen death temporal region,0.5552631578947369
+Province,infectious agent host role,0.5676470588235294
+Province,latency end temporal region,0.5642857142857143
+Province,infection incidence rate,0.60625
+Province,action specification,0.5571428571428572
+Province,one-dimensional spatial region,0.5552631578947369
+COVID-19 Diagnosis,virus translation stage,0.6451219512195122
+COVID-19 Diagnosis,COVID-19 mortality rate,0.7182926829268292
+COVID-19 Diagnosis,COVID-19 prevalence,0.7472972972972972
+COVID-19 Diagnosis,establishment of a clinically abnormal colony,0.5452380952380953
+COVID-19 Diagnosis,COVID-19 incidence rate,0.7426829268292683
+COVID-19 Diagnosis,COVID-19 epidemic,0.7642857142857143
+COVID-19 Diagnosis,COVID-19 sporadicity,0.7657894736842106
+COVID-19 Diagnosis,COVID-19,0.7576923076923078
+COVID-19 Diagnosis,COVID-19 pandemic,0.7928571428571428
+COVID-19 Diagnosis,genetic resistance to pathogen,0.575
+COVID-19 Diagnosis,T cell receptor complex,0.5475609756097561
+COVID-19 Diagnosis,incubation end temporal region,0.5958333333333333
+COVID-19 Diagnosis,COVID-19 disease course,0.7914634146341464
+COVID-19 Diagnosis,acute infection,0.6015151515151516
+COVID-19 Diagnosis,plan specification,0.5888888888888889
+COVID-19 Diagnosis,COVID-19 disease incidence proportion,0.7227272727272727
+COVID-19 Diagnosis,COVID-19 lifetime prevalence,0.7108695652173913
+COVID-19 Diagnosis,COVID-19 incidence,0.7833333333333333
+COVID-19 Diagnosis,acute respiratory distress syndrome,0.5820754716981132
+COVID-19 Diagnosis,acute infectious disease course,0.6132653061224489
+COVID-19 Diagnosis,geospatial location,0.5851351351351352
+COVID-19 Diagnosis,communicability end process boundary,0.5981481481481481
+COVID-19 Diagnosis,COVID-19 endemicity,0.7743243243243243
+COVID-19 Diagnosis,division of geopolitical entity,0.5928571428571429
+COVID-19 Diagnosis,communicability end temporal region,0.6009433962264151
+COVID-19 Diagnosis,infection end temporal region,0.598936170212766
+COVID-19 Diagnosis,incubation end process boundary,0.5928571428571429
+COVID-19 Diagnosis,latency end process boundary,0.5804347826086956
+COVID-19 Diagnosis,place closure control strategy,0.575
+COVID-19 Diagnosis,quality,0.53
+COVID-19 Diagnosis,B cell receptor complex,0.5475609756097561
+COVID-19 Diagnosis,SARS-CoV-2 penetration stage,0.6239130434782608
+COVID-19 Diagnosis,virus penetration stage,0.5963414634146341
+COVID-19 Diagnosis,latency end temporal region,0.5833333333333334
+Vital signs,primary infectious disposition,0.5963414634146341
+Vital signs,pathogen death process boundary,0.569047619047619
+Vital signs,COVID-19 mortality rate,0.6264705882352941
+Vital signs,infectious disease mortality rate,0.5636363636363636
+Vital signs,establishment of a clinically abnormal colony,0.5571428571428572
+Vital signs,pathogen portal of entry site,0.6
+Vital signs,COVID-19 incidence rate,0.5970588235294118
+Vital signs,source of infection site,0.5928571428571429
+Vital signs,primary pathogen,0.6351851851851852
+Vital signs,infection incidence rate profile,0.5662790697674418
+Vital signs,T cell receptor complex,0.5382352941176471
+Vital signs,incubation end temporal region,0.6207317073170732
+Vital signs,blood,0.5125
+Vital signs,site of infection,0.6285714285714286
+Vital signs,primary infection,0.6285714285714286
+Vital signs,generative stage,0.5981481481481481
+Vital signs,pathogen generative stage,0.5888888888888889
+Vital signs,virus generative stage,0.6318181818181818
+Vital signs,infectious disease incidence rate,0.5863636363636363
+Vital signs,process that results in death,0.6
+Vital signs,site,0.5833333333333334
+Vital signs,epitope site,0.6673913043478261
+Vital signs,primary infection role,0.6015151515151516
+Vital signs,communicability end process boundary,0.5776595744680851
+Vital signs,communicability end temporal region,0.6021739130434782
+Vital signs,infection end temporal region,0.625
+Vital signs,incubation end process boundary,0.569047619047619
+Vital signs,respiratory system disease,0.6121621621621621
+Vital signs,pathogen portal of exit site,0.6038461538461539
+Vital signs,infectious structure generative stage,0.5958333333333333
+Vital signs,latency end process boundary,0.5525641025641026
+Vital signs,SARS-CoV-2 incidence rate,0.5611111111111111
+Vital signs,B cell receptor complex,0.5088235294117647
+Vital signs,active immunization against infectious agent,0.5954545454545455
+Vital signs,pathogen death temporal region,0.5963414634146341
+Vital signs,symptom,0.5055555555555555
+Vital signs,latency end temporal region,0.6078947368421053
+Vital signs,infection incidence rate,0.5928571428571429
+Vital signs,primary immunodeficiency,0.5928571428571429
+Vital signs,infectious agent generative stage,0.609090909090909
+SecurityGuard,establishment of a clinically abnormal colony,0.5706896551724138
+SecurityGuard,T cell receptor complex,0.5611111111111111
+Untested for COVID-19,COVID-19 mortality rate,0.6318181818181818
+Untested for COVID-19,infectious disease mortality rate,0.6166666666666667
+Untested for COVID-19,COVID-19 prevalence,0.65
+Untested for COVID-19,establishment of a clinically abnormal colony,0.6166666666666667
+Untested for COVID-19,COVID-19 incidence rate,0.6318181818181818
+Untested for COVID-19,COVID-19 epidemic,0.6605263157894737
+Untested for COVID-19,COVID-19 sporadicity,0.6451219512195122
+Untested for COVID-19,COVID-19,0.7258620689655172
+Untested for COVID-19,COVID-19 pandemic,0.6605263157894737
+Untested for COVID-19,infection incidence rate profile,0.619811320754717
+Untested for COVID-19,T cell receptor complex,0.6318181818181818
+Untested for COVID-19,COVID-19 disease course,0.6318181818181818
+Untested for COVID-19,COVID-19 disease incidence proportion,0.5879310344827586
+Untested for COVID-19,COVID-19 lifetime prevalence,0.6132653061224489
+Untested for COVID-19,COVID-19 incidence,0.6551282051282051
+Untested for COVID-19,infectious disease incidence rate,0.6166666666666667
+Untested for COVID-19,COVID-19 endemicity,0.65
+Untested for COVID-19,SARS-CoV-2 incidence rate,0.6021739130434782
+Untested for COVID-19,B cell receptor complex,0.609090909090909
+Untested for COVID-19,infection incidence rate,0.6277777777777778
+Exposure to COVID-19,COVID-19 mortality rate,0.636046511627907
+Exposure to COVID-19,drug susceptibility,0.5782051282051281
+Exposure to COVID-19,susceptibility to infectious agent,0.6166666666666667
+Exposure to COVID-19,COVID-19 prevalence,0.6551282051282051
+Exposure to COVID-19,establishment of a clinically abnormal colony,0.573076923076923
+Exposure to COVID-19,susceptibility,0.5970588235294118
+Exposure to COVID-19,drug susceptibility of infectious agent,0.5855932203389831
+Exposure to COVID-19,COVID-19 incidence rate,0.636046511627907
+Exposure to COVID-19,COVID-19 epidemic,0.6662162162162162
+Exposure to COVID-19,COVID-19 sporadicity,0.65
+Exposure to COVID-19,COVID-19,0.7357142857142857
+Exposure to COVID-19,COVID-19 pandemic,0.6662162162162162
+Exposure to COVID-19,T cell receptor complex,0.636046511627907
+Exposure to COVID-19,incubation end temporal region,0.59
+Exposure to COVID-19,COVID-19 disease course,0.636046511627907
+Exposure to COVID-19,COVID-19 disease incidence proportion,0.5903508771929825
+Exposure to COVID-19,COVID-19 lifetime prevalence,0.6166666666666667
+Exposure to COVID-19,COVID-19 incidence,0.6605263157894737
+Exposure to COVID-19,communicability end process boundary,0.5928571428571429
+Exposure to COVID-19,COVID-19 endemicity,0.6551282051282051
+Exposure to COVID-19,communicability end temporal region,0.5954545454545455
+Exposure to COVID-19,infection end temporal region,0.6132653061224489
+Exposure to COVID-19,incubation end process boundary,0.5872549019607843
+Exposure to COVID-19,latency end process boundary,0.5958333333333333
+Exposure to COVID-19,place closure control strategy,0.65
+Exposure to COVID-19,B cell receptor complex,0.636046511627907
+Exposure to COVID-19,latency end temporal region,0.598936170212766
+UnionTerritory,T cell receptor complex,0.6121621621621621
+Anniversary,single-stranded RNA retrovirus,0.5963414634146341
+Anniversary,pathogen birth process boundary,0.6404761904761905
+Anniversary,double-stranded RNA virus,0.6166666666666667
+Anniversary,negative-sense single-stranded RNA virus,0.5872549019607843
+Anniversary,establishment of a clinically abnormal colony,0.575
+Anniversary,T cell receptor complex,0.5382352941176471
+Anniversary,incubation end temporal region,0.6207317073170732
+Anniversary,positive-sense single-stranded RNA virus,0.5676470588235294
+Anniversary,communicability end process boundary,0.6202127659574468
+Anniversary,communicability end temporal region,0.5804347826086956
+Anniversary,infection end temporal region,0.6
+Anniversary,incubation end process boundary,0.6404761904761905
+Anniversary,latency end process boundary,0.6551282051282051
+Anniversary,pathogen birth temporal region,0.6207317073170732
+Anniversary,B cell receptor complex,0.5382352941176471
+Anniversary,latency end temporal region,0.6342105263157894
+InfectedViaHealthcareWork,establishment of a clinically abnormal colony,0.6071428571428572
+InfectedViaHealthcareWork,infected population,0.7
+InfectedViaHealthcareWork,T cell receptor complex,0.5958333333333333
+InfectedViaHealthcareWork,healthcare facility,0.6772727272727272
+Dedicated Covid Health Centre (DCHC),COVID-19 mortality rate,0.6533898305084747
+Dedicated Covid Health Centre (DCHC),infectious disease mortality rate,0.6384057971014493
+Dedicated Covid Health Centre (DCHC),establishment of a clinically abnormal colony,0.6104938271604938
+Dedicated Covid Health Centre (DCHC),COVID-19 incidence rate,0.6364406779661017
+Dedicated Covid Health Centre (DCHC),complex infection,0.5820754716981132
+Dedicated Covid Health Centre (DCHC),object aggregate,0.6038461538461539
+Dedicated Covid Health Centre (DCHC),object,0.5452380952380953
+Dedicated Covid Health Centre (DCHC),infection incidence rate profile,0.6411764705882353
+Dedicated Covid Health Centre (DCHC),T cell receptor complex,0.6533898305084747
+Dedicated Covid Health Centre (DCHC),immunoglobulin complex,0.553448275862069
+Dedicated Covid Health Centre (DCHC),incubation end temporal region,0.6469696969696969
+Dedicated Covid Health Centre (DCHC),infectious disease incidence rate,0.6528985507246376
+Dedicated Covid Health Centre (DCHC),communicability end process boundary,0.6305555555555555
+Dedicated Covid Health Centre (DCHC),communicability end temporal region,0.6330985915492958
+Dedicated Covid Health Centre (DCHC),infection end temporal region,0.6346153846153847
+Dedicated Covid Health Centre (DCHC),incubation end process boundary,0.6291044776119403
+Dedicated Covid Health Centre (DCHC),latency end process boundary,0.621875
+Dedicated Covid Health Centre (DCHC),SARS-CoV-2 incidence rate,0.630327868852459
+Dedicated Covid Health Centre (DCHC),B cell receptor complex,0.6364406779661017
+Dedicated Covid Health Centre (DCHC),macromolecular complex,0.5879310344827586
+Dedicated Covid Health Centre (DCHC),active immunization against infectious agent,0.6125
+Dedicated Covid Health Centre (DCHC),appearance of disorder,0.6051724137931035
+Dedicated Covid Health Centre (DCHC),latency end temporal region,0.6404761904761905
+Dedicated Covid Health Centre (DCHC),infection incidence rate,0.65
+Gathering,infectious disease course,0.5382352941176471
+Gathering,establishment of a clinically abnormal colony,0.5425925925925926
+Gathering,infectious structure aggregate,0.5525641025641026
+Gathering,coronavirus disease course,0.5357142857142857
+Gathering,viral disease course,0.553448275862069
+Gathering,object aggregate,0.61
+Gathering,T cell receptor complex,0.54375
+Gathering,COVID-19 disease course,0.54375
+Gathering,function,0.6264705882352941
+Gathering,herd immunity to infectious organism,0.5833333333333334
+Gathering,coronavirus aggregate,0.5833333333333334
+Gathering,virus aggregate,0.6166666666666667
+Gathering,acute infectious disease course,0.575
+Gathering,SARS-CoV-2 aggregate,0.5879310344827586
+Gathering,disease course,0.5804347826086956
+Gathering,viroid aggregate,0.61
+Gathering,B cell receptor complex,0.5125
+Gathering,acellular structure aggregate,0.581578947368421
+Gathering,prion aggregate,0.6166666666666667
+Gathering,chronic infectious disease course,0.5452380952380953
+Gathering,action specification,0.6224137931034482
+Gathering,long-term non-progressing infectious disease course,0.5666666666666667
